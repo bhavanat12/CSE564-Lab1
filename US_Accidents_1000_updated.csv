@@ -1,1050 +1,778 @@
 accidentId,severity,eventDate,side,city,county,state,zipcode,temperature_F,windChill_F,humidity_perc,pressure_in,visibility_mi,windDirection,windSpeed_mph,precipitation_in,weatherCondition,sunriseSunset
-A-692408,2,2021-11-19,R,Littlestown,Adams,PA,17340-9614,45,45,46,29.53,10,NNW,0,0,Cloudy,Day
-A-262632,2,2021-08-06,L,Compton,Los Angeles,CA,90221-1916,66,66,84,29.87,9,SSE,5,0,Fair,Night
-A-561573,2,2021-11-26,R,Long Beach,Los Angeles,CA,90805-1541,54,54,59,29.99,10,NW,6,0,Fair,Night
-A-936533,2,2021-03-22,R,Sacramento,Sacramento,CA,95825-2140,61,61,45,29.97,10,CALM,0,,Fair,Day
-A-64164,2,2016-10-05,R,Milwaukee,Milwaukee,WI,53220,66.9,,79,29.9,10,South,12.7,,Mostly Cloudy,Day
-A-1030930,2,2021-12-10,R,Stafford,Stafford,VA,22554,51,51,50,29.97,10,SW,7,0.03,Partly Cloudy,Day
-A-33346,2,2016-12-06,R,Suffolk,Suffolk City,VA,23434-6854,51.8,,100,29.82,5,East,10.4,,Light Drizzle,Day
-A-548772,2,2021-11-14,R,Milford,New Haven,CT,6461,48,45,61,29.9,10,WSW,7,0,Fair,Day
-A-36328,2,2016-12-14,L,Raleigh,Wake,NC,27616-4545,41,39,79,30.07,10,SSW,3.5,,Mostly Cloudy,Night
-A-579319,2,2021-06-09,R,Nashville,Davidson,TN,37209-3226,79,79,74,29.36,10,WSW,6,0,Cloudy,Day
-A-691474,2,2021-11-15,L,Miami,Miami-Dade,FL,33168-2335,73,73,64,30.13,10,NNE,9,0,Fair,Night
-A-941435,2,2021-05-26,L,Hermiston,Umatilla,OR,97838,79,79,27,29.32,10,NE,9,0,Fair,Day
-A-185184,4,2017-04-26,R,Rainier,Columbia,OR,97048,55.9,,69,29.94,10,West,11.5,0,Mostly Cloudy,Day
-A-383278,2,2021-03-05,L,Central Point,Jackson,OR,97502,48,43,77,28.54,10,NW,13,0,Light Rain,Day
-A-296025,2,2021-10-31,R,Allenwood,Monmouth,NJ,8720,57,57,100,29.34,4,NNW,3,0,Heavy Rain,Night
-A-921144,2,2021-11-20,R,Radford,Montgomery,VA,24141,37,33,62,28.22,10,SSE,5,0,Fair,Day
-A-304035,2,2021-12-29,R,Draper,Salt Lake,UT,84020,33,23,78,25.47,10,SSE,16,0,Cloudy,Night
-A-822808,2,2021-03-19,R,Woodland,Yolo,CA,95695,64,64,40,30.04,10,SW,9,0,Mostly Cloudy,Day
-A-800581,2,2021-11-24,R,Oakland Gardens,Queens,NY,11364,40,33,35,30.32,10,NW,10,0,Fair,Day
-A-817038,2,2021-12-23,R,Marina del Rey,Los Angeles,CA,90292,53,53,89,29.75,5,E,10,0.17,Light Rain,Night
-A-285218,2,2021-05-30,R,Sarasota,Sarasota,FL,34242,76,76,82,30,10,ENE,3,0.02,Fair,Day
-A-1001479,2,2021-11-29,R,Clearfield,Clearfield,PA,16830,32,26,75,28.39,10,W,6,0,Cloudy,Night
-A-188848,2,2017-05-10,L,Bethesda,Montgomery,MD,20817,55,,57,29.99,10,Calm,,,Mostly Cloudy,Night
-A-1034267,2,2021-12-17,R,Fort Mill,York,SC,29708,56,56,90,29.47,10,S,3,0,Fair,Night
-A-129687,2,2016-09-07,R,Paramount,Los Angeles,CA,90723,66.2,,88,29.91,5,West,4.6,,Overcast,Day
-A-450958,2,2021-08-06,L,New Castle,New Castle,DE,19720-3135,85,85,55,30.03,10,SSE,13,0,Fair,Day
-A-235404,2,2021-12-03,R,Anaheim,Orange,CA,92807-3126,65,65,61,29.93,5,SSW,6,0,Fair,Day
-A-718736,2,2021-05-13,R,Sacramento,Sacramento,CA,95835,53,53,77,29.93,10,SE,10,0,Fair,Day
-A-518216,2,2021-11-05,R,Saint Petersburg,Pinellas,FL,33716,65,65,97,29.88,2,NNE,14,0.32,Heavy Rain,Day
-A-399697,2,2021-04-07,R,Norfolk,Norfolk,VA,23502,74,74,38,29.96,9,S,9,0,Fair,Day
-A-271717,2,2021-07-25,R,Homestead,Miami-Dade,FL,33033,75,75,89,29.94,4,E,8,0,T-Storm,Day
-A-324602,2,2021-08-26,R,South Amboy,Middlesex,NJ,8879,75,75,76,30.09,10,CALM,0,0,Fair,Night
-A-826428,2,2021-10-29,L,Germantown,Montgomery,OH,45327-9530,59,59,95,28.76,10,N,7,0,Light Rain,Day
-A-259031,2,2021-11-19,R,Towson,Baltimore County,MD,21204,,,,,,,,,,Day
-A-529960,2,2021-08-16,R,Tucson,Pima,AZ,85757,75,75,83,27.43,10,SSE,3,,Fair,Day
-A-963969,2,2021-04-01,R,North Hollywood,Los Angeles,CA,91606-1428,81,81,7,29.1,10,ESE,5,0,Fair,Day
-A-320014,2,2021-12-28,L,Miami,Miami-Dade,FL,33147-4705,79,79,52,30.02,10,SE,9,0,Fair,Day
-A-553833,2,2021-10-24,L,Union,Union,NJ,07083-4470,61,61,46,30.14,10,W,12,0,Mostly Cloudy,Day
-A-597930,2,2021-10-18,R,Lutherville Timonium,Baltimore County,MD,21093,,,,,,,,,,Night
-A-263080,2,2021-09-26,R,Norwalk,Los Angeles,CA,90650,69,69,70,29.93,8,CALM,0,0,Cloudy,Day
-A-752739,2,2021-10-30,L,Astor,Lake,FL,32102-3003,64,64,74,29.78,10,CALM,0,0,Cloudy,Night
-A-306432,2,2021-11-19,L,La Puente,Los Angeles,CA,91746-3215,57,57,87,29.92,6,CALM,0,0,Fair,Night
-A-850503,2,2021-06-26,R,Gardnerville,Douglas,NV,89460,84,84,16,23.94,10,VAR,5,0,Fair,Day
-A-38824,3,2016-12-22,R,Saint Louis,St. Louis City,MO,63104,37,31,62,30.19,10,West,8.1,,Clear,Night
-A-468749,2,2021-03-01,L,Stanton,Orange,CA,90680-4005,54,54,48,30.02,10,CALM,0,0,Fair,Night
-A-807083,2,2021-10-20,R,Sun Valley,Los Angeles,CA,91352,75,75,33,29.21,10,SE,9,0,Fair,Day
-A-977169,2,2021-10-23,R,Miami,Miami-Dade,FL,33169,85,85,65,29.94,10,NE,14,0,Partly Cloudy,Day
-A-38970,2,2016-12-22,R,Smoaks,Colleton,SC,29481,66.2,,35,30.21,10,West,9.2,,Clear,Day
-A-385187,2,2021-12-22,L,Miami,Miami-Dade,FL,33165-5440,66,66,70,29.96,10,N,8,0,Partly Cloudy,Day
-A-254306,2,2021-06-15,R,Modesto,Stanislaus,CA,95350,60,60,60,29.96,10,N,9,0,Fair,Day
-A-1000232,2,2021-08-28,R,Kansas City,Jackson,MO,64133,77,77,82,28.94,10,S,10,0,Fair,Night
-A-58914,2,2016-11-30,R,Ellenwood,Clayton,GA,30294,68,,90,29.82,9,South,15,,Overcast,Day
-A-329109,2,2021-04-16,R,Oakdale,Stanislaus,CA,95361-9416,51,51,66,29.88,10,NNW,9,0,Fair,Night
-A-949729,2,2021-06-29,L,Charlotte,Mecklenburg,NC,28211-1129,89,89,52,29.45,10,SE,12,0,Mostly Cloudy,Day
-A-259313,2,2021-12-01,R,New Orleans,Orleans,LA,70117-4614,56,56,87,30.17,10,E,7,0,Fair,Night
-A-1027539,2,2021-10-27,R,Glen Saint Mary,Baker,FL,32040,66,66,88,29.77,10,VAR,5,0,Fair,Night
-A-246126,2,2021-12-14,R,San Jose,Santa Clara,CA,95126,51,51,61,29.85,10,NW,10,0,Partly Cloudy,Day
-A-551927,2,2021-09-23,L,Bradenton,Manatee,FL,34203,86,86,67,29.82,10,W,8,0,Fair,Day
-A-383621,2,2021-10-13,R,Tampa,Hillsborough,FL,33619,73,73,94,29.95,10,CALM,0,0,Fair,Night
-A-208603,2,2017-06-30,R,Fort Wayne,Allen,IN,46825,82.4,,62,29.9,10,SW,8.1,,Scattered Clouds,Day
-A-157168,2,2017-03-14,R,Gansevoort,Saratoga,NY,12831,23,9.2,85,29.48,0.2,North,17.3,,Light Freezing Fog,Day
-A-900072,2,2021-08-28,R,Corona,Riverside,CA,92881,80,80,52,29.21,10,WNW,6,0,Fair,Day
-A-888480,2,2021-06-03,R,Los Angeles,Los Angeles,CA,90056-1207,67,67,68,29.74,10,WSW,13,0,Fair,Day
-A-533556,2,2021-10-25,R,Hacienda Heights,Los Angeles,CA,91745-1720,59,59,81,29.82,10,CALM,0,0,Fair,Night
-A-660785,2,2021-06-11,R,Allentown,Lehigh,PA,18106,61,61,94,29.57,4,E,3,0.05,Rain,Day
-A-515211,2,2021-12-26,R,Portland,Clackamas,OR,97222,34,25,75,29.42,10,SW,13,0,Mostly Cloudy,Night
-A-496200,2,2021-06-11,R,Wichita Falls,Wichita,TX,76309-4619,93,93,54,28.72,10,S,16,0,Fair,Day
-A-811995,2,2021-06-25,R,Sebastopol,Sonoma,CA,95472-2608,79,79,47,29.77,10,S,9,0,Fair,Day
-A-456769,2,2021-05-03,R,San Bernardino,San Bernardino,CA,92408,59,59,72,28.64,7,CALM,0,0,Mostly Cloudy,Day
-A-769415,2,2021-03-29,R,Coalinga,Fresno,CA,93210,75,75,23,29.75,10,N,14,0,Fair,Day
-A-891454,2,2021-12-23,L,Spartanburg,Spartanburg,SC,29301-5749,52,52,28,29.36,10,CALM,0,0,Fair,Day
-A-405994,2,2021-12-31,R,Greenville,Greenville,SC,29607-5922,68,68,56,28.84,10,SW,3,0,Mostly Cloudy,Day
-A-179915,2,2017-05-02,R,Allentown,Lehigh,PA,18103,62.6,,94,29.62,10,Calm,,0.16,Overcast,Night
-A-603908,2,2021-06-05,R,Provo,Utah,UT,84604,67,67,51,25.43,10,SE,7,0,Fair,Day
-A-944931,2,2021-04-01,R,Jacksonville,Duval,FL,32256,61,61,41,30.11,10,NNW,21,0,Mostly Cloudy / Windy,Day
-A-666674,2,2021-03-26,R,Tucson,Pima,AZ,85745-1816,52,52,33,27.04,10,E,8,0,Fair,Night
-A-719958,2,2021-07-23,R,Santa Maria,Santa Barbara,CA,93455-5800,70,70,59,29.78,8,NNW,12,0,Fair,Day
-A-1013510,2,2021-06-28,R,Stockton,San Joaquin,CA,95206,66,66,68,29.66,10,W,8,0,Fair,Night
-A-514919,2,2021-07-07,R,New York,New York,NY,10035,89,89,57,29.83,8,VAR,5,0,Fair,Day
-A-286387,2,2021-04-09,R,Greer,Spartanburg,SC,29651,70,70,68,28.98,10,WSW,6,0,Partly Cloudy,Day
-A-858528,2,2021-03-05,R,Bonita Springs,Lee,FL,34134,55,55,77,29.96,10,N,3,0,Smoke,Night
-A-827665,2,2021-08-05,R,Sandy Hook,Fairfield,CT,6482,73,73,87,29.31,10,N,8,0,Cloudy,Day
-A-260856,2,2021-09-29,L,Green Lane,Montgomery,PA,18054-2269,68,68,43,29.44,10,NW,8,0,Partly Cloudy,Day
-A-995291,2,2021-09-18,R,Dallas,Dallas,TX,75237-3609,92,92,41,29.28,10,NNW,8,0,Fair,Day
-A-897573,2,2021-09-02,R,Dallas,Dallas,TX,75207,83,83,72,29.35,10,S,7,0,Fair,Night
-A-867021,2,2021-11-25,R,Dallas,Dallas,TX,75223,54,54,40,29.82,10,N,20,0,Fair,Day
-A-228681,2,2021-12-16,L,Whittier,Los Angeles,CA,90604-2417,54,54,51,30.07,10,CALM,0,0,Fair,Day
-A-500486,2,2021-06-06,L,San Diego,San Diego,CA,92113-1626,65,65,65,29.9,10,WSW,7,0,Cloudy,Day
-A-813985,2,2021-08-11,R,Orlando,Orange,FL,32839-3918,90,90,55,30.04,10,N,8,0,Mostly Cloudy,Day
-A-575472,2,2021-10-21,R,Richmond,Richmond City,VA,23220,67,67,54,29.9,10,SW,8,0,Fair,Day
-A-949380,2,2021-08-06,R,Stafford,Stafford,VA,22556,90,90,34,29.94,10,ESE,9,0,Fair,Day
-A-316459,2,2021-05-07,R,Chandler,Maricopa,AZ,85286,95,95,6,28.51,10,SSW,9,,Fair,Day
-A-972279,2,2021-07-17,L,Yemassee,Colleton,SC,29945-5034,,,,30.13,,,,0,,Day
-A-804235,2,2021-11-26,R,Gainesville,Alachua,FL,32608-5050,52,52,97,29.87,10,W,5,0,Fair,Night
-A-65763,2,2016-10-12,R,Charlotte,Mecklenburg,NC,28226-4402,51.1,,83,30.34,10,North,6.9,,Partly Cloudy,Day
-A-228388,2,2021-09-10,R,Calabasas,Los Angeles,CA,91302,95,95,28,29.05,10,VAR,5,0,Fair,Day
-A-564752,2,2021-10-13,R,Oakdale,Stanislaus,CA,95361-8611,70,,17,29.83,10,,,0,Fair,Day
-A-595722,2,2021-08-07,R,Orangeburg,Orangeburg,SC,29115,74,74,100,29.86,0.75,VAR,7,0.89,T-Storm,Night
-A-459877,4,2021-09-14,R,Fort Myers,Lee,FL,33912,74,74,93,29.98,10,E,7,0,Partly Cloudy,Night
-A-733235,2,2021-11-22,L,Crockett,Contra Costa,CA,94525-1566,60,60,57,30.13,10,N,8,0,Fair,Day
-A-452684,2,2021-06-02,R,Nunnelly,Hickman,TN,37137,68,68,100,29.19,10,S,9,0,Fair,Night
-A-1028397,2,2021-11-03,R,Dallas,Dallas,TX,75205,48,45,96,29.7,10,NE,7,0,Light Rain,Night
-A-139876,2,2017-02-07,R,Mount Laurel,Burlington,NJ,8054,48.9,,90,29.77,10,East,5.8,,Overcast,Day
-A-888869,2,2021-11-01,L,Greenville,Greenville,SC,29615-5749,68,68,47,29.03,10,SW,7,0,Fair,Day
-A-738666,2,2021-05-07,R,Tennyson,Warrick,IN,47637,60,60,72,29.43,10,SSW,6,0,Cloudy,Day
-A-323172,2,2021-05-28,R,Miami,Miami-Dade,FL,33184-1326,74,74,85,30.06,10,CALM,0,0,Fair,Day
-A-868890,2,2021-12-07,R,Lake Charles,Calcasieu,LA,70615,52,52,88,30.01,6,N,7,0,Cloudy,Day
-A-862388,2,2021-12-23,R,Columbia,Richland,SC,29229-8518,56,56,26,30.05,10,SE,5,0,Fair,Day
-A-182679,2,2017-04-07,R,Garden Grove,Orange,CA,92843,66.9,,59,30.04,10,Variable,5.8,,Overcast,Day
-A-494388,2,2021-10-21,R,Ridgeville,Berkeley,SC,29472,59,59,100,30.16,,CALM,0,0,Fair,Day
-A-817986,2,2021-06-19,R,Austin,Travis,TX,78724-7230,89,89,42,29.26,10,SSE,8,0,Partly Cloudy,Day
-A-508078,2,2021-11-27,R,San Diego,San Diego,CA,92103,74,74,28,30.04,10,NW,6,0,Fair,Day
-A-270803,2,2021-09-22,R,Miami,Miami-Dade,FL,33162-3605,80,80,79,29.99,10,CALM,0,0,Fair,Day
-A-241206,2,2021-11-11,R,Jamestown,Tuolumne,CA,95327-9503,48,48,100,27.99,8,CALM,0,0,Fair,Night
-A-443893,2,2021-12-14,R,Mission Viejo,Orange,CA,92691,60,60,90,29.82,3,SSW,18,0.23,Light Rain,Day
-A-358531,2,2021-10-25,R,Woodland Hills,Los Angeles,CA,91367,54,54,86,29.07,10,CALM,0,0,Fair,Night
-A-102514,3,2016-04-12,R,New Albany,Floyd,IN,47150,37,,93,30.26,10,Calm,,,Clear,Day
-A-467700,2,2021-11-19,R,San Jose,Santa Clara,CA,95116,59,59,88,29.96,8,WNW,9,,Cloudy,Night
-A-209052,4,2017-07-03,R,New Haven,Allen,IN,46774-9638,81,,62,30.07,10,WSW,5.8,,Mostly Cloudy,Day
-A-859857,2,2021-04-27,R,Glendale,Maricopa,AZ,85302-1903,75,75,27,28.66,10,SSE,5,0,Partly Cloudy,Day
-A-720645,2,2021-11-29,R,Indianapolis,Marion,IN,46224,26,26,75,29.27,10,CALM,0,0,Fair,Day
-A-620600,2,2021-10-25,L,Springfield,Fairfax County,VA,22152-1637,78,78,57,29.69,10,S,8,0,Fair,Day
-A-312605,2,2021-12-31,R,Lansing,Cook,IL,60438,43,39,100,28.98,5,E,7,0,Cloudy,Day
-A-380935,2,2021-03-02,R,Gilchrist,Klamath,OR,97737,34,27,75,26.49,10,SW,8,0,Fair,Day
-A-335275,2,2021-11-06,L,Orlando,Orange,FL,32801,54,54,86,29.86,10,NW,17,0,Cloudy,Night
-A-158191,3,2017-03-17,R,Fort Lee,Bergen,NJ,7024,33.1,23.4,50,30.28,10,West,13.8,,Clear,Day
-A-106446,2,2016-12-14,R,Hercules,Contra Costa,CA,94547,57.9,,81,29.93,10,South,6.9,,Haze,Night
-A-460419,2,2021-12-11,R,Sarasota,Sarasota,FL,34238,71,71,93,30.05,10,SE,9,0,Fair,Day
-A-668617,2,2021-11-22,R,Leesville,Lexington,SC,29070-9301,58,58,80,29.32,10,CALM,0,0,Fair,Day
-A-78181,3,2016-09-06,R,Miami,Miami-Dade,FL,33150,82,,79,30.12,10,East,12.7,0,Light Thunderstorms and Rain,Day
-A-399494,2,2021-07-02,R,Santa Barbara,Santa Barbara,CA,93105,71,71,70,29.89,10,WSW,7,0,Fair,Day
-A-35595,2,2016-12-13,R,Cherry Hill,Camden,NJ,8034,41,39,49,30.16,10,ESE,3.5,,Clear,Day
-A-825374,2,2021-12-18,R,Los Angeles,Los Angeles,CA,90061-1209,63,63,38,30.04,10,W,8,0,Fair,Day
-A-496952,2,2021-08-30,R,Austin,Travis,TX,78754-1843,,,,29.21,10,,,0,Fair,Day
-A-606281,2,2021-05-27,R,Buena Park,Orange,CA,90620,68,,61,29.98,10,,,0,Partly Cloudy,Day
-A-147241,2,2017-03-13,R,Dallas,Dallas,TX,75241,50,,93,30.13,3,NW,3.5,,Overcast,Day
-A-554812,2,2021-05-21,R,Inman,Spartanburg,SC,29349-8433,79,79,42,29.6,10,ENE,7,0,Fair,Day
-A-735187,2,2021-04-06,R,Dade City,Pasco,FL,33525-1546,54,54,100,30,10,CALM,0,0,Fair,Day
-A-823119,2,2021-10-10,R,Los Angeles,Los Angeles,CA,90065,55,55,83,29.82,10,CALM,0,0,Fair,Night
-A-837557,2,2021-12-14,R,Pittston,Luzerne,PA,18641,44,44,47,29.5,10,CALM,0,0,Fair,Night
-A-102602,2,2016-04-14,R,Cincinnati,Hamilton,OH,45241,66.9,,27,30.19,10,ENE,12.7,,Clear,Day
-A-864454,2,2021-08-05,R,Sparks,Washoe,NV,89434,67,67,34,25.56,10,CALM,0,0,Fair,Night
-A-28314,2,2016-06-22,R,Fort Worth,Tarrant,TX,76106,97,,40,29.91,10,South,17.3,,Partly Cloudy,Day
-A-1020110,2,2021-05-25,R,Bakersfield,Kern,CA,93307,83,83,22,29.43,9,VAR,5,0,Fair,Day
-A-974497,2,2021-12-27,R,San Marcos,San Diego,CA,92078,45,45,86,29.72,10,E,3,0,Fair,Day
-A-675329,2,2021-10-22,L,Austin,Williamson,TX,78729-7912,83,83,49,29.25,10,SE,6,0,Fair,Day
-A-386329,2,2021-12-26,R,Pebble Beach,Monterey,CA,93953,49,45,64,29.77,10,W,9,0,Mostly Cloudy,Night
-A-138731,3,2017-02-02,L,Bronx,Bronx,NY,10451-2108,39.9,31.8,49,30.1,10,NW,15,,Mostly Cloudy,Night
-A-596341,2,2021-03-26,R,Gastonia,Gaston,NC,28052,79,79,61,29.16,10,SW,8,0,Partly Cloudy,Day
-A-342398,2,2021-04-15,R,Dallas,Dallas,TX,75209-6222,59,59,81,29.51,10,ENE,8,0,Mostly Cloudy,Night
-A-531668,2,2021-07-23,R,Orlando,Orange,FL,32837,91,91,63,29.95,10,WSW,9,0,Mostly Cloudy,Day
-A-564951,4,2021-10-06,R,Marcellus,Onondaga,NY,13108,69,69,75,29.85,10,NNE,5,0,Partly Cloudy,Day
-A-501910,2,2021-08-02,R,Freeport,Brazoria,TX,77541,75,75,94,29.97,9,CALM,0,0,Fair,Night
-A-340273,2,2021-12-17,R,Davis,Yolo,CA,95618,50,50,66,30.19,10,NE,3,0,Fair,Day
-A-455169,2,2021-12-22,R,Federal Way,King,WA,98003,46,42,89,29.08,5,S,8,0.09,Light Rain,Day
-A-899796,2,2021-06-20,R,Eagle Point,Jackson,OR,97524-9790,74,74,43,28.5,10,WSW,5,0,Fair,Night
-A-581935,2,2021-07-27,R,Miami,Miami-Dade,FL,33157-5523,81,81,77,29.99,10,S,10,0,Light Rain with Thunder,Day
-A-942363,2,2021-03-15,R,Brandywine,Prince George's,MD,20613-8083,32,23,35,30.03,10,N,13,0,Fair,Night
-A-800568,2,2021-12-21,R,Richmond,Richmond City,VA,23221-2914,37,33,76,29.79,2,NE,5,0,Light Rain,Day
-A-1008355,2,2021-08-28,R,Saint Paul,Ramsey,MN,55110,72,72,94,28.94,10,SE,7,0,Mostly Cloudy,Day
-A-320965,2,2021-11-14,R,Nashville,Davidson,TN,37209-2626,54,54,40,29.33,10,SSW,13,0,Partly Cloudy,Day
-A-747805,2,2021-12-18,R,Blue Earth,Faribault,MN,56013,17,2,88,29.02,10,NNW,15,0,Cloudy,Night
-A-462407,2,2021-11-24,R,Boca Raton,Palm Beach,FL,33431,72,72,57,30.19,10,NE,13,0,Cloudy,Night
-A-116177,2,2016-11-16,R,Los Angeles,Los Angeles,CA,90037,66,,68,29.83,10,West,3.5,,Clear,Day
-A-827710,2,2021-12-09,R,Northfield,Litchfield,CT,6778,32,32,66,29.4,10,CALM,0,0,Cloudy,Day
-A-596268,2,2021-10-11,R,Edgewood,Harford,MD,21040,63,63,86,29.99,10,NNE,8,0,Cloudy,Day
-A-313478,2,2021-11-10,L,Saint Paul,Ramsey,MN,55112,48,44,54,28.83,10,E,10,0,Drizzle,Day
-A-833036,2,2021-04-22,R,Alamo,Contra Costa,CA,94507-2447,59,59,62,29.89,10,VAR,7,0,Fair,Day
-A-203650,4,2017-06-11,R,Rahway,Union,NJ,7065,91.4,,28,30,10,West,12.7,,Clear,Day
-A-947467,2,2021-04-15,L,Somis,Ventura,CA,93066-9552,63,63,58,29.9,9,W,13,0,Fair,Day
-A-530708,2,2021-10-09,R,Los Angeles,Los Angeles,CA,90007-4364,64,64,70,29.8,10,CALM,0,0,Fair,Night
-A-925679,2,2021-12-05,R,Staten Island,Richmond,NY,10305,47,44,42,30.32,10,SE,7,0,Mostly Cloudy,Night
-A-986234,2,2021-07-23,R,Atascadero,San Luis Obispo,CA,93422,87,87,24,,10,SSW,20,0,Fair,Day
-A-95493,2,2016-07-01,R,Magna,Salt Lake,UT,84044,70.7,,52,30.1,10,Calm,,,Clear,Day
-A-336235,2,2021-11-16,L,Riverside,Riverside,CA,92504-6322,61,61,70,29.08,10,W,7,0,Fair,Night
-A-251682,2,2021-11-02,R,Bradenton,Manatee,FL,34203,81,81,62,29.99,10,NW,12,0,Fair,Day
-A-401758,2,2021-08-30,R,Houston,Harris,TX,77036-2612,90,90,52,29.78,10,NNW,8,0,Fair,Day
-A-706063,2,2021-07-09,L,Roanoke,Roanoke County,VA,24014-6174,79,79,72,28.74,10,CALM,0,0,Partly Cloudy,Day
-A-735297,2,2021-07-07,R,Camp Pendleton,San Diego,CA,92055,71,71,66,29.72,10,SW,7,0,Fair,Day
-A-810154,2,2021-11-17,R,Garland,Dallas,TX,75043,63,63,100,29.44,10,SSE,10,0,Cloudy,Day
-A-24748,3,2016-08-05,R,Dallas,Dallas,TX,75204-3101,98.1,,36,29.9,10,SE,10.4,,Scattered Clouds,Day
-A-600084,2,2021-06-18,R,South El Monte,Los Angeles,CA,91733,66,66,78,29.69,10,VAR,5,0,Mostly Cloudy,Night
-A-562033,2,2021-06-15,R,Flint,Genesee,MI,48507,72,72,44,29.21,10,NNW,12,0,Fair,Day
-A-702731,2,2021-08-22,R,Liberty,Pickens,SC,29657,73,73,95,28.86,10,CALM,0,0,Mostly Cloudy,Night
-A-861755,4,2021-09-06,R,Bristol,Sullivan,TN,37620-9489,77,77,33,27.82,10,NE,3,0,Fair,Day
-A-679060,2,2021-07-10,L,Baton Rouge,East Baton Rouge,LA,70810-4666,83,83,69,29.95,10,S,9,0,Fair,Night
-A-1002995,2,2021-04-28,R,Grand Rapids,Kent,MI,49504,60,60,75,28.82,10,W,15,0,Cloudy,Night
-A-971293,2,2021-04-07,R,Defuniak Springs,Walton,FL,32435-5418,62,62,93,29.9,9,CALM,0,0,Partly Cloudy,Day
-A-797064,2,2021-08-29,R,Sparta,Kent,MI,49345,89,89,52,28.99,10,SSW,18,0,Mostly Cloudy,Day
-A-599707,2,2021-04-14,R,Tehachapi,Kern,CA,93561,52,52,38,25.82,9,NW,28,0,Fair / Windy,Day
-A-615636,2,2021-06-02,L,Darlington,Darlington,SC,29540-9216,72,72,97,29.9,10,SSE,5,0.16,Light Rain,Day
-A-506204,2,2021-11-19,R,North Augusta,Aiken,SC,29841,64,64,21,29.87,10,NNE,9,0,Fair,Day
-A-1039995,2,2021-06-17,R,Orlando,Orange,FL,32805,88,88,51,29.88,10,SSE,6,0,Fair,Day
-A-811526,2,2021-09-22,R,Houston,Harris,TX,77019-6319,84,84,25,30.04,10,N,10,0,Partly Cloudy,Day
-A-804591,2,2021-07-27,L,Sherman Oaks,Los Angeles,CA,91403-2404,90,90,37,29.11,10,SE,7,0,Fair,Day
-A-879611,2,2021-12-09,L,Dayton,Webster,IA,50530-7564,34,25,87,28.32,10,SE,13,0,Fair,
-A-843792,2,2021-07-19,R,San Antonio,Bexar,TX,78227,76,76,91,29.25,10,CALM,0,0,Fair,Night
-A-526227,2,2021-08-01,R,Federal Way,King,WA,98003,67,67,68,29.63,10,VAR,7,0,Mostly Cloudy,Day
-A-682250,2,2021-12-29,R,Sidman,Cambria,PA,15955-3515,45,45,93,27.49,6,CALM,0,0,Cloudy,Night
-A-55738,2,2016-11-18,L,Des Plaines,Cook,IL,60018,60.1,,80,29.75,6,South,20.7,0.03,Light Rain,Day
-A-143101,2,2017-02-02,R,South El Monte,Los Angeles,CA,91733,55.4,,67,30.18,7,Calm,,,Mostly Cloudy,Day
-A-111410,2,2017-01-17,R,Long Beach,Los Angeles,CA,90802-4413,57,,81,30.12,9,WNW,6.9,,Clear,Night
-A-655707,2,2021-08-07,R,Oroville,Butte,CA,95965-3256,86,86,38,29.58,4,SE,7,0,Haze,Day
-A-98540,3,2016-04-26,R,New Haven,New Haven,CT,6511,48.9,,86,29.78,7,East,8.1,0.02,Light Rain,Day
-A-566704,2,2021-12-12,R,Quinton,New Kent,VA,23141,47,40,50,29.88,10,NNW,17,0,Cloudy,Night
-A-640561,4,2021-12-17,R,Stewartstown,York,PA,17363-7619,54,54,34,29.68,10,WNW,7,0,Fair,Day
-A-836104,2,2021-10-20,R,Seattle,King,WA,98108,52,52,97,29.69,10,SSE,10,0.02,Light Rain,Day
-A-692571,2,2021-10-26,R,Miami,Miami-Dade,FL,33155-3334,88,88,67,29.82,10,W,8,0,Partly Cloudy,Day
-A-48392,2,2016-10-23,R,Fairfield,Fairfield,CT,6824,61,,31,29.75,10,West,17.3,,Clear,Day
-A-360309,2,2021-11-09,R,Southfield,Oakland,MI,48076,55,55,74,29.35,10,N,8,0,Rain,Day
-A-750876,2,2021-09-19,R,Madison,Limestone,AL,35756,73,73,96,29.32,4,ESE,7,0.29,Light Rain,Day
-A-229617,2,2021-10-11,R,Nashville,Davidson,TN,37211-6525,83,83,44,29.2,10,S,20,0,Partly Cloudy,Day
-A-174352,2,2017-04-08,R,High Springs,Alachua,FL,32643,73,,18,30.09,10,NNW,13.8,,Clear,Day
-A-273774,2,2021-07-04,R,Minneapolis,Hennepin,MN,55429,94,94,37,28.82,10,SSW,12,0,Fair,Day
-A-3256,2,2016-05-12,R,Stockton,San Joaquin,CA,95206,61,,72,30,10,NNW,6.9,,Clear,Day
-A-129763,2,2016-09-07,R,Crockett,Contra Costa,CA,94525,86,,26,29.89,10,NNE,4.6,,Clear,Day
-A-446395,2,2021-12-09,R,Bessemer,Jefferson,AL,35022,59,59,67,29.41,10,E,3,0,Cloudy,Night
-A-7693,2,2016-05-03,R,San Diego,San Diego,CA,92115,70,,57,29.91,10,WSW,10.4,,Clear,Day
-A-883132,2,2021-11-06,R,Wasco,Sherman,OR,97065,51,51,61,29.77,10,NW,21,0,Cloudy / Windy,Day
-A-30972,2,2016-07-25,L,Dallas,Dallas,TX,75214,84,,69,29.96,10,Calm,,,Mostly Cloudy,Day
-A-393264,2,2021-10-29,L,Los Angeles,Los Angeles,CA,90018-1452,76,76,40,29.66,10,W,5,0,Fair,Day
-A-809842,2,2021-12-02,R,San Diego,San Diego,CA,92115-2334,65,65,63,29.65,10,W,6,0,Fair,Day
-A-1009974,2,2021-11-23,R,Joppa,Harford,MD,21085,30,23,75,30.09,10,W,8,0,Fair,Day
-A-548603,2,2021-04-22,R,Tioga,Tioga,PA,16946,30,21,64,28.81,10,W,10,0,Cloudy,Night
-A-1039423,2,2021-12-15,R,San Luis Obispo,San Luis Obispo,CA,93405,35,35,92,29.99,10,CALM,0,0,Fair,Night
-A-935448,2,2021-12-16,R,Goleta,Santa Barbara,CA,93117-1825,54,54,97,29.99,10,W,7,0,Mostly Cloudy,Night
-A-252452,2,2021-11-17,R,Newhall,Los Angeles,CA,91321,56,56,84,29.13,4,CALM,0,0,Haze,Night
-A-735802,2,2021-03-04,R,Syracuse,Onondaga,NY,13203,27,17,69,29.51,9,NNW,12,0,Light Snow,Day
-A-486801,2,2021-09-14,L,Selma,Fresno,CA,93662-9534,68,68,52,29.47,10,CALM,0,0,Fair,Night
-A-314352,2,2021-10-10,R,Buena Park,Orange,CA,90621,67,67,63,29.79,10,CALM,0,0,Fair,Night
-A-72760,2,2016-08-17,R,East Saint Louis,St. Clair,IL,62201,82,,67,30.11,10,South,5.8,,Clear,Day
-A-1003857,2,2021-12-05,R,West Valley City,Salt Lake,UT,84120,36,30,73,25.78,10,SE,7,0,Fair,Night
-A-945122,2,2021-08-21,R,Ruther Glen,Caroline,VA,22546,82,82,65,29.7,10,VAR,5,0,Fair,Day
-A-508801,2,2021-12-19,R,Riverside,Riverside,CA,92501,68,68,16,29.2,10,W,5,0,Fair,Day
-A-527162,4,2021-08-19,L,Stormville,Dutchess,NY,12582-5046,80,80,79,29.66,10,SSW,6,0,Cloudy,Day
-A-346774,2,2021-12-10,R,Somers,Westchester,NY,10589-3205,48,48,54,29.64,10,CALM,0,0,Cloudy,Day
-A-976393,2,2021-07-09,R,Ann Arbor,Washtenaw,MI,48108,61,61,83,29.12,7,N,8,0,Cloudy,Day
-A-888018,2,2021-06-18,R,Philadelphia,Philadelphia,PA,19107,78,78,42,30.02,10,SW,13,0,Partly Cloudy,Day
-A-310678,2,2021-03-11,R,Dublin,Alameda,CA,94568,46,46,76,29.68,10,CALM,0,0,Fair,Night
-A-17058,4,2017-01-24,R,Le Mars,Plymouth,IA,51031-8502,32,23,93,29.71,0.8,ENE,11.5,0.01,Light Snow,Day
-A-780893,2,2021-07-08,R,Stevensville,Queen Anne's,MD,21666,79,79,72,29.92,10,SW,6,0,Fair,Night
-A-770328,2,2021-03-22,R,Ormond Beach,Volusia,FL,32174,63,63,82,29.95,5,N,16,,Cloudy,Day
-A-995193,2,2021-06-28,R,Deland,Volusia,FL,32724,85,85,65,30.06,10,E,7,0,Partly Cloudy,Day
-A-604421,2,2021-12-21,R,Sturgeon Lake,Pine,MN,55783,10,10,79,28.6,0.5,CALM,0,0.02,Snow,Day
-A-117185,2,2016-11-22,R,Elk Grove,Sacramento,CA,95757,54,,83,30.15,10,Calm,,,Clear,Day
-A-479160,2,2021-08-04,R,Birmingham,Jefferson,AL,35209,73,73,81,29.38,10,NE,5,0,Fair,Night
-A-982058,2,2021-08-25,L,Hialeah,Miami-Dade,FL,33016,85,85,59,29.94,10,ENE,15,0,Mostly Cloudy,Day
-A-201043,2,2017-07-06,R,Dallas,Dallas,TX,75234,80.6,,74,30.13,13,Calm,,,Mostly Cloudy,Day
-A-836974,2,2021-07-17,R,Nashville,Davidson,TN,37203,83,83,67,29.42,10,S,13,0,Mostly Cloudy,Day
-A-64727,2,2016-10-07,R,Tucker,DeKalb,GA,30084,66.9,,79,30.04,10,North,,,Overcast,Day
-A-975562,2,2021-09-19,L,Klamath Falls,Klamath,OR,97603-5039,38,38,89,25.79,10,ESE,3,0,Fair,Night
-A-582589,2,2021-04-19,L,Rome,Oneida,NY,13440-8081,59,59,36,29.27,10,N,9,0,Cloudy,Day
-A-851193,2,2021-08-16,R,San Antonio,Bexar,TX,78249,91,91,50,28.99,10,SE,12,0,Mostly Cloudy,Day
-A-327556,2,2021-06-10,L,Miami,Miami-Dade,FL,33173,87,87,61,30.07,10,SE,8,0,Fair,Day
-A-215539,3,2017-07-19,R,Dallas,Collin,TX,75287,93.2,,46,30.13,10,South,6.9,,Clear,Day
-A-37638,2,2016-12-19,R,Saint Johns,St. Johns,FL,32259,66,,100,30.28,0.5,NE,5.8,,Fog,Night
-A-305228,2,2021-08-10,R,Oroville,Butte,CA,95966-5561,96,96,26,29.66,10,WNW,6,0,Fair,Day
-A-377799,2,2021-06-18,L,Paramount,Los Angeles,CA,90723-5416,65,65,84,29.77,8,S,3,0,Cloudy,Day
-A-740717,2,2021-12-17,R,Cowpens,Cherokee,SC,29330-9678,57,57,94,29.33,3,CALM,0,0,Cloudy,Night
-A-404584,2,2021-12-06,R,Raleigh,Wake,NC,27610,67,67,61,29.44,10,SSW,15,0,Cloudy,Day
-A-976017,2,2021-11-04,R,Hayward,Alameda,CA,94544,63,63,75,30.15,10,W,8,0,Mostly Cloudy,Day
-A-109543,2,2017-01-08,R,Coeur D Alene,Kootenai,ID,83814,19.4,3.2,86,30.09,9,NNE,20.7,,Overcast,Day
-A-280563,2,2021-12-13,L,Osteen,Volusia,FL,32764-9546,73,73,79,30.22,10,NNE,6,0,Fair,Day
-A-115081,4,2016-11-09,R,Boardman,Morrow,OR,97818,39.9,,97,30.16,2.5,Calm,,,Clear,Night
-A-558122,2,2021-11-12,R,Orangeburg,Orangeburg,SC,29115,74,74,23,29.81,10,W,13,0,Fair,Day
-A-759186,2,2021-12-12,R,Palm Beach Gardens,Palm Beach,FL,33410,77,77,76,30.17,10,NE,6,0,Fair,Night
-A-571243,2,2021-08-19,R,Hixson,Hamilton,TN,37343-3008,77,77,88,29.36,8,CALM,0,0.02,Mostly Cloudy,Day
-A-366866,2,2021-10-09,R,San Diego,San Diego,CA,92123-3530,60,60,83,29.63,10,CALM,0,0,Fair,Night
-A-981348,2,2021-11-12,R,Benton,Saline,AR,72015,57,57,51,29.79,10,W,14,0,Mostly Cloudy,Day
-A-392860,2,2021-12-17,R,Columbia,Richland,SC,29229-4385,71,71,75,29.99,10,SW,6,0,Mostly Cloudy,Day
-A-302142,2,2021-09-03,R,Park City,Summit,UT,84060,,,,,,,,,,Night
-A-933577,2,2021-12-20,R,Frenchtown,Missoula,MT,59834,28,17,72,26.63,10,ESE,13,0,Cloudy,Day
-A-567487,2,2021-07-06,R,Berwyn,Chester,PA,19312,88,88,66,29.26,10,VAR,6,0,Fair,Day
-A-752916,2,2021-12-10,R,Richmond,Richmond City,VA,23221-3502,50,50,68,29.94,10,S,5,0,Cloudy,Day
-A-394021,2,2021-08-03,L,Chattanooga,Hamilton,TN,37412-1247,87,87,37,29.23,10,NNW,8,0,Partly Cloudy,Day
-A-812099,2,2021-09-09,R,Dallas,Dallas,TX,75202-4809,91,91,23,29.54,10,ESE,8,0,Fair,Day
-A-327456,2,2021-12-02,R,Taylors,Greenville,SC,29687,68,68,39,28.94,10,S,7,0,Fair,Day
-A-715808,2,2021-12-24,L,La Pine,Deschutes,OR,97739,32,24,69,25.86,10,SW,10,0,Fair,Day
-A-340448,2,2021-12-03,R,New Haven,New Haven,CT,6511,36,32,57,30.07,10,NW,5,0,Mostly Cloudy,Night
-A-499689,2,2021-04-15,R,Laguna Hills,Orange,CA,92653,53,53,69,29.94,10,ENE,3,0,Mostly Cloudy,Day
-A-5478,2,2016-03-25,R,Riverside,Riverside,CA,92521,79,,20,29.74,10,West,13.8,,Clear,Day
-A-1022941,2,2021-09-24,R,Raleigh,Wake,NC,27616-3144,74,74,40,29.64,10,VAR,3,0,Fair,Day
-A-109148,2,2017-01-05,R,Fresno,Fresno,CA,93706,50,,93,29.96,10,WNW,6.9,,Overcast,Day
-A-702646,2,2021-12-24,L,Hialeah,Miami-Dade,FL,33016-2418,65,65,81,30.19,10,NW,7,0,Fair,Day
-A-218872,2,2017-07-18,R,Oak Brook,DuPage,IL,60523,71.1,,75,30.04,9,Calm,,,Scattered Clouds,Day
-A-195874,3,2017-05-12,R,Diamond Bar,Los Angeles,CA,91765,73.4,,50,29.93,10,West,10.4,,Clear,Day
-A-482162,2,2021-05-07,R,Miami,Miami-Dade,FL,33185-5600,88,88,55,30.01,10,W,8,0,Partly Cloudy,Day
-A-1024072,2,2021-12-30,R,McKinney,Collin,TX,75070,44,44,89,29.29,10,CALM,0,0,Fair,Day
-A-782365,2,2021-09-09,R,Emeryville,Alameda,CA,94608,63,63,75,29.83,10,WNW,10,0,Mostly Cloudy,Day
-A-302537,2,2021-12-29,R,Aitkin,Aitkin,MN,56431,1,1,61,28.7,,CALM,0,0,,Day
-A-221942,3,2017-07-11,R,West Valley City,Salt Lake,UT,84119,89.1,,38,29.98,10,Calm,,,Clear,Day
-A-47844,3,2016-10-21,R,Duncan,Spartanburg,SC,29334,70,,68,29.83,10,SSW,8.1,,Partly Cloudy,Night
-A-163107,2,2017-03-13,R,El Paso,El Paso,TX,79903,53.1,,37,30.03,10,East,11.5,,Partly Cloudy,Day
-A-1021740,2,2021-12-29,R,Escondido,San Diego,CA,92029,52,52,93,29.53,4,SSE,8,0,Light Rain,Day
-A-918743,2,2021-10-26,R,Winchester,Riverside,CA,92596,50,50,100,28.64,0,CALM,0,0,Fog,Day
-A-29319,3,2016-07-05,R,Denver,Denver,CO,80223,80.1,,28,30.1,10,WNW,21.9,0,Light Thunderstorms and Rain,Day
-A-848401,2,2021-12-06,R,Miami,Miami-Dade,FL,33184-3102,81,81,77,30.08,10,SSE,12,0.03,Cloudy,Day
-A-930849,2,2021-05-28,R,Nashville,Davidson,TN,37201,76,76,76,29.21,10,SW,10,0,Mostly Cloudy,Day
-A-452770,2,2021-08-31,L,Hacienda Heights,Los Angeles,CA,91745-6768,76,76,60,29.66,10,SSW,9,0,Fair,Day
-A-866028,2,2021-09-10,L,Kissimmee,Osceola,FL,34743,91,91,50,29.9,10,SW,5,0,Partly Cloudy,Day
-A-821100,2,2021-12-11,R,Westlake Village,Ventura,CA,91361,63,63,19,30.15,10,E,13,0,Fair,Day
-A-66638,2,2016-10-14,L,Clifton Park,Saratoga,NY,12065,57.2,,36,30.36,15,ESE,4.6,,Clear,Day
-A-774291,2,2021-12-28,R,Fort Lauderdale,Broward,FL,33309,80,80,56,30.03,10,SSE,9,0,Partly Cloudy,Day
-A-935839,2,2021-09-09,R,Katonah,Westchester,NY,10536,68,68,93,29.33,5,CALM,0,0.01,Light Rain,Day
-A-701049,2,2021-05-04,R,Buffalo,Erie,NY,14228-2701,47,45,93,28.89,0.5,SW,5,0,Fog,Night
-A-384703,2,2021-10-09,R,San Marcos,San Diego,CA,92078,66,66,68,29.65,10,W,5,0,Fair,Day
-A-305272,2,2021-07-29,R,Chattanooga,Hamilton,TN,37406,93,93,47,29.26,10,W,7,0,Fair,Day
-A-851770,2,2021-07-01,R,Downey,Los Angeles,CA,90242,84,84,46,29.81,9,WNW,12,0,Fair,Day
-A-923441,2,2021-10-14,L,Chula Vista,San Diego,CA,91910-2926,60,60,47,29.99,8,E,7,0,Fair,Day
-A-95936,3,2016-07-19,R,Phoenix,Maricopa,AZ,85021,95,,30,29.94,10,Calm,,,Clear,Day
-A-389126,2,2021-10-18,R,Charlotte,Mecklenburg,NC,28213-5768,43,40,81,29.41,10,WNW,5,0,Fair,Night
-A-613420,2,2021-12-20,R,Fort Lauderdale,Broward,FL,33309,77,77,82,29.92,10,E,8,0,Fair,Day
-A-879247,2,2021-12-31,R,Cascade Locks,Hood River,OR,97014,33,22,70,29.96,10,E,18,0,Cloudy,Day
-A-139660,2,2017-02-07,R,Melbourne,Brevard,FL,32940,63.1,,99,30.12,10,Calm,,,Clear,Day
-A-626444,2,2021-06-04,R,Nashville,Davidson,TN,37217,84,84,37,29.39,10,CALM,0,0,Mostly Cloudy,Day
-A-1025555,2,2021-06-07,R,Jacksonville,Duval,FL,32246,85,85,72,30.13,10,S,8,0,Mostly Cloudy,Day
-A-788145,2,2021-04-20,R,Miami,Miami-Dade,FL,33179,80,80,79,29.98,10,SSW,14,0,Partly Cloudy,Day
-A-993032,2,2021-12-23,R,Orlando,Orange,FL,32808-7703,68,68,52,30.03,10,NNW,3,0,Fair,Day
-A-753081,2,2021-06-09,R,Huntington,Baker,OR,97907,67,67,32,27.54,6,NW,30,0,Haze / Windy,Night
-A-892932,2,2021-07-24,R,Los Angeles,Los Angeles,CA,90007,68,68,78,29.79,10,CALM,0,0,Partly Cloudy,Night
-A-884868,2,2021-06-12,R,Lansdale,Montgomery,PA,19446-5803,71,,70,29.55,10,,,0,Cloudy,Day
-A-791108,2,2021-12-09,R,Visalia,Tulare,CA,93277,50,50,94,29.67,10,NW,9,0.01,Light Rain,Day
-A-263804,2,2021-12-05,R,Greenville,Greenville,SC,29605-4932,57,57,63,29.13,10,E,7,0,Cloudy,Day
-A-61659,2,2016-09-26,L,Miami,Miami-Dade,FL,33143-7919,81,,82,29.93,10,Calm,,0,Mostly Cloudy,Day
-A-412969,2,2021-06-19,R,Mira Loma,Riverside,CA,91752,82,82,45,28.93,10,VAR,6,0,Fair,Day
-A-19951,2,2016-11-18,R,Houston,Harris,TX,77075,78.1,,71,30.09,10,South,10.4,,Overcast,Day
-A-35154,3,2016-12-12,R,Memphis,Shelby,TN,38119,,,,30.12,10,NNE,11.5,,Overcast,Day
-A-765936,2,2021-06-30,L,Vista,San Diego,CA,92081,66,66,81,29.54,10,WSW,8,0,Cloudy,Day
-A-422681,2,2021-04-04,R,Cowpens,Cherokee,SC,29330,64,64,22,29.41,10,CALM,0,0,Fair,Day
-A-176474,2,2017-04-18,R,Saint Louis,St. Louis County,MO,63136,57.9,,75,30.12,10,ESE,5.8,,Mostly Cloudy,Day
-A-769416,4,2021-10-09,R,Jennings,Hamilton,FL,32053,71,71,96,29.75,10,NNE,5,0,Mostly Cloudy,Night
-A-491073,2,2021-06-23,R,Telford,Montgomery,PA,18969,68,68,52,29.69,10,CALM,0,0,Fair,Day
-A-755627,2,2021-08-27,L,Pflugerville,Travis,TX,78660,,,,29.24,10,,,0,Fair,Day
-A-21909,2,2016-09-26,R,Minneapolis,Hennepin,MN,55403,64.9,,32,29.89,10,WNW,21.9,,Partly Cloudy,Day
-A-627752,2,2021-07-23,R,Los Angeles,Los Angeles,CA,90002-2624,76,76,62,29.94,10,W,10,0,Fair,Day
-A-330201,2,2021-12-27,R,Chattanooga,Hamilton,TN,37411,68,68,68,29.22,10,SSW,12,0,Cloudy,Day
-A-17947,2,2016-10-27,L,Dallas,Dallas,TX,75218-1533,69.1,,73,30.14,10,SE,5.8,,Mostly Cloudy,Night
-A-627819,2,2021-08-13,L,Bayville,Ocean,NJ,08721-1705,,,,,,,,,,Day
-A-216019,4,2017-07-26,L,Fieldon,Jersey,IL,62031,91.9,,59,29.99,10,NW,6.9,,Clear,Day
-A-926883,2,2021-12-28,R,Chico,Butte,CA,95928,39,35,93,29.63,10,VAR,6,0,Light Rain,Day
-A-204838,4,2017-06-15,R,Waterbury,Washington,VT,05676-4429,64,,45,30.12,10,Calm,,,Clear,Day
-A-196696,2,2017-05-18,L,Oak View,Ventura,CA,93022-9642,66,,65,29.92,10,WSW,9.2,,Clear,Day
-A-27432,2,2016-09-02,R,Houston,Harris,TX,77003,93.2,,46,29.88,10,West,12.7,,Partly Cloudy,Day
-A-111614,2,2017-01-19,R,San Diego,San Diego,CA,92117,54,,80,30.05,10,Calm,,,Overcast,Night
-A-363094,2,2021-10-10,R,Riverside,Riverside,CA,92507,51,51,83,29.16,10,VAR,3,0,Fair,Night
-A-632870,2,2021-08-19,R,Newport News,Newport News,VA,23607,80,80,100,30.08,10,SSW,12,0,Fair,Night
-A-256508,2,2021-12-23,R,Madera,Madera,CA,93636-8839,54,54,97,29.44,1,ENE,5,0.08,Heavy Rain,Day
-A-660774,2,2021-12-04,R,Shreveport,Caddo,LA,71103-2349,69,69,90,29.91,10,E,6,0,Cloudy,Day
-A-730149,2,2021-11-08,R,Los Angeles,Los Angeles,CA,90039,69,69,57,29.82,10,VAR,6,0,Fair,Day
-A-137587,2,2017-01-30,L,Kearny,Hudson,NJ,07032-4529,34,28,40,29.8,10,North,6.9,,Mostly Cloudy,Day
-A-636561,2,2021-11-18,L,Bonita Springs,Lee,FL,34134-7051,74,74,87,30.1,10,ESE,6,0,Cloudy,Day
-A-488341,2,2021-10-10,R,Washington,District of Columbia,DC,20002,67,67,84,30.06,10,NNE,9,0,Cloudy,Night
-A-436065,2,2021-08-11,R,Watervliet,Albany,NY,12189,71,71,93,29.65,10,SSE,12,0,Partly Cloudy,Night
-A-754224,2,2021-12-03,R,Chattanooga,Hamilton,TN,37404-3715,61,61,62,29.39,10,CALM,0,0,Fair,Day
-A-1033269,2,2021-10-29,R,Doswell,Hanover,VA,23047,63,63,94,29.3,1,SSW,9,0.21,Heavy Rain,Day
-A-841236,2,2021-03-22,R,Gustine,Merced,CA,95322,64,64,40,29.86,10,CALM,0,0,Fair,Day
-A-620719,2,2021-06-07,L,Felton,Santa Cruz,CA,95018-9112,58,58,51,29.77,10,NW,7,0,Fair,Day
-A-150024,2,2017-02-17,R,Fort Lauderdale,Broward,FL,33314,73.9,,53,30.06,10,SE,8.1,,Clear,Day
-A-1024118,2,2021-05-18,L,Dayton,Montgomery,OH,45406-1711,76,76,45,29.16,10,SE,6,0,Mostly Cloudy,Day
-A-881040,2,2021-08-14,R,Williamsburg,York,VA,23185,91,91,66,30.07,10,S,5,0,,Day
-A-836929,2,2021-08-23,R,Lenhartsville,Berks,PA,19534,86,86,63,29.43,10,WNW,13,0,Partly Cloudy,Day
-A-718487,2,2021-12-24,R,Jordan Valley,Malheur,OR,97910,32,26,100,26.9,10,SE,7,0,Cloudy,Night
-A-579747,2,2021-10-22,L,Los Gatos,Santa Cruz,CA,95033-9021,58,58,90,29.99,9,CALM,0,0.01,Cloudy,Day
-A-463538,2,2021-12-20,L,Miami,Miami-Dade,FL,33155-2334,78,78,76,30.02,10,VAR,3,0,Fair,Day
-A-171555,3,2017-04-19,R,Houston,Harris,TX,77056,80.6,,54,29.99,10,SSE,9.2,,Clear,Day
-A-61180,4,2016-09-24,R,North Port,Sarasota,FL,34286,80.6,,84,30.01,10,ESE,4.6,,Clear,Night
-A-762220,2,2021-12-11,R,Norwalk,Fairfield,CT,6851,56,56,97,29.6,10,SSW,22,0,Cloudy / Windy,Night
-A-505047,2,2021-12-09,R,Los Angeles,Los Angeles,CA,90015,56,56,87,29.74,10,CALM,0,0,Cloudy,Night
-A-223320,2,2017-07-14,R,Homeland,Riverside,CA,92548-9275,80.6,,51,29.97,10,SSW,5.8,,Clear,Day
-A-120816,2,2016-10-01,R,Pacoima,Los Angeles,CA,91331,66.2,,52,30.04,10,Calm,,,Clear,Night
-A-43917,4,2017-01-12,R,Pittsburgh,Allegheny,PA,15238-1214,60.1,,67,29.93,10,SSW,19.6,,Overcast,Night
-A-406273,2,2021-10-10,R,Chicago,Cook,IL,60630,74,74,64,28.99,10,SSW,13,0,Fair,Night
-A-953861,2,2021-10-08,R,Boynton Beach,Palm Beach,FL,33437,86,86,65,29.93,10,SSE,10,0,Fair,Day
-A-768787,2,2021-11-18,L,Winter Park,Orange,FL,32792-9101,79,79,77,30.02,10,E,5,0,Mostly Cloudy,Day
-A-182664,2,2017-04-07,R,Temecula,Riverside,CA,92590,75.2,,14,30.04,10,SSE,9.2,,Clear,Day
-A-596484,2,2021-12-30,L,Orlando,Orange,FL,32805,82,82,60,29.9,10,SSW,8,0,Fair,Day
-A-413809,2,2021-11-21,R,Minneapolis,Hennepin,MN,55403,30,18,38,29.27,10,NW,20,0,Fair,Day
-A-197993,3,2017-05-25,R,Liberty Lake,Spokane,WA,99019,64,,38,29.83,10,Variable,5.8,,Scattered Clouds,Day
-A-867014,2,2021-08-01,R,Milton,Santa Rosa,FL,32583-9108,88,88,69,29.89,10,SW,12,0,Fair,Day
-A-567230,2,2021-07-08,L,Saint Paul,Ramsey,MN,55113-4030,66,66,65,29.25,10,E,5,0,Fair,Day
-A-1044434,2,2021-04-03,R,Opa Locka,Miami-Dade,FL,33054,67,67,52,30.2,10,NE,14,0,Cloudy,Night
-A-709665,2,2021-09-08,R,Middletown,Middlesex,CT,6457,80,80,62,29.7,10,S,15,0,Partly Cloudy,Day
-A-624794,2,2021-11-13,L,Bell Gardens,Los Angeles,CA,90201-4627,78,78,24,29.8,10,CALM,0,0,Fair,Night
-A-369288,2,2021-06-18,R,Burgettstown,Washington,PA,15021,76,76,67,28.55,10,SSW,6,0,Cloudy,Night
-A-783742,2,2021-11-10,R,Charlotte,Mecklenburg,NC,28217,78,78,25,29.3,10,SSW,7,0,Fair,Day
-A-89438,2,2016-07-27,R,Milwaukee,Milwaukee,WI,53224,75.2,,69,29.99,0.2,North,,,Light Rain,Day
-A-1043303,2,2021-11-21,R,Stockton,San Joaquin,CA,95203,49,49,93,30.17,3,CALM,0,0,Fair,Night
-A-870073,2,2021-11-14,R,Reston,Fairfax County,VA,20194,46,41,47,29.51,10,SSW,10,0,Cloudy,Night
-A-354471,2,2021-12-15,R,Gold Hill,Jackson,OR,97525,35,35,96,28.4,7,CALM,0,0.02,Rain,Night
-A-949384,2,2021-11-16,L,Chino,San Bernardino,CA,91710-3441,77,77,30,29.22,6,WSW,10,0,Haze,Day
-A-467087,2,2021-11-14,R,San Diego,San Diego,CA,92122,70,70,29,29.53,10,WNW,6,0,Fair,Night
-A-29097,2,2016-07-01,R,Swisher,Johnson,IA,52338,61,,87,30.11,10,North,11.5,,Clear,Day
-A-788518,2,2021-12-01,R,Guild,Marion,TN,37340,53,53,66,29.46,10,SSW,6,0,Partly Cloudy,Day
-A-622272,2,2021-12-11,L,Raleigh,Wake,NC,27612-3809,72,72,73,29.49,10,SW,20,0,Mostly Cloudy,Day
-A-215767,3,2017-07-21,R,Houston,Harris,TX,77032,84,,74,29.97,10,South,5.8,,Mostly Cloudy,Night
-A-535270,2,2021-12-17,R,Tucson,Pima,AZ,85711-3902,49,45,47,27.23,10,W,8,0,Fair,Night
-A-889089,2,2021-11-24,R,Rocky Mount,Franklin County,VA,24151-3572,50,50,31,29.08,10,SE,6,0,Fair,Day
-A-555058,2,2021-09-16,R,Abington,Montgomery,PA,19001,76,76,71,30.05,10,E,12,0,Cloudy,Day
-A-377640,2,2021-06-09,R,Emelle,Sumter,AL,35459,75,75,96,29.73,7,SE,3,0,Cloudy,Night
-A-269599,2,2021-11-28,R,Saint Cloud,Osceola,FL,34772,66,66,34,29.98,10,NW,8,0,Fair,Day
-A-950714,2,2021-09-11,R,North Brunswick,Middlesex,NJ,08902-2915,53,53,96,30,10,CALM,0,0,Fair,Night
-A-392856,2,2021-08-30,R,New Orleans,Orleans,LA,70127,,,,,,,,,,Day
-A-900345,2,2021-11-05,R,Tucson,Pima,AZ,85716-2943,79,79,14,27.23,10,CALM,0,0,Fair,Night
-A-672070,2,2021-11-30,R,Belgrade,Gallatin,MT,59714,47,43,52,25.58,10,NNE,8,0,Fair,Night
-A-725630,2,2021-10-06,R,Miami,Miami-Dade,FL,33147-1750,85,85,67,30,10,ESE,8,0,Fair,Day
-A-750624,2,2021-12-08,R,Cerritos,Los Angeles,CA,90703,67,67,61,29.85,10,SW,7,0,Fair,Day
-A-642271,2,2021-11-04,R,Ontario,Malheur,OR,97914-8640,66,66,47,27.61,10,SSE,6,0,Fair,Day
-A-294745,2,2021-10-29,R,Bethesda,Montgomery,MD,20814,56,56,94,29.58,1,E,12,0,Cloudy,Day
-A-943274,2,2021-12-24,R,Corona,Riverside,CA,92883,56,56,100,29.21,7,SSW,3,0.12,Rain,Day
-A-709099,2,2021-12-17,R,San Dimas,Los Angeles,CA,91773,63,63,37,29.04,10,WSW,7,,Fair,Night
-A-177842,2,2017-04-24,R,Hialeah,Miami-Dade,FL,33016,,,,29.78,10,NW,8.1,,Overcast,Night
-A-911121,2,2021-07-19,R,Lakefield,Jackson,MN,56150-3108,59,59,100,28.6,5,CALM,0,0,Fair,Day
-A-992457,2,2021-07-31,R,Chattanooga,Hamilton,TN,37412-3828,92,92,50,29.28,10,NW,9,0,Mostly Cloudy,Day
-A-74888,2,2016-08-24,R,Harrison Township,Macomb,MI,48045,73.4,,100,29.96,10,WSW,11.5,,Overcast,Night
-A-159109,2,2017-03-21,R,West Orange,Essex,NJ,7052,43,41.3,47,29.96,10,SW,3.5,,Overcast,Day
-A-665427,2,2021-09-05,R,Cordova,Walker,AL,35550,77,77,100,29.37,7,CALM,0,0,Fair,Night
-A-114086,3,2016-11-03,L,Adelanto,San Bernardino,CA,92301,44.6,,39,30.19,10,Calm,,,,Night
-A-211599,3,2017-06-08,R,Los Angeles,Los Angeles,CA,90031,63,,90,29.98,4,West,4.6,,Overcast,Day
-A-392288,2,2021-05-11,R,Boise,Ada,ID,83709,45,41,52,27.16,10,SE,8,0,Fair,Day
-A-100840,3,2016-06-01,L,Mantoloking,Ocean,NJ,8738,73,,66,30.12,10,East,9.2,,Partly Cloudy,Day
-A-75429,2,2016-08-26,R,Bronx,Bronx,NY,10460,90,,48,29.96,10,NW,16.1,,Scattered Clouds,Day
-A-815063,2,2021-09-23,R,Nelson,Saline,MO,65347,67,67,36,29.39,10,CALM,0,0,Fair,Day
-A-346243,2,2021-06-15,R,Germantown,Montgomery,MD,20876,74,74,59,29.29,10,WNW,9,0,Partly Cloudy,Day
-A-190833,2,2017-05-18,R,Cleveland,Cuyahoga,OH,44113,78.1,,52,29.84,10,South,15,,Mostly Cloudy,Day
-A-313848,2,2021-10-24,R,Suffolk,Suffolk,VA,23435,73,73,51,30.08,10,S,12,0,Fair,Day
-A-164121,2,2017-02-16,R,Corona,Riverside,CA,92880,70,,35,29.95,,West,8.1,,Clear,Day
-A-766991,2,2021-07-08,R,North Hills,Los Angeles,CA,91343,89,89,38,28.98,10,SE,9,0,Fair,Day
-A-733731,2,2021-07-09,R,Jacksonville,Duval,FL,32225-6504,79,79,79,30.05,5,S,8,0.09,Light Rain with Thunder,Day
-A-629060,2,2021-12-07,L,San Diego,San Diego,CA,92108-3207,60,60,75,29.54,10,ESE,6,0,Mostly Cloudy,Night
-A-317534,2,2021-11-07,R,Jacksonville,Duval,FL,32256,59,59,75,30.07,10,NNW,16,0,Mostly Cloudy,Day
-A-1020801,2,2021-08-25,R,Castro Valley,Alameda,CA,94552,59,59,83,29.96,10,VAR,3,0,Cloudy,Day
-A-806726,2,2021-12-28,R,Phoenix,Maricopa,AZ,85044,54,54,69,28.57,10,SSW,3,0,Mostly Cloudy,Day
-A-159808,2,2017-03-23,R,Antioch,Davidson,TN,37013,42.1,,51,30.36,10,Calm,,,Partly Cloudy,Day
-A-1006093,2,2021-12-07,L,Los Angeles,Los Angeles,CA,90034-3308,57,57,89,29.78,7,NE,3,0,Cloudy,Day
-A-445090,2,2021-05-20,L,Santa Maria,Santa Barbara,CA,93455,61,61,41,29.68,9,WNW,23,0,Fair / Windy,Day
-A-29654,2,2016-07-08,R,Overland Park,Johnson,KS,66210,87.1,,61,29.96,10,South,4.6,,Clear,Day
-A-674616,2,2021-04-19,R,Miami,Miami-Dade,FL,33184,82,82,71,29.91,10,W,6,0,Fair,Night
-A-766654,2,2021-12-11,R,Charlotte,Mecklenburg,NC,28206,64,64,87,29.07,1,W,20,0.08,Heavy Rain,Day
-A-789193,2,2021-08-08,R,Nashville,Davidson,TN,37201-1805,72,72,81,29.38,10,S,5,0,Fair,Night
-A-597537,2,2021-09-27,R,Spartanburg,Spartanburg,SC,29302-3033,61,61,88,29.21,10,CALM,0,0,Fair,Night
-A-979790,2,2021-06-15,R,Bethlehem,Northampton,PA,18017,61,61,93,29.38,10,SW,3,0,Fair,Day
-A-140402,2,2017-02-08,R,Miami,Miami-Dade,FL,33127,79,,66,29.99,10,West,11.5,,Partly Cloudy,Night
-A-110655,2,2017-01-12,R,San Fernando,Los Angeles,CA,91340,51.8,,88,29.94,10,ESE,5.8,,Overcast,Night
-A-431235,2,2021-10-28,L,Fort Myers,Lee,FL,33907,79,79,88,29.79,10,SSE,7,0,Fair,Night
-A-886990,2,2021-06-21,L,Austin,Travis,TX,78725-6356,93,93,56,29.2,10,VAR,6,0,Partly Cloudy,Day
-A-949196,2,2021-12-08,R,New Orleans,Orleans,LA,70116-1247,61,61,93,30.08,2,NNW,6,0.01,Rain,Day
-A-1018696,2,2021-12-28,R,Zephyrhills,Pasco,FL,33540,57,,94,29.9,2,,,0,Fog,Night
-A-934974,2,2021-08-16,R,San Bernardino,San Bernardino,CA,92407,102,102,20,28.57,6,WNW,6,0,Haze,Day
-A-525967,2,2021-08-20,R,Anaheim,Orange,CA,92807,81,81,49,29.69,10,SSW,10,0,Fair,Day
-A-547032,2,2021-07-24,R,Tempe,Maricopa,AZ,85282,77,77,84,28.77,10,ENE,7,0,Cloudy,Night
-A-386339,4,2021-10-11,L,Orlando,Orange,FL,32811-7345,82,82,67,29.77,6,SSE,7,0.09,Rain,Day
-A-947382,2,2021-04-26,R,Norfolk,Norfolk,VA,23502-5507,57,57,32,30.11,10,N,13,0,Fair,Day
-A-493791,2,2021-11-03,R,San Diego,San Diego,CA,92123,67,67,68,29.56,9,W,9,0,Fair,Day
-A-667907,2,2021-12-11,R,Roanoke,Roanoke City,VA,24012,62,62,78,28.58,10,WNW,3,0,Cloudy,Day
-A-955527,2,2021-10-29,R,Perth Amboy,Middlesex,NJ,8861,53,53,87,29.62,7,E,22,0.05,Rain / Windy,Night
-A-846591,2,2021-07-02,R,Matawan,Monmouth,NJ,7747,70,70,88,29.73,10,CALM,0,0,Light Drizzle,Night
-A-675898,2,2021-09-29,L,New Orleans,Orleans,LA,70125,75,75,100,29.95,3,S,9,0.12,Light Rain,Day
-A-699903,2,2021-07-10,R,Charleston,Kanawha,WV,25313,80,80,62,29.01,10,WNW,5,0,Thunder,Day
-A-84552,2,2016-07-07,R,Columbus,Franklin,OH,43211,80.1,,69,29.85,10,NNE,11.5,,Overcast,Day
-A-159875,4,2017-03-23,R,Memphis,Shelby,TN,38106,68.7,,28,30.26,10,SSE,5.8,,Partly Cloudy,Day
-A-1039142,2,2021-05-01,R,Eastover,Richland,SC,29044-9599,60,60,65,29.78,10,SSE,3,0,Fair,Night
-A-375608,2,2021-06-18,R,Miami,Miami-Dade,FL,33127,86,86,70,30.02,8,ESE,12,0,Cloudy,Day
-A-289321,2,2021-12-02,R,Miami,Miami-Dade,FL,33126,80,80,48,30.06,10,N,9,0,Mostly Cloudy,Day
-A-813977,2,2021-07-28,R,Sparks Glencoe,Baltimore County,MD,21152,75,75,69,29.15,10,S,3,0,Fair,Night
-A-467546,2,2021-10-17,R,Cowpens,Cherokee,SC,29330,68,68,21,29.21,10,NNW,10,0,Fair,Day
-A-894163,2,2021-11-05,R,Draper,Salt Lake,UT,84020,66,66,36,25.76,10,CALM,0,0,Mostly Cloudy,Day
-A-682529,2,2021-11-13,R,Phenix City,Russell,AL,36867,55,55,47,29.62,10,NNW,9,0,Fair,Night
-A-476428,2,2021-06-22,R,Sebastopol,Sonoma,CA,95472,70,70,57,29.76,10,SW,8,0,Partly Cloudy,Day
-A-233356,2,2021-04-05,R,Ridgewood,Queens,NY,11385,57,57,25,29.93,10,NNW,20,0,Fair,Day
-A-924031,2,2021-10-05,R,Riverside,Riverside,CA,92507,62,62,84,29.05,10,SSW,6,0,Fair,Night
-A-159178,4,2017-03-21,R,Miami,Miami-Dade,FL,33156-2941,73.9,,46,30.2,10,NE,6.9,,Scattered Clouds,Day
-A-591131,2,2021-08-25,R,Miami,Miami-Dade,FL,33157,87,87,55,29.93,10,E,22,0,Fair / Windy,Day
-A-790356,2,2021-10-26,R,Compton,Los Angeles,CA,90220,62,62,70,30.05,10,CALM,0,0,Fair,Day
-A-525532,2,2021-11-20,R,Portland,Multnomah,OR,97217,47,47,86,30.49,10,W,3,0,Cloudy,Day
-A-139072,2,2017-02-03,R,Bridgeport,Fairfield,CT,06608-2716,32,23,40,30.12,10,West,11.5,,Overcast,Night
-A-877394,2,2021-04-11,R,Saint Pauls,Robeson,NC,28384,80,80,40,29.32,10,SW,17,0,Fair,Day
-A-254857,2,2021-05-05,R,Austin,Travis,TX,78759,58,58,72,29.4,10,NNE,5,0,Fair,Day
-A-395992,2,2021-10-10,L,Pickens,Pickens,SC,29671-9426,70,70,89,28.92,10,CALM,0,0,Fair,Night
-A-348015,2,2021-12-27,R,Reno,Washoe,NV,89511,30,21,82,25.23,9,SSW,12,0,Cloudy,Night
-A-453153,2,2021-03-30,R,Chandler,Maricopa,AZ,85286,84,84,7,28.54,10,WSW,7,,Fair,Day
-A-428421,2,2021-08-07,R,Stony Point,Rockland,NY,10980,83,83,49,29.57,10,S,9,0,Mostly Cloudy,Day
-A-527167,2,2021-06-09,R,Fort Lauderdale,Broward,FL,33309,80,80,76,30.1,10,E,12,0,Partly Cloudy,Night
-A-302169,2,2021-06-02,R,San Bernardino,San Bernardino,CA,92408,90,90,24,28.67,5,WSW,7,0,Fair,Day
-A-96063,3,2016-07-22,R,Firth,Bingham,ID,83236,91.9,,12,29.93,10,WSW,17.3,,Scattered Clouds,Day
-A-395462,4,2021-10-16,R,Crawfordsville,Crittenden,AR,72327,67,67,39,30.02,10,N,9,0,Fair,Day
-A-628432,2,2021-04-11,R,Aurora,Marion,OR,97002,51,51,41,30.1,10,N,8,0,Fair,Day
-A-938537,2,2021-12-09,R,Bloomsburg,Columbia,PA,17815-9578,37,37,54,29.7,10,VAR,3,0,Fair,Day
-A-777916,2,2021-08-20,R,Norwalk,Fairfield,CT,6851,82,82,65,29.85,10,SW,8,0,Partly Cloudy,Day
-A-899083,2,2021-06-22,R,Fountain Valley,Orange,CA,92708,75,75,53,29.84,10,SSW,13,0,Mostly Cloudy,Day
-A-1017532,2,2021-08-10,L,New Kensington,Allegheny,PA,15068,69,69,90,28.77,8,SW,9,0,Light Rain,Day
-A-675132,2,2021-03-02,R,Estacada,Clackamas,OR,97023,37,37,89,30.05,10,CALM,0,0,Fair,Night
-A-897875,2,2021-10-24,R,Madison,Madison,AL,35758-9591,,,,,,,,,,Day
-A-164217,2,2017-02-16,R,Santa Monica,Los Angeles,CA,90404,57.9,,93,29.93,10,SSW,4.6,,Overcast,Night
-A-446726,2,2021-06-24,R,Sandy,Salt Lake,UT,84070,78,78,40,25.74,10,N,7,0,Mostly Cloudy,Day
-A-827754,2,2021-10-26,R,Copperopolis,Calaveras,CA,95228-9723,61,61,45,27.97,10,VAR,3,0,Partly Cloudy,Day
-A-631517,2,2021-05-09,L,Eldred,McKean,PA,16731-3530,34,29,89,27.55,4,E,6,0.12,Rain,Day
-A-894258,2,2021-11-11,R,Spokane,Spokane,WA,99206,40,40,97,28.17,3,SSW,3,0.09,Light Rain,Night
-A-499761,4,2021-11-29,R,Parkton,Baltimore County,MD,21120,43,37,49,29.11,10,NW,9,0,Mostly Cloudy,Day
-A-19185,3,2016-11-10,L,Angleton,Brazoria,TX,77515-8236,66.9,,66,30.28,10,NE,11.5,,Clear,Day
-A-118421,2,2016-09-12,R,Sunnyvale,Santa Clara,CA,94089,59,,75,29.94,10,SSE,3.5,,Clear,Day
-A-763301,2,2021-08-26,R,Miami,Miami-Dade,FL,33155-4884,89,89,65,29.98,10,E,15,0,Mostly Cloudy,Day
-A-895940,2,2021-12-19,R,Richmond,Chesterfield,VA,23234,39,34,67,29.93,10,ENE,7,0,Fair,Night
-A-705884,2,2021-12-16,R,Baltimore,Baltimore City,MD,21205,,,,,,,,,,Day
-A-435872,2,2021-05-25,R,Houston,Harris,TX,77054-2507,83,83,69,30,10,SSE,14,0.02,Mostly Cloudy,Day
-A-1006559,2,2021-07-23,R,Calabasas,Los Angeles,CA,91302-2052,86,86,31,29.11,10,SSE,16,0,Fair,Day
-A-914894,2,2021-12-12,R,Live Oak,Sutter,CA,95953,48,42,83,29.82,6,SSE,16,0,Light Rain,Day
-A-355950,2,2021-11-28,R,Riverside,Riverside,CA,92507-3342,52,52,32,29.28,10,NE,6,0,Fair,Night
-A-366099,2,2021-03-05,L,Petersburg,Rensselaer,NY,12138-2717,28,15,34,29.03,10,W,21,0,Fair / Windy,Day
-A-94503,2,2016-08-08,R,Tempe,Maricopa,AZ,85282,108,,11,29.62,10,NW,8.1,,Partly Cloudy,Day
-A-81893,2,2016-06-28,R,Richmond,Richmond City,VA,23234,73.4,,65,29.95,6,South,3.5,0.01,Partly Cloudy,Night
-A-456469,2,2021-07-31,R,Staten Island,Richmond,NY,10314,65,65,50,29.95,10,N,5,0,Fair,Night
-A-111898,2,2017-01-20,R,Emeryville,Alameda,CA,94608,48,,89,29.39,7,SW,17.3,0.36,Light Rain,Night
-A-122666,2,2016-10-11,R,Seattle,King,WA,98168,48.9,,64,30.14,10,NNE,3.5,,Clear,Night
-A-45386,3,2017-01-18,R,Chicago,Cook,IL,60620,33.1,23.4,96,30.12,4,SW,13.8,,Overcast,Day
-A-158258,2,2017-03-17,R,Rockwood,Wayne,MI,48173,32.4,23.5,93,30.16,7,South,11.5,,Overcast,Day
-A-532106,2,2021-06-09,R,New Rochelle,Westchester,NY,10801,83,83,60,29.93,10,CALM,0,0,Mostly Cloudy,Night
-A-950075,2,2021-06-13,R,Houston,Harris,TX,77019-5430,98,98,43,29.82,10,S,16,0,Partly Cloudy,Day
-A-247636,2,2021-03-06,R,Lodi,San Joaquin,CA,95240,60,60,51,30.08,10,WNW,10,0,Fair,Day
-A-291158,2,2021-06-09,R,Miami,Miami-Dade,FL,33165-4512,87,87,57,30.07,10,E,12,0,Partly Cloudy,Day
-A-60478,3,2016-09-15,R,Dania,Broward,FL,33004,88,,67,29.98,10,ESE,11.5,,Scattered Clouds,Day
-A-112000,2,2017-01-20,R,Valencia,Los Angeles,CA,91355,51,51,100,28.64,1,SE,14,0.25,Rain,Day
-A-125666,2,2016-08-09,R,San Leandro,Alameda,CA,94578,78.1,,42,29.84,10,WNW,11.5,,Clear,Day
-A-514125,2,2021-12-07,R,Inver Grove Heights,Dakota,MN,55077,16,9,80,29.12,4,ESE,5,0,Light Snow,Day
-A-337746,2,2021-06-11,R,Irmo,Richland,SC,29063,82,82,66,29.28,10,SW,9,0,Mostly Cloudy,Day
-A-347634,2,2021-06-22,L,Saint Charles,St. Charles,MO,63303,77,77,37,29.46,10,SSE,7,0,Fair,Day
-A-544292,2,2021-11-07,R,Newburgh,Orange,NY,12550,45,45,61,29.6,10,CALM,0,0,Mostly Cloudy,Night
-A-883792,2,2021-11-15,L,Tarpon Springs,Pinellas,FL,34688,62,62,46,30.19,10,N,8,0,Fair,Day
-A-944413,2,2021-12-15,R,Ooltewah,Hamilton,TN,37363,61,61,52,29.6,10,SSW,8,0,Mostly Cloudy,Day
-A-504385,2,2021-08-20,R,Miami,Miami-Dade,FL,33136,84,84,69,29.96,10,S,3,0,Partly Cloudy,Night
-A-411488,2,2021-08-01,R,San Diego,San Diego,CA,92123-3955,65,65,84,29.58,10,N,5,0,Fair,Night
-A-982023,2,2021-09-20,R,Eastover,Richland,SC,29044-8887,79,79,84,29.85,10,E,7,0,Mostly Cloudy,Day
-A-892095,2,2021-09-01,R,Narberth,Montgomery,PA,19072-2226,72,72,89,29.36,10,ENE,9,0,Cloudy,Day
-A-946425,2,2021-12-23,R,Rancho Cucamonga,San Bernardino,CA,91739,51,51,92,28.81,3,NE,10,0.28,Rain,Night
-A-826398,2,2021-10-10,R,Nashville,Davidson,TN,37215-1528,85,85,44,29.29,10,S,10,0,Fair,Day
-A-79545,2,2016-09-10,R,Goodlettsville,Davidson,TN,37072,93,,36,29.94,10,SSW,13.8,,Partly Cloudy,Day
-A-724446,2,2021-06-30,L,Watsonville,Santa Cruz,CA,95076-1352,66,66,70,29.77,10,WSW,8,0,Mostly Cloudy,Day
-A-291385,2,2021-12-23,R,North Miami,Miami-Dade,FL,33161-4127,70,70,53,30.12,10,NNW,9,0,Fair,Day
-A-922444,2,2021-10-07,R,Miami,Miami-Dade,FL,33193-1540,79,79,90,30.04,9,E,3,0,Fair,Day
-A-64186,2,2016-10-05,R,Memphis,Shelby,TN,38109,73.9,,71,30.06,10,SE,8.1,0.02,Mostly Cloudy,Day
-A-894152,2,2021-10-12,R,Riverside,Riverside,CA,92507,60,60,35,29.06,10,W,14,0,Fair,Night
-A-988251,2,2021-12-15,R,Raleigh,Wake,NC,27610,56,56,64,29.97,10,CALM,0,0,Partly Cloudy,Day
-A-76161,4,2016-08-30,R,Alexandria,Fairfax County,VA,22309,71.1,,75,30.14,10,Calm,,,Clear,Day
-A-369467,2,2021-05-06,R,Merritt Island,Brevard,FL,32952,76,76,72,29.96,10,SE,8,0,Fair,Night
-A-176489,2,2017-04-18,L,Charlotte,Mecklenburg,NC,28210,66,,70,30.21,10,ENE,13.8,,Mostly Cloudy,Day
-A-391312,2,2021-03-04,R,Dallas,Dallas,TX,75209-6224,53,53,57,29.59,10,S,5,0,Fair,Night
-A-941311,2,2021-10-11,R,Santa Rosa,Sonoma,CA,95407-7899,63,63,29,29.88,10,NW,21,0,Fair / Windy,Day
-A-28225,2,2016-06-22,R,Lewiston,Winona,MN,55952,62.6,,82,29.86,10,Calm,,,Clear,Night
-A-845349,2,2021-10-26,R,Charlotte,Mecklenburg,NC,28212-3606,65,65,39,29.02,10,NNW,15,0,Fair,Day
-A-448046,2,2021-10-13,L,Marshall,Lyon,MN,56258-2290,54,54,94,28.4,10,ESE,20,0.02,Mostly Cloudy,Day
-A-55594,4,2016-11-18,R,Piedmont,Belmont,OH,43983-9716,37.9,33.5,100,30.14,8,ESE,5.8,,Clear,Day
-A-824581,2,2021-09-18,L,Dallas,Dallas,TX,75223,85,85,61,29.55,10,VAR,3,0,Fair,Day
-A-116673,2,2016-11-18,R,Los Angeles,Los Angeles,CA,90023,71.1,,16,30.01,10,Calm,,,Clear,Night
-A-432101,2,2021-11-04,L,Abington,Montgomery,PA,19001-1835,42,38,62,30.25,10,NNE,6,0,Fair,Day
-A-870796,2,2021-09-28,R,Fort Worth,Tarrant,TX,76102,72,72,59,29.16,10,SSE,8,0,Fair,Night
-A-816695,2,2021-12-19,R,Greenville,Greenville,SC,29611,52,52,66,28.99,10,NE,15,0,Cloudy,Night
-A-754754,2,2021-03-26,R,San Francisco,San Francisco,CA,94134,47,47,77,29.93,10,CALM,0,0,Fair,Night
-A-307243,2,2021-12-17,R,Lawnside,Camden,NJ,8045,59,59,22,30.05,10,VAR,7,0,Fair,Day
-A-453697,2,2021-09-13,R,Pensacola,Escambia,FL,32506-3761,78,78,87,30.16,5,SSW,7,0.12,Rain,Day
-A-830125,2,2021-06-30,R,Windermere,Orange,FL,34786,75,75,90,29.96,10,CALM,0,0.08,Light Rain,Day
-A-346624,2,2021-09-09,R,Delray Beach,Palm Beach,FL,33444,80,80,87,29.94,10,SW,3,0,Fair,Day
-A-854387,2,2021-11-03,R,San Diego,San Diego,CA,92128,49,49,93,28.65,8,NNE,3,0,Partly Cloudy,Night
-A-682726,2,2021-08-15,R,Lanham,Prince George's,MD,20706,81,81,48,30.1,10,NE,5,0,Partly Cloudy,Day
-A-53628,4,2016-11-11,R,Loganton,Clinton,PA,17747,51.1,,61,29.78,10,West,13.8,,Partly Cloudy,Day
-A-908307,2,2021-12-14,L,Ontario,Malheur,OR,97914-8450,35,29,52,27.52,10,WNW,8,0,Fair,Night
-A-487075,2,2021-05-29,R,Spring Hill,Hernando,FL,34608-9425,89,89,40,29.82,10,W,20,0,Fair,Day
-A-176043,2,2017-04-16,R,Chattanooga,Hamilton,TN,37408,79,,45,30.19,10,South,9.2,,Mostly Cloudy,Day
-A-140705,2,2017-02-09,R,Chicago,Cook,IL,60628,21,7.6,38,30.38,10,West,15,,Partly Cloudy,Day
-A-378492,2,2021-10-19,R,,District of Columbia,DC,20743,47,45,66,29.83,10,W,6,0,Fair,
-A-902901,2,2021-03-25,R,Southaven,DeSoto,MS,38671,73,73,73,29.25,10,WSW,13,0,Mostly Cloudy,Day
-A-730941,2,2021-08-13,R,Earlimart,Tulare,CA,93219,101,101,24,29.46,10,NW,9,0,Fair,Day
-A-916657,2,2021-09-12,R,Austin,Travis,TX,78735,75,75,69,29.38,10,CALM,0,0,Fair,Night
-A-1044197,2,2021-11-21,R,Rodeo,Contra Costa,CA,94572,53,53,64,30.14,10,SSW,3,0,Fair,Night
-A-182906,2,2017-04-10,R,San Diego,San Diego,CA,92136,66,,63,30.03,10,WNW,8.1,,Scattered Clouds,Day
-A-419758,2,2021-12-05,R,Henrico,Henrico,VA,23231,57,57,39,30.09,10,NE,6,0,Mostly Cloudy,Day
-A-592572,2,2021-11-24,L,Wickenburg,Yavapai,AZ,85390-2650,73,73,25,28.82,10,SSW,6,0,Fair,Day
-A-885136,4,2021-10-22,R,Atlanta,Clayton,GA,30349,64,64,78,28.97,10,W,9,0,Fair,Day
-A-392461,2,2021-10-08,R,Woodbridge,Prince William,VA,22192,77,77,57,30.02,10,SSE,6,0,Cloudy,Day
-A-495016,2,2021-03-02,R,Hacienda Heights,Los Angeles,CA,91745,50,50,35,29.9,10,ENE,3,0,Fair,Night
-A-404863,2,2021-09-05,R,Minneapolis,Hennepin,MN,55416,65,65,70,29.03,10,CALM,0,0,Partly Cloudy,Day
-A-528168,2,2021-11-09,R,Chesapeake,Chesapeake,VA,23320,46,46,90,30.23,10,CALM,0,0,Fair,Day
-A-773104,2,2021-12-30,L,Twain Harte,Tuolumne,CA,95383-9527,54,54,58,27.62,10,CALM,0,0,Cloudy,Day
-A-662467,2,2021-12-16,L,Orange Park,Clay,FL,32073-5002,75,75,82,30.23,7,VAR,3,0,Fair,Day
-A-321120,2,2021-09-28,R,Marianna,Jackson,FL,32448-9282,68,68,96,29.94,10,CALM,0,0,Fair,Day
-A-207328,3,2017-06-26,R,Orlando,Orange,FL,32839,79,,90,30.07,10,SE,6.9,,Clear,Night
-A-937755,2,2021-10-07,R,Miami,Miami-Dade,FL,33147-4444,81,81,82,30.04,6,ESE,6,0,Haze,Day
-A-688045,2,2021-10-23,R,Tulsa,Tulsa,OK,74115-8626,84,84,51,29.03,10,S,17,0,Mostly Cloudy,Day
-A-479276,2,2021-10-28,R,Hempstead,Waller,TX,77445,77,77,25,29.53,10,WNW,26,0,Fair / Windy,Day
-A-745383,2,2021-10-13,R,Harrisburg,Dauphin,PA,17111,74,74,66,29.61,10,CALM,0,0,Mostly Cloudy,Day
-A-804354,2,2021-07-27,R,Emmitsburg,Frederick,MD,21727,,,,,,,,,,Day
-A-515753,2,2021-06-17,R,Jacksonville,Duval,FL,32218,85,85,63,29.94,10,E,13,0,Cloudy,Day
-A-707192,2,2021-08-02,L,Lutz,Pasco,FL,33559-6256,77,77,83,29.99,10,WSW,5,0,Light Rain,Day
-A-924200,2,2021-06-07,R,Bakersfield,Kern,CA,93307-3843,83,83,23,29.28,10,NNW,7,0,Fair,Day
-A-934377,2,2021-08-18,R,Decatur,DeKalb,GA,30034,86,86,61,29.03,10,SSW,7,0,Partly Cloudy,Day
-A-221644,3,2017-07-28,R,Altamonte Springs,Seminole,FL,32714,78.1,,84,29.93,2.5,WNW,11.5,0.06,Heavy Thunderstorms and Rain,Day
-A-291069,2,2021-05-07,R,Saint Petersburg,Pinellas,FL,33712,80,80,42,30.05,10,NNE,12,0,Fair,Day
-A-170764,4,2017-04-08,R,Houston,Harris,TX,77093,80.1,,38,30.09,10,SSE,16.1,,Scattered Clouds,Day
-A-216362,2,2017-07-07,R,Chicago,Cook,IL,60622,81,,69,29.81,10,NNE,8.1,,Overcast,Day
-A-976152,2,2021-06-30,L,Oriskany,Oneida,NY,13424-5303,76,76,85,29.37,10,CALM,0,0,Fair,Day
-A-622190,2,2021-12-16,R,Corning,Tehama,CA,96021-9291,47,47,80,29.81,8,CALM,0,0,Cloudy,Day
-A-1037333,2,2021-10-29,L,Orlando,Orange,FL,32826-4723,81,81,44,29.54,10,WSW,15,0,Fair,Day
-A-223639,2,2017-07-18,R,San Jose,Santa Clara,CA,95111,77,,44,30.02,10,North,13.8,,Clear,Day
-A-522833,2,2021-09-19,R,Saint Paul,Ramsey,MN,55106,88,88,43,29.04,10,S,12,0,Fair,Day
-A-417444,2,2021-12-20,R,Los Angeles,Los Angeles,CA,90015,64,64,26,29.89,10,CALM,0,0,Fair,Day
-A-121085,2,2016-10-03,L,Salinas,Monterey,CA,93907-1310,64.9,,48,30.07,10,WNW,9.2,,Overcast,Day
-A-227081,2,2021-07-27,L,East Brunswick,Middlesex,NJ,08816-2198,91,91,34,29.9,10,WNW,9,0,Fair,Day
-A-701448,2,2021-09-24,R,Oxnard,Ventura,CA,93036,59,59,93,29.9,2,WNW,8,0,Fog,Night
-A-434926,2,2021-10-26,R,Houston,Harris,TX,77033-4142,75,75,90,29.87,3,CALM,0,0,Mist,Night
-A-875962,2,2021-05-12,R,Long Island City,Queens,NY,11101,56,56,45,30.07,10,NW,9,0,Fair,Day
-A-790183,2,2021-12-31,L,Greenville,Greenville,SC,29607-5924,68,68,56,28.84,10,SW,3,0,Mostly Cloudy,Day
-A-833733,2,2021-12-16,R,Henrico,Henrico,VA,23229-5753,51,51,54,30.02,10,SSW,10,0,Fair,Day
-A-360580,2,2021-12-18,R,Richmond,Richmond City,VA,23220,60,60,100,29.73,3,SSW,6,0,Cloudy,Night
-A-1022272,2,2021-10-25,R,Cedar City,Iron,UT,84720,60,60,35,24.28,10,SSW,22,0,Fair / Windy,Day
-A-680627,2,2021-11-05,R,Sacramento,Sacramento,CA,95823,61,61,78,30.04,10,VAR,6,0,Fair,Day
-A-139861,2,2017-02-07,R,New Orleans,Orleans,LA,70122,73,,90,29.78,10,SW,25.3,0.01,Light Rain,Day
-A-197539,2,2017-05-23,R,Arcadia,Los Angeles,CA,91006,80.6,,45,29.95,10,SSW,12.7,,Clear,Day
-A-281648,2,2021-12-16,R,Sarasota,Sarasota,FL,34242-1324,77,77,76,30.16,10,ESE,14,0,Fair,Day
-A-629717,2,2021-11-26,R,Lanham,Prince George's,MD,20706,46,39,57,29.76,10,WNW,16,0,Fair,Day
-A-933318,2,2021-10-24,R,Weehawken,Hudson,NJ,7086,57,57,57,30.06,10,VAR,5,0,Cloudy,Day
-A-878267,2,2021-10-23,R,Firebaugh,Merced,CA,93622,67,67,52,29.69,10,NNW,7,0,Fair,Day
-A-511146,2,2021-12-23,R,Sacramento,Sacramento,CA,95815,54,54,94,29.59,9,SE,7,0,Cloudy,Night
-A-137435,4,2017-01-30,R,Crothersville,Jackson,IN,47229,19.4,11.5,86,30.02,10,West,5.8,,Clear,Night
-A-755162,2,2021-03-01,R,Rocky Hill,Hartford,CT,6067,45,38,63,29.54,10,NNW,15,0,Cloudy,Day
-A-749995,2,2021-08-11,L,Pensacola,Escambia,FL,32514-4915,87,87,69,29.95,10,SSW,5,0,Fair,Day
-A-161041,2,2017-03-28,R,New York,New York,NY,10037,43,38.8,97,29.91,3,Variable,6.9,0.04,Light Rain,Day
-A-105107,3,2016-12-06,R,Verdi,Washoe,NV,89439,32,,54,30.05,10,Calm,,,Scattered Clouds,Night
-A-54217,2,2016-11-14,R,Henrico,Henrico,VA,23229,46,,66,30.1,8,Calm,,0,Light Rain,Day
-A-601102,2,2021-04-21,R,Baton Rouge,East Baton Rouge,LA,70816-3133,51,51,61,30.15,10,N,13,0,Fair,Day
-A-203966,3,2017-06-12,R,Wheaton,Dupage,IL,60189-6606,91.9,,39,29.87,10,SSW,20.7,,Clear,Day
-A-721005,2,2021-09-17,R,Lake Forest,Orange,CA,92630,75,75,53,29.92,10,SSW,12,0,Fair,Day
-A-778950,2,2021-11-15,R,Jacksonville Beach,Duval,FL,32250,56,56,64,30.19,10,SSW,3,0,Fair,Night
-A-853581,2,2021-06-05,R,Greenwich,Fairfield,CT,6830,84,84,40,29.44,10,W,8,0,Fair,Day
-A-135773,2,2017-01-31,R,Houston,Harris,TX,77024,73.4,,41,30.07,10,SW,5.8,,Clear,Day
-A-491749,2,2021-08-10,R,Baton Rouge,East Baton Rouge,LA,70816,83,83,77,30.03,10,SE,5,0.01,Partly Cloudy,Day
-A-702007,2,2021-12-15,R,New Castle,New Castle,DE,19720,53,53,80,30.32,10,ESE,7,0,Mostly Cloudy,Night
-A-277843,2,2021-06-06,R,Nashville,Davidson,TN,37201-2108,76,76,76,29.37,10,SSE,12,0,Mostly Cloudy,Day
-A-880281,2,2021-10-30,R,Garner,Wake,NC,27529-4902,55,55,80,29.17,10,SSW,7,0,Mostly Cloudy,Night
-A-226754,2,2021-11-18,L,Opa Locka,Miami-Dade,FL,33054,73,73,84,30.06,2,NNW,5,0.17,Rain,Day
-A-464654,4,2021-07-02,R,Goldsboro,Wayne,NC,27534-6888,70,70,99,29.69,9,CALM,0,0,Fair,Night
-A-920091,2,2021-05-05,R,Suffolk,Suffolk,VA,23435,86,86,44,29.67,10,WSW,13,0,Partly Cloudy,Day
-A-1045364,2,2021-12-07,R,Rowland Heights,Los Angeles,CA,91748,57,57,81,29.86,5,E,5,0.01,Light Rain,Night
-A-552320,2,2021-12-29,L,Gulf Breeze,Santa Rosa,FL,32563-3407,72,72,94,29.87,8,S,12,0,Mostly Cloudy,Day
-A-588634,2,2021-05-08,R,Seymour,Jennings,IN,47274,54,54,47,29.38,10,CALM,0,,Fair,Day
-A-813314,2,2021-07-04,R,Colton,San Bernardino,CA,92324,73,73,49,28.74,10,WSW,7,0,Fair,Night
-A-9104,4,2016-05-22,R,San Diego,San Diego,CA,92108,55.9,,75,30.04,10,ESE,4.6,,Scattered Clouds,Night
-A-36479,2,2016-12-15,R,Nashville,Davidson,TN,37209,21.9,9.2,44,30.51,10,North,13.8,,Mostly Cloudy,Day
-A-828846,2,2021-10-05,L,Tallahassee,Leon,FL,32312-1215,71,71,96,29.95,10,CALM,0,0,Mostly Cloudy,Night
-A-556132,2,2021-08-24,R,Baton Rouge,East Baton Rouge,LA,70816,86,86,74,29.94,10,NNW,5,0,Fair,Day
-A-322462,2,2021-11-18,R,Anaheim,Orange,CA,92807,55,55,96,30.01,1,CALM,0,0,Fog,Day
-A-257003,2,2021-07-01,R,Orlando,Orange,FL,32819,77,77,82,29.89,10,S,14,0,Cloudy,Day
-A-278203,2,2021-11-06,R,Newtown Square,Chester,PA,19073-1003,32,32,80,29.71,10,CALM,0,0,Fair,Night
-A-57545,3,2016-11-25,R,Chicago,Cook,IL,60656,36,30.3,89,30.3,9,West,6.9,,Overcast,Night
-A-991056,2,2021-10-19,R,Lecanto,Citrus,FL,34461-9744,73,73,61,30.19,10,ENE,8,0,Fair,Day
-A-477930,2,2021-10-20,L,Gurnee,Lake,IL,60031-1238,58,58,72,29.27,10,SW,10,0,Fair,Day
-A-667300,2,2021-07-26,R,Ferron,Emery,UT,84523,67,67,66,24.31,10,CALM,0,0,Fair,Night
-A-20791,3,2016-11-29,R,Dallas,Dallas,TX,75220,57,,55,29.55,10,Calm,,,Overcast,Night
-A-355736,2,2021-09-15,L,Fort Myers,Lee,FL,33913,80,80,81,29.92,10,E,7,0,Fair,Day
-A-794457,2,2021-05-23,L,Austin,Travis,TX,78701,73,73,84,29.41,10,ESE,6,0,Cloudy,Day
-A-437499,2,2021-12-10,L,Fort Lauderdale,Broward,FL,33312,78,78,84,30.14,10,N,6,0,Fair,Day
-A-480942,2,2021-11-17,R,Miami,Miami-Dade,FL,33173,80,80,69,30.11,10,E,13,0,Cloudy,Day
-A-372549,2,2021-07-06,L,Palm Harbor,Pinellas,FL,34684-3117,82,82,74,30,10,E,14,0,Light Rain,Day
-A-190149,2,2017-05-16,R,Miami,Miami-Dade,FL,33127,81,,74,29.99,10,NE,6.9,,Scattered Clouds,Day
-A-400627,2,2021-04-26,R,Los Angeles,Los Angeles,CA,90031,64,64,50,29.69,10,W,7,0,Partly Cloudy,Day
-A-160774,2,2017-03-27,R,Charlotte,Mecklenburg,NC,28203-5006,73.9,,57,30.06,10,SW,5.8,,Mostly Cloudy,Day
-A-366165,2,2021-11-05,R,Lorton,Fairfax County,VA,22079-3433,45,40,54,30.33,10,NW,8,0,Fair,Day
-A-756578,2,2021-10-15,R,Miami,Miami-Dade,FL,33162-1905,80,80,69,29.92,10,NE,8,0,Fair,Night
-A-394027,2,2021-11-12,R,Moorpark,Ventura,CA,93021,76,76,32,29.94,10,VAR,3,0,Fair,Night
-A-412872,2,2021-10-27,R,Nashville,Davidson,TN,37210,67,67,33,29.24,10,VAR,6,0,Fair,Day
-A-523991,2,2021-08-19,R,Baton Rouge,East Baton Rouge,LA,70808-4380,86,86,67,29.94,10,SE,15,0,Thunder in the Vicinity,Day
-A-523350,2,2021-07-28,R,Columbia,Richland,SC,29206,76,76,91,29.83,10,CALM,0,0,Partly Cloudy,Night
-A-76739,3,2016-08-31,R,Miami,Miami-Dade,FL,33178,84.9,,82,29.94,10,SSE,13.8,,Overcast,Day
-A-20026,3,2016-11-18,R,North Richland Hills,Tarrant,TX,76180,,,,,,,,,,Night
-A-747911,2,2021-06-11,R,Saint Louis,St. Louis County,MO,63121,90,,52,29.2,10,,,0,Fair,Day
-A-1019899,2,2021-12-17,L,Anoka,Anoka,MN,55303,19,11,68,29.28,10,NE,6,0,Cloudy,Night
-A-61771,2,2016-09-27,R,Ann Arbor,Washtenaw,MI,48103,45,42.6,82,29.81,10,South,4.6,,Clear,Day
-A-24156,2,2016-10-19,L,Saint Paul,Ramsey,MN,55116,52,,61,30.19,10,WNW,11.5,,Scattered Clouds,Day
-A-997067,2,2021-06-21,R,Old Westbury,Nassau,NY,11568,70,70,93,29.68,0.75,S,8,0,Fog,Day
-A-100918,2,2016-06-02,R,Liverpool,Onondaga,NY,13088,71.1,,73,29.97,10,South,12.7,0,Overcast,Day
-A-2588,2,2016-04-26,R,Santa Rosa,Sonoma,CA,95407-8081,69.1,,44,29.99,10,SSE,8.1,,Scattered Clouds,Day
-A-20576,2,2016-11-25,R,Houston,Harris,TX,77092,69.8,,64,30.24,10,Calm,,,Mostly Cloudy,Night
-A-946146,2,2021-12-12,L,Orange Park,Clay,FL,32073,64,64,75,30.19,10,NE,9,0,Cloudy,Day
-A-210130,2,2017-06-06,R,Nephi,Juab,UT,84648,60.1,,55,29.92,10,Calm,,,Clear,Night
-A-127937,2,2016-08-26,R,Pomona,Los Angeles,CA,91767,62.6,,82,,10,SW,4.6,,Clear,Night
-A-545960,2,2021-09-14,R,Gainesville,Alachua,FL,32607-1599,79,79,,29.91,10,CALM,0,0,Fair,Day
-A-440876,2,2021-08-06,R,Corona,Riverside,CA,92883,86,86,49,29.29,10,WNW,16,0,Fair,Day
-A-1000873,2,2021-12-30,R,Orlando,Orange,FL,32839,81,81,62,29.92,10,SW,8,0,Fair,Day
-A-418225,2,2021-07-08,R,Miami,Miami-Dade,FL,33182,78,78,79,30.12,10,CALM,0,0,Mostly Cloudy,Night
-A-799355,2,2021-12-09,L,Philipsburg,Clearfield,PA,16866-8264,28,28,85,28.54,10,SSW,3,0,Fair,Day
-A-77695,4,2016-09-03,R,Franklinton,Franklin,NC,27525-9699,64.4,,94,29.92,10,NNW,10.4,,Overcast,Day
-A-877544,2,2021-10-28,L,Kila,Flathead,MT,59920-8510,47,43,90,26.87,10,SW,8,0,Cloudy,Night
-A-814804,2,2021-12-02,R,Rio Vista,Sacramento,CA,94571,66,66,68,29.98,10,CALM,0,0,Fair,Day
-A-1046868,2,2021-11-24,L,Los Angeles,Los Angeles,CA,90044-5746,71,71,39,29.98,10,VAR,3,0,Fair,Day
-A-586067,2,2021-11-23,L,Dover,Hillsborough,FL,33527-5467,63,63,48,29.84,10,NNE,12,0,Fair,Day
-A-863611,2,2021-10-16,R,Plano,Collin,TX,75074,68,68,24,29.59,13,N,9,0,Fair,Day
-A-807626,2,2021-10-11,R,Bois D Arc,Lawrence,MO,65612,69,69,87,28.14,10,SSE,32,0,Light Rain / Windy,Night
-A-913629,2,2021-11-10,L,San Diego,San Diego,CA,92109-4433,68,68,65,30.03,10,WNW,13,0,Fair,Day
-A-291207,2,2021-10-24,R,Orlando,Orange,FL,32839,83,83,77,29.87,10,ENE,13,0,Fair,Day
-A-161945,2,2017-03-31,R,Hattiesburg,Forrest,MS,39401,54,,97,29.84,3,Calm,,,Mostly Cloudy,Night
-A-982247,2,2021-12-23,R,Hayward,Alameda,CA,94545,59,59,81,29.68,10,S,7,0,Cloudy,Day
-A-86585,4,2016-07-16,L,Battle Creek,Calhoun,MI,49015-3032,61,,81,30.14,10,Calm,,,Clear,Night
-A-1047870,2,2021-12-18,L,Houston,Harris,TX,77023-5601,75,75,82,29.85,2,SSW,10,0.07,Heavy T-Storm,Day
-A-1028785,2,2021-10-11,R,Indianapolis,Marion,IN,46226,64,64,100,28.97,10,SSE,8,,Fair,Night
-A-593697,2,2021-08-05,R,Summit,Union,NJ,7901,79,79,,29.89,10,ENE,6,0,Cloudy,Day
-A-651430,2,2021-08-11,R,Citrus Springs,Citrus,FL,34434-6202,88,88,66,30.16,,WNW,7,0,Thunder in the Vicinity,Day
-A-185660,2,2017-04-29,R,Escondido,San Diego,CA,92026,57.9,,72,29.83,10,ESE,3.5,,Clear,Night
-A-392329,2,2021-11-22,R,Fountain Valley,Orange,CA,92708,68,68,14,30,10,CALM,0,0,Fair,Night
-A-141283,3,2017-02-11,R,Hillside,Cook,IL,60162,39.9,34.5,77,29.78,10,WSW,8.1,,Overcast,Night
-A-727123,2,2021-09-01,R,Dana Point,Orange,CA,92629,72,72,66,29.79,10,SW,3,0,Mostly Cloudy,Day
-A-295634,2,2021-12-15,R,Vale,Malheur,OR,97918,35,30,70,27.64,10,ESE,6,0,Cloudy,Night
-A-723259,2,2021-12-08,R,Silver Creek,Chautauqua,NY,14136,28,18,92,29.22,4,SSW,12,0.05,Light Snow,Night
-A-40318,3,2016-12-28,L,Chicago,Cook,IL,60622,36,29,70,29.81,10,WSW,9.2,,Partly Cloudy,Night
-A-913860,2,2021-12-23,L,Raleigh,Wake,NC,27612-7146,45,45,37,29.84,10,CALM,0,0,Fair,Day
-A-612601,2,2021-09-12,R,Marina Del Rey,Los Angeles,CA,90292-5416,72,72,68,29.82,10,SW,5,0,Fair,Day
-A-583520,2,2021-09-12,R,Charlotte,Mecklenburg,NC,28208-5244,86,86,40,29.43,10,VAR,3,0,Fair,Day
-A-992159,2,2021-11-27,R,Fort Myers,Lee,FL,33966,64,64,65,30.06,10,WNW,3,0,Fair,Night
-A-315349,2,2021-12-28,R,Newmanstown,Lebanon,PA,17073,41,41,89,29.47,7,CALM,0,0,Cloudy,Night
-A-349935,2,2021-07-09,R,Dallas,Dallas,TX,75204-3700,81,81,72,29.52,10,S,13,0,Mostly Cloudy,Day
-A-599180,2,2021-12-12,R,Ronks,Lancaster,PA,17572-9520,44,36,47,29.48,10,WNW,21,0,Cloudy / Windy,Night
-A-328755,2,2021-07-23,R,Santa Ana,Orange,CA,92705,71,71,75,29.97,7,SW,5,0,Cloudy,Day
-A-1047707,2,2021-10-16,R,Charlotte,Mecklenburg,NC,28273-3324,64,64,41,29.17,10,NNW,13,0,Fair,Night
-A-855179,2,2021-08-12,R,Grove City,Mercer,PA,16127,72,72,91,28.92,9,VAR,6,0,Cloudy,Night
-A-346969,2,2021-10-25,L,Hyattsville,Prince George's,MD,20783-4138,66,66,93,29.69,10,CALM,0,0,Cloudy,Day
-A-727676,2,2021-05-01,R,North Bergen,Hudson,NJ,7047,44,38,51,29.77,10,NW,13,0,Fair,Day
-A-745061,2,2021-05-28,R,Malvern,Chester,PA,19355,48,44,100,29.13,3,NNE,9,0,Rain,Night
-A-131275,2,2016-06-24,R,Hollister,San Benito,CA,95023-9551,84.2,,35,30.03,10,WSW,9.2,,Clear,Day
-A-602926,2,2021-08-13,R,Williamsburg,James City,VA,23185,91,91,59,30.07,10,SSW,7,0,,Day
-A-299365,2,2021-10-19,R,North Hills,Los Angeles,CA,91343,70,70,38,29.11,10,VAR,6,0,Fair,Day
-A-554062,2,2021-06-15,R,Pompano Beach,Broward,FL,33076,74,74,97,30.02,10,SW,5,0.1,Fair,Day
-A-738182,2,2021-05-01,L,Jacksonville,Duval,FL,32204-1406,71,71,90,30.01,10,NE,6,0,Fair,Night
-A-199907,2,2017-06-19,R,Kansas City,Jackson,MO,64131,69.1,,70,29.98,10,SW,4.6,,Clear,Day
-A-747396,2,2021-08-24,L,Lake Zurich,Lake,IL,60047-2353,77,77,84,29.25,10,N,18,0,Light Rain with Thunder,Day
-A-696003,2,2021-08-16,R,Heath Springs,Lancaster,SC,29058-9363,75,75,89,29.58,1,S,17,0.16,Heavy T-Storm,Day
-A-518992,2,2021-09-22,R,Duarte,Los Angeles,CA,91010,83,83,44,29.96,10,VAR,3,0,Fair,Day
-A-198531,3,2017-05-31,R,Acton,Los Angeles,CA,93510,71.1,,39,29.78,10,SW,5.8,,Clear,Night
-A-865997,2,2021-12-20,L,Little River,Horry,SC,29566-8145,47,42,59,30.2,10,N,10,0,Fair,Day
-A-641012,2,2021-12-10,L,Spartanburg,Spartanburg,SC,29301-2633,48,48,93,29.28,4,CALM,0,0,Cloudy,Day
-A-634322,2,2021-12-30,R,Bristol,Bristol,VA,24201,56,56,95,27.72,10,SSW,3,0,Cloudy,Night
-A-678064,2,2021-12-20,R,Orlando,Orange,FL,32803-4038,67,67,90,29.91,3,N,10,0.01,Light Rain,Night
-A-865388,2,2021-12-17,R,Tucson,Pima,AZ,85705-3222,53,53,48,27.21,10,NW,3,0,Fair,Day
-A-121710,2,2016-10-05,R,Whittier,Los Angeles,CA,90606,73.4,,44,29.94,10,Calm,,,Scattered Clouds,Day
-A-949812,2,2021-10-22,R,Hialeah,Miami-Dade,FL,33016,79,79,84,29.96,10,SE,6,0,Partly Cloudy,Day
-A-242149,2,2021-08-07,R,Pompano Beach,Broward,FL,33060,86,86,65,30.06,10,SE,6,0,Cloudy,Night
-A-525461,2,2021-07-25,L,Tucson,Pima,AZ,85716-3242,69,69,87,27.32,10,CALM,0,0,Light Rain Shower,Night
-A-738342,2,2021-10-26,R,Columbia,Richland,SC,29210,71,71,47,29.5,10,NW,9,0,Fair,Day
-A-981381,2,2021-11-07,R,Glendora,Los Angeles,CA,91740,57,57,82,28.91,1,WSW,6,,Partly Cloudy,Night
-A-997400,2,2021-05-30,R,Rodeo,Contra Costa,CA,94572,54,54,80,29.84,10,S,21,0,Fair / Windy,Night
-A-229578,2,2021-06-08,R,Warfordsburg,Fulton,PA,17267,80,80,69,29.36,10,WSW,5,0,Mostly Cloudy,Day
-A-560988,2,2021-04-14,R,Stockton,San Joaquin,CA,95215,57,57,51,29.92,10,NW,7,0,Fair,Night
-A-1032625,2,2021-09-09,R,Hazel Crest,Cook,IL,60429,73,73,48,29.36,10,NNW,5,0,Fair,Day
-A-66640,2,2016-10-14,R,Quincy,Norfolk,MA,2169,54,,37,30.33,,NW,5.8,,,Day
-A-806304,2,2021-09-01,R,Corona,Riverside,CA,92879,77,77,60,29.28,10,W,13,0,Fair,Day
-A-222526,2,2017-07-10,R,Alhambra,Los Angeles,CA,91803,75,,73,29.88,9,Calm,,,Clear,Day
-A-664526,2,2021-04-03,R,Irvine,Orange,CA,92618,56,56,84,30.02,8,VAR,3,0,Cloudy,Night
-A-716387,2,2021-11-07,R,Ashland,Hanover,VA,23005,51,51,52,29.9,10,CALM,0,0,Fair,Night
-A-615399,2,2021-08-05,R,Saint Paul,Washington,MN,55129,73,73,85,29.01,10,NE,5,0,Thunder in the Vicinity,Night
-A-269568,2,2021-11-12,L,Stockton,San Joaquin,CA,95215-5820,50,50,100,30.16,0,VAR,3,0,Fog,Night
-A-874221,2,2021-12-17,R,Charlotte,Mecklenburg,NC,28212-3684,70,70,61,29.38,10,SSW,9,0,Mostly Cloudy,Day
-A-706378,2,2021-08-03,R,Dallas,Dallas,TX,75201,86,,51,29.51,9,,,0,Fair,Day
-A-320685,2,2021-11-28,R,Enfield,Halifax,NC,27823,52,52,54,29.8,10,WSW,7,0,Fair,Day
-A-841790,2,2021-11-13,R,Ontario,San Bernardino,CA,91761,89,89,11,29.01,10,VAR,3,0,Fair,Day
-A-14451,4,2016-12-27,R,Denver,Adams,CO,80229,30.2,26.7,44,30.09,30,Variable,3.5,,Clear,Day
-A-666590,2,2021-09-17,R,Ridgeland,Jasper,SC,29936-6733,74,74,91,30.02,,N,3,0,Mostly Cloudy,Night
-A-328849,2,2021-07-08,R,Indianapolis,Marion,IN,46250,70,70,100,29,10,NNE,7,,Cloudy,Day
-A-803396,2,2021-11-16,R,Latham,Albany,NY,12110,42,36,65,29.76,10,W,10,0,Cloudy,Day
-A-637587,2,2021-09-03,R,Secaucus,Hudson,NJ,7094,70,70,57,30.01,10,NW,8,0,Fair,Night
-A-88631,2,2016-07-25,R,Milton,Norfolk,MA,2186,90,,46,29.93,,West,13.8,,,Day
-A-112431,2,2016-10-20,R,Napa,Napa,CA,94558,82,,30,30.03,10,SW,9.2,,Clear,Day
-A-353615,2,2021-06-24,R,San Diego,San Diego,CA,92117,72,72,61,29.53,10,WNW,10,0,Fair,Day
-A-911540,2,2021-06-02,R,Carson,Los Angeles,CA,90746,59,59,90,29.84,6,CALM,0,0,Cloudy,Day
-A-791944,2,2021-12-07,R,Elk River,Sherburne,MN,55330,14,14,86,28.94,5,ENE,3,0,Light Snow,Day
-A-968794,2,2021-10-13,L,Miami,Miami-Dade,FL,33174-1630,87,87,63,29.95,10,ENE,9,0,Mostly Cloudy,Day
-A-887442,2,2021-08-19,L,Los Angeles,Los Angeles,CA,90022-4033,77,77,54,29.69,10,W,3,0,Fair,Day
-A-127691,2,2016-08-24,R,Paramount,Los Angeles,CA,90723,82,,47,29.94,10,WNW,10.4,,Clear,Day
-A-432896,2,2021-12-07,R,Lancaster,Erie,NY,14086,30,21,54,29.35,10,W,10,0,Light Snow,Day
-A-273300,2,2021-11-08,R,Chino,San Bernardino,CA,91710,59,59,72,29.37,10,W,5,0,Fair,Night
-A-149590,2,2017-02-16,R,Independence,Cuyahoga,OH,44131,27,15.2,66,29.87,9,WNW,15,0,Light Snow,Night
-A-139890,2,2017-02-07,L,Lakeland,Polk,FL,33809-5323,82.4,,51,29.96,10,SW,12.7,,Scattered Clouds,Day
-A-243550,2,2021-06-24,R,Lancaster,Lancaster,PA,17603,77,77,34,29.93,10,S,9,0,Fair,Day
-A-962358,2,2021-12-23,L,North Miami,Miami-Dade,FL,33161-5414,73,73,31,30.1,10,NNW,8,0,Fair,Day
-A-1006101,2,2021-03-26,R,Sandston,Henrico,VA,23150,69,69,81,29.74,10,S,17,0,Mostly Cloudy,Night
-A-205600,4,2017-06-19,R,Burlington,Hartford,CT,06013-2609,79,,79,29.79,10,South,15,,Mostly Cloudy,Day
-A-919495,2,2021-07-20,R,Gwynn Oak,Baltimore County,MD,21207,,,,,,,,,,Day
-A-719508,2,2021-06-20,R,Bishopville,Worcester,MD,21813,84,84,69,29.84,10,S,8,0,Fair,Day
-A-129264,2,2016-09-05,R,Lynwood,Los Angeles,CA,90262-4623,73.9,,57,29.81,10,SSW,10.4,,Scattered Clouds,Day
-A-330934,2,2021-05-22,R,South San Francisco,San Mateo,CA,94080-7018,67,67,47,30.05,10,NW,17,0,Fair,Day
-A-871684,2,2021-10-27,R,Richmond,Contra Costa,CA,94804,52,52,93,30.26,10,SE,5,0,Fair,Night
-A-38669,2,2016-12-21,R,Charleston,Kanawha,WV,25314,46,,37,30.23,10,Calm,,,Mostly Cloudy,Day
-A-673429,2,2021-06-15,L,Los Angeles,Los Angeles,CA,90034-6503,73,73,64,29.58,10,CALM,0,0,Fair,Day
-A-442804,2,2021-03-28,R,Castroville,Monterey,CA,95012,76,76,29,30.13,10,VAR,6,0,Fair,Day
-A-913152,2,2021-04-11,R,Miami,Miami-Dade,FL,33147-7013,71,71,73,29.9,10,E,7,0,Fair,Night
-A-769557,2,2021-11-12,R,Virginia Beach,Virginia Beach,VA,23462,68,68,81,29.96,10,SW,12,0,Mostly Cloudy,Day
-A-371444,2,2021-09-27,R,Little Rock,Pulaski,AR,72212,88,88,34,29.6,10,CALM,0,0,Fair,Day
-A-867908,2,2021-10-27,R,Lakeland,Polk,FL,33813-1540,81,81,51,29.62,10,W,7,0,Fair,Day
-A-431302,2,2021-10-16,L,Homestead,Miami-Dade,FL,33033,88,88,50,29.91,10,WNW,8,0,Partly Cloudy,Day
-A-508079,2,2021-08-27,R,San Diego,San Diego,CA,92101,69,69,84,29.76,5,NNW,5,0,Mostly Cloudy,Day
-A-449443,2,2021-11-03,R,Palo Cedro,Shasta,CA,96073-9730,48,48,93,29.63,10,CALM,0,0,Fair,Night
-A-491619,2,2021-11-08,R,Torrance,Los Angeles,CA,90502-1656,57,57,77,29.99,10,CALM,0,,Fair,Night
-A-512752,2,2021-11-28,R,Annville,Lebanon,PA,17003,37,37,70,29.29,10,CALM,0,0,Cloudy,Day
-A-489847,2,2021-10-11,R,Crescent,Klamath,OR,97733,39,32,56,26.57,10,NW,13,0,Fair,Day
-A-690670,2,2021-10-12,R,Miami,Miami-Dade,FL,33155-3744,83,83,67,29.89,10,ESE,13,0,Mostly Cloudy,Day
-A-863475,2,2021-11-26,L,Pine Grove,Amador,CA,95665-9709,50,50,66,27.45,10,E,5,0,Fair,Night
-A-440106,2,2021-05-05,L,Dayton,Montgomery,OH,45406-1604,58,58,44,28.98,10,NNW,12,0,Mostly Cloudy,Day
-A-825274,2,2021-12-23,L,Raleigh,Wake,NC,27612-4502,45,45,37,29.84,10,CALM,0,0,Fair,Day
-A-868214,2,2021-08-03,L,Aitkin,Aitkin,MN,56431,84,84,35,28.74,7,CALM,0,0,Fair,Day
-A-100681,2,2016-05-31,R,Ephrata,Lancaster,PA,17522-8434,78.1,,58,29.99,10,NE,8.1,,Clear,Day
-A-655040,2,2021-08-23,R,Kissimmee,Osceola,FL,34744,91,91,59,29.91,10,S,7,0,Fair,Day
-A-83172,3,2016-07-01,R,Warwick,Kent,RI,2886,80.1,,62,30.02,10,SSE,13.8,,Mostly Cloudy,Day
-A-369603,4,2021-10-16,R,Clarksburg,Montgomery,MD,20871,64,64,93,29.23,10,CALM,0,0,Fair,Night
-A-763090,2,2021-12-10,L,Miami,Miami-Dade,FL,33143,79,79,72,30.08,10,ESE,10,0,Fair,Day
-A-753897,2,2021-09-24,R,Chesapeake,Chesapeake,VA,23320,73,73,44,30.04,7,N,10,0,Fair,Day
-A-551022,2,2021-08-31,R,Canby,Modoc,CA,96015,70,70,14,25.43,10,W,6,0,Fair,Night
-A-663066,2,2021-07-12,L,Houston,Harris,TX,77027-3902,79,79,79,30.05,10,ENE,14,0,Cloudy,Day
-A-240228,2,2021-03-05,R,New London,Kandiyohi,MN,56273-9612,37,34,75,29.09,10,ESE,5,0,Fair,Day
-A-308596,2,2021-12-25,L,Flagstaff,Coconino,AZ,86004,35,26,89,23.07,10,SW,15,0,Cloudy,Night
-A-215875,3,2017-07-24,R,Liberty,Clay,MO,64068,73.4,,83,30.01,10,Calm,,,Clear,Night
-A-281717,2,2021-12-01,R,Hobson,Judith Basin,MT,59452,59,59,41,25.58,10,WSW,37,0,Fair / Windy,Day
-A-589930,2,2021-03-26,L,Marbury,Autauga,AL,36051,67,67,88,29.9,10,ENE,3,0,Cloudy,Night
-A-198515,2,2017-05-30,R,Burlingame,San Mateo,CA,94010,57,,72,29.93,10,West,29.9,,Mostly Cloudy,Day
-A-551117,2,2021-06-20,R,Ontario,San Bernardino,CA,91761,91,91,27,28.84,10,WSW,14,0,Fair,Day
-A-122177,2,2016-10-07,R,Las Vegas,Clark,NV,89101,59,,18,30.12,10,NW,10.4,,Clear,Day
-A-679423,2,2021-12-26,L,Minneapolis,Hennepin,MN,55430,27,19,63,28.99,10,E,8,0,Cloudy,Day
-A-1036584,2,2021-07-23,R,Hollywood,Broward,FL,33023,89,89,63,30.13,10,ESE,10,0,Partly Cloudy,Day
-A-576833,2,2021-12-04,R,Redmond,Deschutes,OR,97756,59,59,38,26.86,10,S,15,0,Fair,Day
-A-704853,2,2021-10-06,R,Fort Wayne,Allen,IN,46805-1035,67,67,87,29.38,10,ENE,13,0,Cloudy,Day
-A-223352,3,2017-07-15,R,Oak Harbor,Island,WA,98277-7944,64.9,,56,30.24,10,WSW,12.7,,Partly Cloudy,Day
-A-218859,2,2017-07-18,R,Baltimore,Baltimore City,MD,21224,80.1,,81,30.09,,North,,,,Day
-A-27724,2,2016-09-07,R,Brighton,Adams,CO,80601,52,,97,29.88,2,Calm,,,Mostly Cloudy,Day
-A-647136,2,2021-12-26,R,Yoncalla,Douglas,OR,97499,33,29,96,29.15,0.75,S,5,0.01,Light Snow,Night
-A-550886,2,2021-12-21,L,Orlando,Orange,FL,32819-5206,63,63,90,29.71,10,WNW,13,0,Cloudy,Night
-A-380314,2,2021-07-05,L,Darlington,Darlington,SC,29532-5637,87,87,46,,10,SE,6,0,Fair,Day
-A-73926,2,2016-08-22,L,Lombard,DuPage,IL,60148,69.1,,54,30.18,10,SW,4.6,,Partly Cloudy,Day
-A-994634,2,2021-06-08,L,Orlando,Orange,FL,32824,89,89,50,30,10,E,16,0,Mostly Cloudy,Day
-A-541604,2,2021-11-12,R,Moreno Valley,Riverside,CA,92553,59,59,42,28.48,10,NNW,5,0,Fair,Night
-A-315653,2,2021-06-18,L,Paoli,Chester,PA,19301-2034,79,79,36,29.34,10,VAR,5,0,Fair,Day
-A-497613,2,2021-04-24,L,New Castle,New Castle,DE,19720-2538,65,65,33,29.96,10,SSE,10,0,Fair,Day
-A-769957,2,2021-09-16,R,Murfreesboro,Rutherford,TN,37129,75,75,71,29.43,10,ESE,9,0,Mostly Cloudy,Day
-A-115182,2,2016-11-09,R,Ontario,San Bernardino,CA,91761,91,,12,29.94,10,SSE,8.1,,Mostly Cloudy,Day
-A-374721,2,2021-09-14,R,Deltona,Volusia,FL,32725,75,75,94,29.98,10,ENE,3,0,Fair,Day
-A-46296,3,2017-01-21,R,Chicago,Cook,IL,60609,52,,83,29.54,10,South,15,,Partly Cloudy,Day
-A-40421,2,2016-12-29,R,Dumfries,Prince William,VA,22026,42.1,40.2,,29.8,10,SW,3.5,,Overcast,Day
-A-339660,2,2021-09-10,R,Dallas,Dallas,TX,75216-5819,87,87,31,29.28,10,SSE,10,0,Fair,Day
-A-373567,2,2021-03-21,R,Quinton,New Kent,VA,23141,62,62,23,30.27,10,ENE,12,0,Partly Cloudy,Day
-A-756389,2,2021-07-11,R,Shreveport,Caddo,LA,71103-4365,85,85,65,29.73,10,SW,7,0,Thunder,Day
-A-624933,2,2021-09-17,R,Miami,Miami-Dade,FL,33186,80,80,85,30.05,6,NW,6,0,Light Rain with Thunder,Day
-A-382307,2,2021-08-20,R,Newark,Essex,NJ,7112,78,78,68,29.87,10,VAR,3,0,Mostly Cloudy,Day
-A-405412,2,2021-10-14,R,Micanopy,Alachua,FL,32667-4072,85,85,59,29.79,10,CALM,0,0,Partly Cloudy,Day
-A-119421,2,2016-09-23,R,Yorba Linda,Orange,CA,92887,82,,21,29.97,10,Variable,4.6,,Clear,Day
-A-1021682,2,2021-04-04,L,Raleigh,Wake,NC,27610-5187,74,74,24,29.65,10,NW,8,0,Fair,Day
-A-297744,2,2021-04-26,R,Miami,Miami-Dade,FL,33179,82,82,49,30,10,NE,16,0,,Day
-A-937482,2,2021-09-08,R,San Antonio,Bexar,TX,78233,94,94,33,29.11,10,N,6,0,Fair,Day
-A-76822,2,2016-08-31,R,Elmsford,Westchester,NY,10523,81,,60,29.87,10,South,4.6,,Mostly Cloudy,Day
-A-387044,2,2021-11-08,L,Manor,Travis,TX,78653-4520,66,66,73,29.51,10,SSE,5,0,Fair,Night
-A-1020132,2,2021-08-25,R,Dallas,Dallas,TX,75215,93,93,45,29.51,10,SE,5,0,Partly Cloudy,Day
-A-238710,2,2021-07-01,R,Deming,Luna,NM,88030,72,72,71,25.76,10,E,8,0,Cloudy,Day
-A-879743,2,2021-10-07,R,San Mateo,San Mateo,CA,94402,63,63,55,29.98,10,W,17,0,Fair,Day
-A-456637,2,2021-03-31,R,Shreveport,Caddo,LA,71108-2021,60,60,35,30.11,10,N,20,0,Cloudy,Day
-A-361850,2,2021-03-08,R,Jacksonville,Duval,FL,32207,61,61,39,30.5,10,ENE,7,0,Fair,Day
-A-1045273,2,2021-09-26,R,Mesquite,Dallas,TX,75150,81,81,42,29.65,10,S,6,0,Fair,Day
-A-565330,2,2021-08-05,L,North Charleston,Charleston,SC,29406-4659,75,75,82,30.04,10,NE,3,0,Light Rain,Day
-A-804561,2,2021-12-22,L,Fergus Falls,Otter Tail,MN,56537,10,-2,92,28.55,10,SSE,8,0,Cloudy,Night
-A-199317,2,2017-06-09,R,Minneapolis,Hennepin,MN,55443,70,,55,29.82,10,East,5.8,,Clear,Day
-A-197634,2,2017-05-24,R,Helendale,San Bernardino,CA,92342-9737,62.6,,42,29.92,10,South,8.1,,Clear,Night
-A-620113,2,2021-12-08,R,Fremont,Alameda,CA,94538,55,55,77,30,10,W,7,,Cloudy,Night
-A-215024,2,2017-07-12,R,Dallas,Dallas,TX,75229,91,,50,30.01,10,South,9.2,,Partly Cloudy,Day
-A-593865,2,2021-04-01,L,Ukiah,Mendocino,CA,95482,57,57,47,29.36,10,CALM,0,0,Fair,Day
-A-885593,2,2021-03-09,R,Harrisburg,Dauphin,PA,17110,68,68,25,29.92,10,NW,8,0,Fair,Day
-A-245064,2,2021-12-04,R,Alamo,Contra Costa,CA,94507-2456,52,52,86,30.17,8,W,8,0,Fair,Night
-A-1023831,2,2021-10-27,R,North Charleston,Charleston,SC,29418-8416,62,62,41,29.86,10,N,10,0,Partly Cloudy,Day
-A-916502,4,2021-08-03,L,Dolan Springs,Mohave,AZ,86441,84,84,33,26.52,10,SSE,7,0,Fair,Night
-A-248401,2,2021-05-14,R,Ocala,Marion,FL,34475,78,78,52,30.05,10,NE,8,0,Partly Cloudy,Day
-A-366438,2,2021-11-12,R,Baton Rouge,East Baton Rouge,LA,70816,52,52,100,30.07,1,E,7,0,Fog,Day
-A-489593,2,2021-10-27,R,Montgomery,Montgomery,AL,36117,75,75,34,29.59,10,SSE,6,0,Fair,Day
-A-89333,2,2016-07-27,R,Brockton,Plymouth,MA,2301,88,,35,29.94,,Variable,5.8,,,Day
-A-756733,2,2021-11-07,R,Carmel,Monterey,CA,93923,61,61,54,29.94,10,NW,7,0,Fair,Day
-A-230120,4,2021-09-09,R,Victorville,San Bernardino,CA,92395,90,90,33,26.97,10,E,23,0,Fair / Windy,Day
-A-903027,2,2021-12-09,R,Libertyville,Lake,IL,60048,37,28,70,29.04,10,SSE,16,0,Mostly Cloudy,Day
-A-703227,2,2021-11-02,L,North Chicago,Lake,IL,60064,43,37,56,29.55,10,WNW,10,0,Fair,Day
-A-403688,2,2021-11-21,R,Baton Rouge,East Baton Rouge,LA,70816,64,64,96,30.13,7,E,7,0,Cloudy,Day
-A-641298,2,2021-12-23,R,Jacksonville,Jackson,OR,97530-9569,41,41,82,28.26,10,CALM,0,0.01,Light Rain,Night
-A-320356,2,2021-09-18,R,Hayes,Gloucester,VA,23072-2929,79,79,72,30.08,10,VAR,5,0,Mostly Cloudy,Day
-A-644272,2,2021-03-23,R,Eaton Park,Polk,FL,33840-9700,,,,,,,,,,
-A-713604,2,2021-10-22,R,Saint Petersburg,Pinellas,FL,33713,78,78,74,30.05,10,ESE,8,0,Fair,Night
-A-381470,2,2021-11-14,R,Sacramento,Sacramento,CA,95821-6008,55,55,100,30.05,6,WNW,3,0,Cloudy,Day
-A-31646,2,2016-11-30,R,Memphis,Shelby,TN,38122,50,,48,29.89,10,West,6.9,,Partly Cloudy,Night
-A-552746,2,2021-06-11,R,La Habra,Orange,CA,90631,81,81,34,29.76,10,S,7,0,Fair,Day
-A-991703,2,2021-12-15,R,Lafayette,Contra Costa,CA,94549,55,55,57,30.04,10,S,17,0,Mostly Cloudy,Day
-A-460955,2,2021-06-15,R,Osseo,Hennepin,MN,55369,76,76,43,29.18,10,ENE,6,0,Fair,Day
-A-223547,2,2017-07-18,R,Sacramento,Sacramento,CA,95864,60.8,,55,29.91,10,South,4.6,,Clear,Day
-A-619966,2,2021-12-15,R,Baldwin Park,Los Angeles,CA,91706,56,56,47,30.08,10,SSW,8,0,Fair,Day
-A-754565,2,2021-07-31,R,Artesia,Los Angeles,CA,90701,78,78,52,29.96,10,W,8,0,Fair,Day
-A-202561,3,2017-06-07,R,Westminster,Carroll,MD,21157,60.8,,82,29.98,10,SE,5.8,,Overcast,Day
-A-584250,2,2021-07-26,R,Port Trevorton,Snyder,PA,17864,74,74,87,29.44,10,CALM,0,0,Mostly Cloudy,Night
-A-704330,2,2021-03-04,R,Knoxville,Knox,TN,37917,51,51,41,29.04,10,N,9,0,Fair,Night
-A-20743,2,2016-11-28,R,Catoosa,Rogers,OK,74015,63,,37,29.31,10,West,18.4,,Scattered Clouds,Day
-A-458232,2,2021-09-24,R,Miami,Miami-Dade,FL,33178,77,77,100,29.92,10,CALM,0,0,Partly Cloudy,Day
-A-520047,2,2021-04-17,R,Manhasset,Nassau,NY,11030,54,54,43,29.74,10,NW,8,0,Mostly Cloudy,Day
-A-924592,2,2021-09-15,R,Whittier,Los Angeles,CA,90601,82,82,44,29.74,10,S,7,0,Fair,Day
-A-815044,2,2021-12-17,L,North Miami,Miami-Dade,FL,33181-3111,80,80,67,30.15,10,E,15,0,Mostly Cloudy,Day
-A-54678,4,2016-11-15,R,Smyrna,Kent,DE,19977,59.9,,35,29.8,10,West,10.4,,Overcast,Day
-A-909722,2,2021-04-27,R,Cypress,Harris,TX,77433,79,79,78,29.72,8,SE,9,0,Mostly Cloudy,Day
-A-198566,2,2017-05-31,R,Los Angeles,Los Angeles,CA,90061,62.1,,80,29.89,10,ESE,5.8,,Overcast,Day
-A-143565,2,2017-02-03,R,San Francisco,San Francisco,CA,94112,57,,81,29.99,4,SW,10.4,0.01,Light Rain,Night
-A-554637,2,2021-09-12,R,Baton Rouge,East Baton Rouge,LA,70805,74,74,97,30.08,10,E,6,0,Mostly Cloudy,Night
-A-775140,2,2021-03-01,R,Miami,Miami-Dade,FL,33161,73,73,81,30.06,10,SSE,8,0,Fair,Night
-A-888137,2,2021-05-07,L,South Salt Lake,Salt Lake,UT,84119-3325,69,69,20,25.61,10,S,9,0,Fair,Night
-A-473968,2,2021-09-16,R,Alpharetta,Fulton,GA,30009,72,72,91,28.99,10,CALM,0,0,Cloudy,Night
-A-137453,2,2017-01-30,R,Charlotte,Mecklenburg,NC,28204,32,,61,29.92,10,Calm,,,Partly Cloudy,Night
-A-959004,2,2021-12-27,R,Boron,Kern,CA,93516-1647,47,39,64,27.45,10,SSW,25,0,Fair / Windy,Day
-A-229491,2,2021-05-16,R,Temple Hills,Prince George's,MD,20748,72,72,36,29.95,10,SSW,7,0,Mostly Cloudy,Day
-A-375426,2,2021-11-01,R,Manakin Sabot,Goochland,VA,23103,65,65,48,29.96,10,N,5,0,Fair,Day
-A-238919,2,2021-05-24,R,Land O Lakes,Pasco,FL,34639,73,73,69,30.17,10,CALM,0,0,Fair,Day
-A-877148,2,2021-05-21,R,New Orleans,Orleans,LA,70118,77,77,84,30.16,4,E,18,0,Light Rain,Day
-A-300320,2,2021-12-06,R,Lanham,Prince George's,MD,20706-1305,67,67,52,29.62,10,SSW,7,0,Cloudy,Night
-A-159310,2,2017-03-21,L,Brooksville,Hernando,FL,34601-5761,78.1,,33,30.12,10,West,12.7,,Clear,Day
-A-917815,2,2021-04-06,R,Redlands,San Bernardino,CA,92374,57,57,72,28.72,10,W,5,0,Fair,Night
-A-425447,2,2021-12-29,L,Dallas,Dallas,TX,75231,67,67,54,29.26,10,CALM,0,0,Partly Cloudy,Night
-A-511867,2,2021-03-14,R,Dallas,Dallas,TX,75247,67,67,79,29.42,8,SSE,9,0.02,Light Rain,Night
-A-555075,2,2021-11-02,R,Midvale,Salt Lake,UT,84047,49,49,100,25.85,10,SE,3,0,Mostly Cloudy,Night
-A-773875,2,2021-12-03,R,Massapequa Park,Nassau,NY,11762,44,39,38,29.91,10,WNW,10,0,Fair,Night
-A-829390,2,2021-08-07,R,Miami,Miami-Dade,FL,33162,90,90,55,30.11,10,SE,12,0,Partly Cloudy,Day
-A-431957,2,2021-12-12,L,Los Angeles,Los Angeles,CA,90007-1852,55,55,72,29.81,10,CALM,0,0,Fair,Night
-A-727556,2,2021-12-17,L,Cutler Bay,Miami-Dade,FL,33157-7708,79,79,77,30.17,10,ESE,13,0,Fair,Day
-A-981898,2,2021-04-13,R,Hempstead,Nassau,NY,11550,45,41,90,29.95,10,NE,8,0.02,Light Rain,Night
-A-498950,2,2021-12-26,R,Cerritos,Los Angeles,CA,90703,54,54,90,29.85,10,SSW,8,0.04,Cloudy,Night
-A-18548,2,2016-11-03,R,Kansas City,Clay,MO,64116,73,,38,30.27,10,NNW,3.5,,Clear,Day
-A-731266,2,2021-10-21,R,Sarasota,Sarasota,FL,34239-6203,84,84,56,30.1,10,ESE,7,0,Partly Cloudy,Day
-A-438857,2,2021-06-28,L,Forestville,Sonoma,CA,95436-9464,63,63,72,29.6,10,SSE,8,0,Fair,Night
-A-405292,2,2021-06-16,R,Nashville,Davidson,TN,37208,85,85,36,29.37,10,N,10,0,Partly Cloudy,Day
-A-148718,2,2017-04-02,R,Hopkins,Hennepin,MN,55305,50,,86,29.78,6,South,8.1,,Overcast,Night
-A-642305,2,2021-11-20,R,Darien,Fairfield,CT,6820,36,36,73,29.95,10,CALM,0,0,Fair,Night
-A-909292,2,2021-12-15,R,Dallas,Dallas,TX,75206,78,78,62,29.37,10,S,14,0,Mostly Cloudy,Day
-A-705895,2,2021-09-01,R,Birmingham,Jefferson,AL,35209,76,76,85,29.16,10,CALM,0,0,Partly Cloudy,Day
-A-897618,2,2021-09-02,R,Jacksonville,Duval,FL,32210,88,88,63,29.86,10,W,12,0,Mostly Cloudy,Day
-A-452510,2,2021-11-02,R,Jacksonville,Duval,FL,32207,78,78,56,30.08,10,N,7,0,Partly Cloudy,Day
-A-399667,2,2021-10-25,R,Waldorf,Charles,MD,20601-3155,72,72,59,29.6,10,SSW,14,0,Fair,Day
-A-790028,2,2021-12-11,R,Grass Valley,Nevada,CA,95949-9144,45,45,61,26.82,10,CALM,0,0,Fair,Day
-A-954140,2,2021-03-09,R,Sacramento,Sacramento,CA,95819,46,44,86,30.13,10,SE,5,0,Mostly Cloudy,Day
-A-744875,2,2021-06-04,R,Niagara,Grand Forks,ND,58266,78,78,48,28.67,10,WSW,8,0,Fair,Day
-A-669891,2,2021-09-13,R,Detroit,Wayne,MI,48223,64,64,93,29.27,10,NE,6,0,Cloudy,Night
-A-843082,2,2021-09-18,R,Riverside,Riverside,CA,92501,67,67,68,29.21,10,VAR,3,0,Fair,Day
-A-469448,2,2021-10-15,R,Summerfield,Marion,FL,34491-6307,79,79,69,29.87,10,ENE,6,0,Fair,Night
-A-136035,3,2017-02-03,R,Kansas City,Jackson,MO,64127,26.1,17.6,55,30.53,10,NNE,8.1,,Overcast,Night
-A-885701,2,2021-11-03,L,Ocoee,Orange,FL,34761-6955,71,71,87,29.98,10,N,7,0,Fair,Night
-A-1028483,2,2021-11-15,R,Tampa,Hillsborough,FL,33610,70,70,49,30.16,10,NNE,3,0,Fair,Day
-A-694250,2,2021-08-08,R,Chattanooga,Hamilton,TN,37411-1213,83,83,60,29.39,10,CALM,0,0,Mostly Cloudy,Day
-A-174158,2,2017-04-07,R,Dayton,Montgomery,OH,45432,42.8,35.4,67,29.97,10,WNW,15,,Mostly Cloudy,Day
-A-513395,2,2021-11-19,R,Denair,Stanislaus,CA,95316,61,61,72,30.04,4,NE,3,0,Haze,Day
-A-233705,2,2021-12-26,R,Rochester,Thurston,WA,98579,32,25,100,29.22,0.5,SSE,8,0,Fog,Day
-A-651515,2,2021-09-13,R,Charleston,Charleston,SC,29406-9013,85,85,55,30.12,10,ESE,7,0,Mostly Cloudy,Day
-A-874173,2,2021-10-05,R,Glendale,Los Angeles,CA,91206,76,76,50,29.73,10,CALM,0,0,Fair,Day
-A-172753,2,2017-04-03,R,Lisle,DuPage,IL,60532,48.9,,100,29.41,3,NE,9.2,0.03,Light Rain,Day
-A-167880,3,2017-03-16,R,Orange,Orange,CA,92867,62.1,,70,30.08,10,Calm,,,Clear,Night
-A-480236,2,2021-05-27,R,Hialeah,Miami-Dade,FL,33012,85,,46,30.14,10,,,0,Fair,Day
-A-161431,2,2017-03-29,L,Lake Zurich,Lake,IL,60047,43,37.7,80,30.28,10,ENE,9.2,,Clear,Day
-A-86550,4,2016-07-15,R,Ronkonkoma,Suffolk,NY,11779,77,,88,29.82,9,SSW,9.2,,Clear,Night
-A-961107,2,2021-10-13,R,Dallas,Dallas,TX,75227-1604,75,75,94,29.36,10,SSE,13,0,Light Rain,Day
-A-685460,2,2021-11-23,R,Miami,Miami-Dade,FL,33150,68,68,50,30.04,10,NNW,20,0,Fair,Day
-A-439504,2,2021-05-31,R,Escondido,San Diego,CA,92029,62,62,75,29.59,10,SW,9,0,Mostly Cloudy,Day
-A-771570,2,2021-12-04,L,Fort Myers,Lee,FL,33966,78,78,48,30.12,10,E,5,0,Fair,Day
-A-269016,2,2021-11-04,R,Hermitage,Davidson,TN,37076-2641,49,45,41,29.61,10,N,8,0,Fair,Night
-A-613710,2,2021-10-25,L,Largo,Pinellas,FL,33770,77,77,,29.95,10,S,8,0.18,Mostly Cloudy,Night
-A-625795,2,2021-09-28,R,Centreville,Fairfax County,VA,20121,56,56,97,29.72,10,CALM,0,0,Fair,Day
-A-458862,2,2021-10-26,R,Orlando,Orange,FL,32824-7801,76,76,91,29.8,10,WSW,8,0,Partly Cloudy,Day
-A-56806,3,2016-11-22,R,Port Crane,Broome,NY,13833,27,16.7,81,30.17,6,NW,11.5,0,Overcast,Day
-A-533241,2,2021-07-05,R,Centreville,Fairfax County,VA,20120,88,88,48,29.7,10,SSW,7,0,Mostly Cloudy,Day
-A-163689,2,2017-02-14,R,Porter Ranch,Los Angeles,CA,91326,71,71,51,29.14,10,SE,9,0,Fair,Day
-A-972079,2,2021-12-10,L,Winchester,Frederick,VA,22603-4818,50,50,50,29.25,10,CALM,0,0,Mostly Cloudy,Day
-A-80641,2,2016-06-23,R,Newport News,Newport News,VA,23602,,,,,,,,,,Day
-A-212741,2,2017-06-19,R,San Bruno,San Mateo,CA,94066,60.1,,78,29.77,10,WNW,11.5,,Partly Cloudy,Night
-A-611511,2,2021-07-21,R,Forestville,Sonoma,CA,95436-9533,70,70,51,29.67,9,S,9,0,Fair,Day
-A-280262,2,2021-11-12,R,Oreland,Montgomery,PA,19075,40,40,97,29.64,10,CALM,0,0,Fair,Night
-A-824361,2,2021-07-18,R,Overton,Clark,NV,89040,93,93,36,27.98,10,SSW,12,0,Thunder,Day
-A-502058,2,2021-05-06,R,New Rochelle,Westchester,NY,10804,51,51,63,29.45,10,NW,15,0,Fair,Day
-A-663661,2,2021-03-23,R,Los Angeles,Los Angeles,CA,90001-1019,66,66,34,29.67,10,VAR,6,0,Fair,Day
-A-77050,2,2016-09-01,R,Bronx,Bronx,NY,10452,79,,62,29.83,10,East,8.1,,Overcast,Day
-A-605499,2,2021-08-05,L,Dallas,Dallas,TX,75231-8011,81,81,62,29.58,7,S,6,0,Partly Cloudy,Day
-A-171716,2,2017-04-21,R,Dallas,Dallas,TX,75224,82,,56,29.71,10,South,10.4,,Clear,Day
-A-744646,2,2021-04-07,R,Kissimmee,Osceola,FL,34741-4049,60,60,93,30,10,CALM,0,0,Fair,Night
-A-50055,2,2016-10-30,R,Milton,Norfolk,MA,2186,,,,,,,,,,Night
-A-219622,2,2017-07-20,R,Red Bank,Monmouth,NJ,7701,93.9,,44,29.91,10,West,10.4,,Clear,Day
-A-384869,2,2021-12-07,R,Osseo,Hennepin,MN,55369,12,2,80,29.14,1,ESE,7,0,Light Snow,Day
-A-768487,2,2021-12-23,R,Pueblo,Pueblo,CO,81005-2551,62,62,20,24.97,10,SE,7,0,Fair,Day
-A-559138,2,2021-11-21,R,Aurora,Arapahoe,CO,80012,49,44,30,24.64,10,S,10,0,Fair,Day
-A-69731,3,2016-08-07,R,Dania,Broward,FL,33004,81,,91,30.02,10,Variable,3.5,,Mostly Cloudy,Day
-A-56840,2,2016-11-22,R,Manchester,Clay,KY,40962,54,,20,30.28,10,NE,5.8,,Clear,Day
-A-244332,2,2021-10-19,L,Los Angeles,Los Angeles,CA,90001-4112,63,63,65,29.77,10,W,5,0,Fair,Day
-A-267490,2,2021-04-08,R,Hampton,Hampton,VA,23661,61,61,83,30.04,10,ESE,15,0,Fair,Day
-A-917029,2,2021-05-15,R,Jacksonville,Duval,FL,32254,65,65,70,30.18,10,ENE,5,0,Fair,Night
-A-582969,2,2021-11-04,L,Nashville,Davidson,TN,37207,40,40,65,29.68,10,VAR,3,0,Fair,Day
-A-756138,2,2021-12-01,R,Anaheim,Orange,CA,92807,62,62,78,29.94,4,VAR,3,0,Haze,Night
-A-736029,2,2021-05-20,R,Hamtramck,Wayne,MI,48212,84,84,38,29.65,10,SSW,7,0,Fair,Day
-A-471105,4,2021-07-26,R,Schuyler,Albemarle,VA,22969-1803,77,77,84,29.29,9,W,3,0.02,Mostly Cloudy,Night
-A-50339,2,2016-10-31,R,Atlanta,Cobb,GA,30339,71.6,,56,30.09,10,Calm,,,Mostly Cloudy,Night
-A-1036404,2,2021-11-17,R,Miami,Miami-Dade,FL,33186,76,76,82,30.13,10,E,9,0,Cloudy,Night
-A-324367,2,2021-06-27,R,Dallas,Dallas,TX,75211,79,79,74,29.19,10,ESE,6,0,Fair,Night
-A-927560,2,2021-12-01,L,Carmel,Monterey,CA,93923,63,63,41,29.81,10,ESE,5,0,Fair,Night
-A-833198,2,2021-06-26,R,Lakeland,Washington,MN,55043,72,72,83,28.76,10,NE,7,0,Cloudy,Day
-A-357142,2,2021-05-08,R,Mission Hills,Los Angeles,CA,91345,57,57,77,28.91,6,CALM,0,,Haze,Night
-A-469341,2,2021-09-07,R,Comptche,Mendocino,CA,95427,76,76,33,29.26,10,SSE,3,0,Fair,Night
-A-275853,2,2021-11-16,R,Ballston Spa,Saratoga,NY,12020-3112,34,30,87,29.64,15,W,5,0,Fair,Night
-A-200207,2,2017-06-22,R,Humble,Harris,TX,77396,81,,79,29.7,10,WSW,13.8,0.01,Overcast,Day
-A-654567,4,2021-09-17,R,Avon,Livingston,NY,14414,58,58,97,29.62,10,CALM,0,0,Partly Cloudy,Night
-A-476267,2,2021-11-05,R,Upland,San Bernardino,CA,91786,61,61,56,28.95,10,CALM,0,0,Fair,Day
-A-526817,2,2021-06-11,L,Gardena,Los Angeles,CA,90247-2639,74,74,46,29.85,10,W,13,0,Fair,Day
-A-757110,2,2021-08-16,R,Sacramento,Sacramento,CA,95829-9333,68,68,68,29.66,8,CALM,0,,Fair,Day
-A-966036,2,2021-10-22,L,Zephyrhills,Pasco,FL,33541,79,79,78,29.93,10,CALM,0,0,Fair,Day
-A-67748,2,2016-10-19,R,Columbus,Franklin,OH,43230,64,,93,30.07,9,NE,6.9,,Scattered Clouds,Day
-A-713321,2,2021-06-12,R,Charlotte,Mecklenburg,NC,28213,82,82,66,29.08,10,N,10,0,Partly Cloudy,Day
-A-282745,2,2021-12-25,L,Los Angeles,Los Angeles,CA,90017-2416,53,53,89,29.85,4,CALM,0,0,Cloudy,Day
-A-250258,2,2021-10-29,R,Sacramento,Sacramento,CA,95821-6635,52,52,100,29.89,7,CALM,0,0,Fair,Day
-A-665579,2,2021-09-14,R,Houston,Harris,TX,77096-3102,72,72,84,29.75,2,E,32,0.08,Heavy Rain / Windy,Night
-A-968926,2,2021-08-26,L,Victoria,Carver,MN,55386-4527,63,63,90,29.1,9,ENE,17,0.76,T-Storm,Day
-A-82757,2,2016-06-30,R,Ruther Glen,Caroline,VA,22546,75.9,,56,30.08,10,Variable,4.6,,Clear,Day
-A-184620,2,2017-04-21,R,Los Angeles,Los Angeles,CA,90015,70,,55,29.92,9,Calm,,,Clear,Day
-A-761419,2,2021-12-17,R,Springfield,Greene,MO,65804,50,50,100,28.54,10,SSE,13,0.02,Cloudy,Day
-A-817585,2,2021-09-08,R,Charlotte,Mecklenburg,NC,28277,73,73,93,29.22,7,SW,7,0,Cloudy,Day
-A-693137,2,2021-11-13,R,Saint Paul,Ramsey,MN,55101,33,28,89,28.9,1,S,6,0,Light Snow,Night
-A-157483,3,2017-03-15,R,Fort Lee,Bergen,NJ,7024,26.1,11.3,49,29.58,7,West,23,0,Light Snow,Day
-A-66331,2,2016-10-13,R,Indianapolis,Marion,IN,46226,57.2,,55,30.27,10,Calm,,,Clear,Day
-A-881436,2,2021-11-29,L,New Cuyama,Santa Barbara,CA,93254,82,82,9,29.3,10,W,7,0,Fair,Day
-A-845118,2,2021-11-07,R,Bothell,King,WA,98011,41,33,89,29.34,10,S,16,0,Mostly Cloudy,Night
-A-697786,2,2021-09-28,R,Whites Creek,Davidson,TN,37189,69,69,81,29.36,10,S,3,0,Fair,Night
-A-440854,2,2021-12-22,R,Springfield,Greene,MO,65807-2645,51,51,33,28.66,10,S,13,0,Fair,Day
-A-957800,2,2021-04-30,R,Coraopolis,Allegheny,PA,15108-4005,57,57,40,28.58,10,WNW,22,0,Mostly Cloudy / Windy,Day
-A-689741,2,2021-12-14,R,Minneapolis,Hennepin,MN,55404,39,31,70,29.08,10,SE,14,0,Cloudy,Night
-A-445797,2,2021-11-19,L,Nashville,Davidson,TN,37210-2110,45,45,39,29.77,10,CALM,0,0,Fair,Night
-A-1042391,2,2021-12-31,R,Charlotte,Mecklenburg,NC,28205-6538,67,67,79,29.15,10,SSW,12,0,Cloudy,Night
-A-578916,2,2021-11-08,L,Fort Washington,Prince George's,MD,20744,56,56,64,30.19,10,SSE,3,0,Fair,Night
-A-52050,3,2016-11-06,R,Yulee,Nassau,FL,32097,71.6,,78,30.23,10,NE,10.4,,Clear,Night
-A-703075,2,2021-10-19,R,Visalia,Tulare,CA,93292,67,67,36,29.69,10,CALM,0,0,Fair,Day
-A-1044288,2,2021-12-23,R,San Bruno,San Mateo,CA,94066,56,56,84,29.74,4,WSW,8,0.16,Light Rain,Day
-A-1035169,2,2021-03-20,L,Fallbrook,San Diego,CA,92028-2302,57,57,67,30,10,S,5,0,Fair,Night
-A-686995,2,2021-12-13,R,Kansas City,Clay,MO,64116,54,54,43,29.28,10,E,5,0,Fair,Night
-A-735874,2,2021-07-17,R,Redlands,San Bernardino,CA,92374,79,79,41,28.76,10,W,5,0,Fair,Night
-A-913461,2,2021-10-06,R,Brooksville,Hernando,FL,34613-5771,78,78,90,29.97,10,ESE,12,0,Fair,Day
-A-57702,3,2016-11-25,R,Winnetka,Cook,IL,60093,34,28.8,85,30.37,10,West,5.8,,Clear,Night
-A-947528,2,2021-11-27,R,Kissimmee,Osceola,FL,34746-5332,70,70,31,29.98,10,N,5,0,Fair,Day
-A-74410,3,2016-08-23,R,Gurnee,Lake,IL,60031,82,,47,30.09,10,South,12.7,,Partly Cloudy,Day
-A-659368,2,2021-12-28,L,Royalton,Benton,MN,56373,-2,-2,85,28.62,10,SSW,3,0,Cloudy,Night
-A-358995,4,2021-12-01,R,Columbus,Muscogee,GA,31909,67,67,33,29.69,10,S,10,0,Fair,Day
-A-299319,2,2021-04-11,R,Lost Hills,Kern,CA,93249,77,77,26,29.26,9,NW,9,0,Fair,Day
-A-391738,2,2021-07-27,L,Whitethorn,Humboldt,CA,95589-8993,57,57,100,29.62,5,CALM,0,0,Cloudy,Day
-A-708364,2,2021-11-20,R,Bend,Deschutes,OR,97703,,,,,,,,,,Night
-A-787669,2,2021-03-30,R,Shreveport,Caddo,LA,71101-3906,69,69,90,29.73,9,SSE,8,0,Cloudy,Day
-A-674431,2,2021-07-28,R,Brentwood,Davidson,TN,37027,95,95,41,29.39,10,NNE,5,0,Fair,Day
-A-373435,2,2021-11-08,R,Ontario,San Bernardino,CA,91761,61,61,67,29.08,10,SSW,3,0,Fair,Night
-A-968656,2,2021-05-22,R,Summerville,Dorchester,SC,29485-5308,63,63,100,30.32,10,CALM,0,0,Fair,Night
-A-916505,2,2021-11-10,L,Charlotte,Mecklenburg,NC,28277,58,58,60,29.41,10,S,3,0,Fair,Night
-A-398055,2,2021-06-26,L,Brandon,Hillsborough,FL,33510-4531,,,,,,,,,,Day
-A-394893,2,2021-03-12,R,Memphis,Shelby,TN,38128,73,73,65,29.95,10,WNW,8,0,Partly Cloudy,Day
+A-692408,2,19-11-2021,R,Littlestown,Adams,PA,17340-9614,45,45,46,29.53,10,NNW,0,0,Cloudy,Day
+A-262632,2,06-08-2021,L,Compton,Los Angeles,CA,90221-1916,66,66,84,29.87,9,SSE,5,0,Fair,Night
+A-561573,2,26-11-2021,R,Long Beach,Los Angeles,CA,90805-1541,54,54,59,29.99,10,NW,6,0,Fair,Night
+A-1030930,2,10-12-2021,R,Stafford,Stafford,VA,22554,51,51,50,29.97,10,SW,7,0.03,Partly Cloudy,Day
+A-548772,2,14-11-2021,R,Milford,New Haven,CT,6461,48,45,61,29.9,10,WSW,7,0,Fair,Day
+A-579319,2,09-06-2021,R,Nashville,Davidson,TN,37209-3226,79,79,74,29.36,10,WSW,6,0,Cloudy,Day
+A-691474,2,15-11-2021,L,Miami,Miami-Dade,FL,33168-2335,73,73,64,30.13,10,NNE,9,0,Fair,Night
+A-941435,2,26-05-2021,L,Hermiston,Umatilla,OR,97838,79,79,27,29.32,10,NE,9,0,Fair,Day
+A-383278,2,05-03-2021,L,Central Point,Jackson,OR,97502,48,43,77,28.54,10,NW,13,0,Light Rain,Day
+A-296025,2,31-10-2021,R,Allenwood,Monmouth,NJ,8720,57,57,100,29.34,4,NNW,3,0,Heavy Rain,Night
+A-921144,2,20-11-2021,R,Radford,Montgomery,VA,24141,37,33,62,28.22,10,SSE,5,0,Fair,Day
+A-304035,2,29-12-2021,R,Draper,Salt Lake,UT,84020,33,23,78,25.47,10,SSE,16,0,Cloudy,Night
+A-822808,2,19-03-2021,R,Woodland,Yolo,CA,95695,64,64,40,30.04,10,SW,9,0,Mostly Cloudy,Day
+A-800581,2,24-11-2021,R,Oakland Gardens,Queens,NY,11364,40,33,35,30.32,10,NW,10,0,Fair,Day
+A-817038,2,23-12-2021,R,Marina del Rey,Los Angeles,CA,90292,53,53,89,29.75,5,E,10,0.17,Light Rain,Night
+A-285218,2,30-05-2021,R,Sarasota,Sarasota,FL,34242,76,76,82,30,10,ENE,3,0.02,Fair,Day
+A-1001479,2,29-11-2021,R,Clearfield,Clearfield,PA,16830,32,26,75,28.39,10,W,6,0,Cloudy,Night
+A-1034267,2,17-12-2021,R,Fort Mill,York,SC,29708,56,56,90,29.47,10,S,3,0,Fair,Night
+A-450958,2,06-08-2021,L,New Castle,New Castle,DE,19720-3135,85,85,55,30.03,10,SSE,13,0,Fair,Day
+A-235404,2,03-12-2021,R,Anaheim,Orange,CA,92807-3126,65,65,61,29.93,5,SSW,6,0,Fair,Day
+A-718736,2,13-05-2021,R,Sacramento,Sacramento,CA,95835,53,53,77,29.93,10,SE,10,0,Fair,Day
+A-518216,2,05-11-2021,R,Saint Petersburg,Pinellas,FL,33716,65,65,97,29.88,2,NNE,14,0.32,Heavy Rain,Day
+A-399697,2,07-04-2021,R,Norfolk,Norfolk,VA,23502,74,74,38,29.96,9,S,9,0,Fair,Day
+A-271717,2,25-07-2021,R,Homestead,Miami-Dade,FL,33033,75,75,89,29.94,4,E,8,0,T-Storm,Day
+A-324602,2,26-08-2021,R,South Amboy,Middlesex,NJ,8879,75,75,76,30.09,10,CALM,0,0,Fair,Night
+A-826428,2,29-10-2021,L,Germantown,Montgomery,OH,45327-9530,59,59,95,28.76,10,N,7,0,Light Rain,Day
+A-963969,2,01-04-2021,R,North Hollywood,Los Angeles,CA,91606-1428,81,81,7,29.1,10,ESE,5,0,Fair,Day
+A-320014,2,28-12-2021,L,Miami,Miami-Dade,FL,33147-4705,79,79,52,30.02,10,SE,9,0,Fair,Day
+A-553833,2,24-10-2021,L,Union,Union,NJ,07083-4470,61,61,46,30.14,10,W,12,0,Mostly Cloudy,Day
+A-263080,2,26-09-2021,R,Norwalk,Los Angeles,CA,90650,69,69,70,29.93,8,CALM,0,0,Cloudy,Day
+A-752739,2,30-10-2021,L,Astor,Lake,FL,32102-3003,64,64,74,29.78,10,CALM,0,0,Cloudy,Night
+A-306432,2,19-11-2021,L,La Puente,Los Angeles,CA,91746-3215,57,57,87,29.92,6,CALM,0,0,Fair,Night
+A-850503,2,26-06-2021,R,Gardnerville,Douglas,NV,89460,84,84,16,23.94,10,VAR,5,0,Fair,Day
+A-468749,2,01-03-2021,L,Stanton,Orange,CA,90680-4005,54,54,48,30.02,10,CALM,0,0,Fair,Night
+A-807083,2,20-10-2021,R,Sun Valley,Los Angeles,CA,91352,75,75,33,29.21,10,SE,9,0,Fair,Day
+A-977169,2,23-10-2021,R,Miami,Miami-Dade,FL,33169,85,85,65,29.94,10,NE,14,0,Partly Cloudy,Day
+A-385187,2,22-12-2021,L,Miami,Miami-Dade,FL,33165-5440,66,66,70,29.96,10,N,8,0,Partly Cloudy,Day
+A-254306,2,15-06-2021,R,Modesto,Stanislaus,CA,95350,60,60,60,29.96,10,N,9,0,Fair,Day
+A-1000232,2,28-08-2021,R,Kansas City,Jackson,MO,64133,77,77,82,28.94,10,S,10,0,Fair,Night
+A-329109,2,16-04-2021,R,Oakdale,Stanislaus,CA,95361-9416,51,51,66,29.88,10,NNW,9,0,Fair,Night
+A-949729,2,29-06-2021,L,Charlotte,Mecklenburg,NC,28211-1129,89,89,52,29.45,10,SE,12,0,Mostly Cloudy,Day
+A-259313,2,01-12-2021,R,New Orleans,Orleans,LA,70117-4614,56,56,87,30.17,10,E,7,0,Fair,Night
+A-1027539,2,27-10-2021,R,Glen Saint Mary,Baker,FL,32040,66,66,88,29.77,10,VAR,5,0,Fair,Night
+A-246126,2,14-12-2021,R,San Jose,Santa Clara,CA,95126,51,51,61,29.85,10,NW,10,0,Partly Cloudy,Day
+A-551927,2,23-09-2021,L,Bradenton,Manatee,FL,34203,86,86,67,29.82,10,W,8,0,Fair,Day
+A-383621,2,13-10-2021,R,Tampa,Hillsborough,FL,33619,73,73,94,29.95,10,CALM,0,0,Fair,Night
+A-900072,2,28-08-2021,R,Corona,Riverside,CA,92881,80,80,52,29.21,10,WNW,6,0,Fair,Day
+A-888480,2,03-06-2021,R,Los Angeles,Los Angeles,CA,90056-1207,67,67,68,29.74,10,WSW,13,0,Fair,Day
+A-533556,2,25-10-2021,R,Hacienda Heights,Los Angeles,CA,91745-1720,59,59,81,29.82,10,CALM,0,0,Fair,Night
+A-660785,2,11-06-2021,R,Allentown,Lehigh,PA,18106,61,61,94,29.57,4,E,3,0.05,Rain,Day
+A-515211,2,26-12-2021,R,Portland,Clackamas,OR,97222,34,25,75,29.42,10,SW,13,0,Mostly Cloudy,Night
+A-496200,2,11-06-2021,R,Wichita Falls,Wichita,TX,76309-4619,93,93,54,28.72,10,S,16,0,Fair,Day
+A-811995,2,25-06-2021,R,Sebastopol,Sonoma,CA,95472-2608,79,79,47,29.77,10,S,9,0,Fair,Day
+A-456769,2,03-05-2021,R,San Bernardino,San Bernardino,CA,92408,59,59,72,28.64,7,CALM,0,0,Mostly Cloudy,Day
+A-769415,2,29-03-2021,R,Coalinga,Fresno,CA,93210,75,75,23,29.75,10,N,14,0,Fair,Day
+A-891454,2,23-12-2021,L,Spartanburg,Spartanburg,SC,29301-5749,52,52,28,29.36,10,CALM,0,0,Fair,Day
+A-405994,2,31-12-2021,R,Greenville,Greenville,SC,29607-5922,68,68,56,28.84,10,SW,3,0,Mostly Cloudy,Day
+A-603908,2,05-06-2021,R,Provo,Utah,UT,84604,67,67,51,25.43,10,SE,7,0,Fair,Day
+A-944931,2,01-04-2021,R,Jacksonville,Duval,FL,32256,61,61,41,30.11,10,NNW,21,0,Mostly Cloudy / Windy,Day
+A-666674,2,26-03-2021,R,Tucson,Pima,AZ,85745-1816,52,52,33,27.04,10,E,8,0,Fair,Night
+A-719958,2,23-07-2021,R,Santa Maria,Santa Barbara,CA,93455-5800,70,70,59,29.78,8,NNW,12,0,Fair,Day
+A-1013510,2,28-06-2021,R,Stockton,San Joaquin,CA,95206,66,66,68,29.66,10,W,8,0,Fair,Night
+A-514919,2,07-07-2021,R,New York,New York,NY,10035,89,89,57,29.83,8,VAR,5,0,Fair,Day
+A-286387,2,09-04-2021,R,Greer,Spartanburg,SC,29651,70,70,68,28.98,10,WSW,6,0,Partly Cloudy,Day
+A-858528,2,05-03-2021,R,Bonita Springs,Lee,FL,34134,55,55,77,29.96,10,N,3,0,Smoke,Night
+A-827665,2,05-08-2021,R,Sandy Hook,Fairfield,CT,6482,73,73,87,29.31,10,N,8,0,Cloudy,Day
+A-260856,2,29-09-2021,L,Green Lane,Montgomery,PA,18054-2269,68,68,43,29.44,10,NW,8,0,Partly Cloudy,Day
+A-995291,2,18-09-2021,R,Dallas,Dallas,TX,75237-3609,92,92,41,29.28,10,NNW,8,0,Fair,Day
+A-897573,2,02-09-2021,R,Dallas,Dallas,TX,75207,83,83,72,29.35,10,S,7,0,Fair,Night
+A-867021,2,25-11-2021,R,Dallas,Dallas,TX,75223,54,54,40,29.82,10,N,20,0,Fair,Day
+A-228681,2,16-12-2021,L,Whittier,Los Angeles,CA,90604-2417,54,54,51,30.07,10,CALM,0,0,Fair,Day
+A-500486,2,06-06-2021,L,San Diego,San Diego,CA,92113-1626,65,65,65,29.9,10,WSW,7,0,Cloudy,Day
+A-813985,2,11-08-2021,R,Orlando,Orange,FL,32839-3918,90,90,55,30.04,10,N,8,0,Mostly Cloudy,Day
+A-575472,2,21-10-2021,R,Richmond,Richmond City,VA,23220,67,67,54,29.9,10,SW,8,0,Fair,Day
+A-949380,2,06-08-2021,R,Stafford,Stafford,VA,22556,90,90,34,29.94,10,ESE,9,0,Fair,Day
+A-804235,2,26-11-2021,R,Gainesville,Alachua,FL,32608-5050,52,52,97,29.87,10,W,5,0,Fair,Night
+A-228388,2,10-09-2021,R,Calabasas,Los Angeles,CA,91302,95,95,28,29.05,10,VAR,5,0,Fair,Day
+A-595722,2,07-08-2021,R,Orangeburg,Orangeburg,SC,29115,74,74,100,29.86,0.75,VAR,7,0.89,T-Storm,Night
+A-459877,4,14-09-2021,R,Fort Myers,Lee,FL,33912,74,74,93,29.98,10,E,7,0,Partly Cloudy,Night
+A-733235,2,22-11-2021,L,Crockett,Contra Costa,CA,94525-1566,60,60,57,30.13,10,N,8,0,Fair,Day
+A-452684,2,02-06-2021,R,Nunnelly,Hickman,TN,37137,68,68,100,29.19,10,S,9,0,Fair,Night
+A-1028397,2,03-11-2021,R,Dallas,Dallas,TX,75205,48,45,96,29.7,10,NE,7,0,Light Rain,Night
+A-888869,2,01-11-2021,L,Greenville,Greenville,SC,29615-5749,68,68,47,29.03,10,SW,7,0,Fair,Day
+A-738666,2,07-05-2021,R,Tennyson,Warrick,IN,47637,60,60,72,29.43,10,SSW,6,0,Cloudy,Day
+A-323172,2,28-05-2021,R,Miami,Miami-Dade,FL,33184-1326,74,74,85,30.06,10,CALM,0,0,Fair,Day
+A-868890,2,07-12-2021,R,Lake Charles,Calcasieu,LA,70615,52,52,88,30.01,6,N,7,0,Cloudy,Day
+A-862388,2,23-12-2021,R,Columbia,Richland,SC,29229-8518,56,56,26,30.05,10,SE,5,0,Fair,Day
+A-817986,2,19-06-2021,R,Austin,Travis,TX,78724-7230,89,89,42,29.26,10,SSE,8,0,Partly Cloudy,Day
+A-508078,2,27-11-2021,R,San Diego,San Diego,CA,92103,74,74,28,30.04,10,NW,6,0,Fair,Day
+A-270803,2,22-09-2021,R,Miami,Miami-Dade,FL,33162-3605,80,80,79,29.99,10,CALM,0,0,Fair,Day
+A-241206,2,11-11-2021,R,Jamestown,Tuolumne,CA,95327-9503,48,48,100,27.99,8,CALM,0,0,Fair,Night
+A-443893,2,14-12-2021,R,Mission Viejo,Orange,CA,92691,60,60,90,29.82,3,SSW,18,0.23,Light Rain,Day
+A-358531,2,25-10-2021,R,Woodland Hills,Los Angeles,CA,91367,54,54,86,29.07,10,CALM,0,0,Fair,Night
+A-859857,2,27-04-2021,R,Glendale,Maricopa,AZ,85302-1903,75,75,27,28.66,10,SSE,5,0,Partly Cloudy,Day
+A-720645,2,29-11-2021,R,Indianapolis,Marion,IN,46224,26,26,75,29.27,10,CALM,0,0,Fair,Day
+A-620600,2,25-10-2021,L,Springfield,Fairfax County,VA,22152-1637,78,78,57,29.69,10,S,8,0,Fair,Day
+A-312605,2,31-12-2021,R,Lansing,Cook,IL,60438,43,39,100,28.98,5,E,7,0,Cloudy,Day
+A-380935,2,02-03-2021,R,Gilchrist,Klamath,OR,97737,34,27,75,26.49,10,SW,8,0,Fair,Day
+A-335275,2,06-11-2021,L,Orlando,Orange,FL,32801,54,54,86,29.86,10,NW,17,0,Cloudy,Night
+A-460419,2,11-12-2021,R,Sarasota,Sarasota,FL,34238,71,71,93,30.05,10,SE,9,0,Fair,Day
+A-668617,2,22-11-2021,R,Leesville,Lexington,SC,29070-9301,58,58,80,29.32,10,CALM,0,0,Fair,Day
+A-399494,2,02-07-2021,R,Santa Barbara,Santa Barbara,CA,93105,71,71,70,29.89,10,WSW,7,0,Fair,Day
+A-825374,2,18-12-2021,R,Los Angeles,Los Angeles,CA,90061-1209,63,63,38,30.04,10,W,8,0,Fair,Day
+A-554812,2,21-05-2021,R,Inman,Spartanburg,SC,29349-8433,79,79,42,29.6,10,ENE,7,0,Fair,Day
+A-735187,2,06-04-2021,R,Dade City,Pasco,FL,33525-1546,54,54,100,30,10,CALM,0,0,Fair,Day
+A-823119,2,10-10-2021,R,Los Angeles,Los Angeles,CA,90065,55,55,83,29.82,10,CALM,0,0,Fair,Night
+A-837557,2,14-12-2021,R,Pittston,Luzerne,PA,18641,44,44,47,29.5,10,CALM,0,0,Fair,Night
+A-864454,2,05-08-2021,R,Sparks,Washoe,NV,89434,67,67,34,25.56,10,CALM,0,0,Fair,Night
+A-1020110,2,25-05-2021,R,Bakersfield,Kern,CA,93307,83,83,22,29.43,9,VAR,5,0,Fair,Day
+A-974497,2,27-12-2021,R,San Marcos,San Diego,CA,92078,45,45,86,29.72,10,E,3,0,Fair,Day
+A-675329,2,22-10-2021,L,Austin,Williamson,TX,78729-7912,83,83,49,29.25,10,SE,6,0,Fair,Day
+A-386329,2,26-12-2021,R,Pebble Beach,Monterey,CA,93953,49,45,64,29.77,10,W,9,0,Mostly Cloudy,Night
+A-596341,2,26-03-2021,R,Gastonia,Gaston,NC,28052,79,79,61,29.16,10,SW,8,0,Partly Cloudy,Day
+A-342398,2,15-04-2021,R,Dallas,Dallas,TX,75209-6222,59,59,81,29.51,10,ENE,8,0,Mostly Cloudy,Night
+A-531668,2,23-07-2021,R,Orlando,Orange,FL,32837,91,91,63,29.95,10,WSW,9,0,Mostly Cloudy,Day
+A-564951,4,06-10-2021,R,Marcellus,Onondaga,NY,13108,69,69,75,29.85,10,NNE,5,0,Partly Cloudy,Day
+A-501910,2,02-08-2021,R,Freeport,Brazoria,TX,77541,75,75,94,29.97,9,CALM,0,0,Fair,Night
+A-340273,2,17-12-2021,R,Davis,Yolo,CA,95618,50,50,66,30.19,10,NE,3,0,Fair,Day
+A-455169,2,22-12-2021,R,Federal Way,King,WA,98003,46,42,89,29.08,5,S,8,0.09,Light Rain,Day
+A-899796,2,20-06-2021,R,Eagle Point,Jackson,OR,97524-9790,74,74,43,28.5,10,WSW,5,0,Fair,Night
+A-581935,2,27-07-2021,R,Miami,Miami-Dade,FL,33157-5523,81,81,77,29.99,10,S,10,0,Light Rain with Thunder,Day
+A-942363,2,15-03-2021,R,Brandywine,Prince George's,MD,20613-8083,32,23,35,30.03,10,N,13,0,Fair,Night
+A-800568,2,21-12-2021,R,Richmond,Richmond City,VA,23221-2914,37,33,76,29.79,2,NE,5,0,Light Rain,Day
+A-1008355,2,28-08-2021,R,Saint Paul,Ramsey,MN,55110,72,72,94,28.94,10,SE,7,0,Mostly Cloudy,Day
+A-320965,2,14-11-2021,R,Nashville,Davidson,TN,37209-2626,54,54,40,29.33,10,SSW,13,0,Partly Cloudy,Day
+A-747805,2,18-12-2021,R,Blue Earth,Faribault,MN,56013,17,2,88,29.02,10,NNW,15,0,Cloudy,Night
+A-462407,2,24-11-2021,R,Boca Raton,Palm Beach,FL,33431,72,72,57,30.19,10,NE,13,0,Cloudy,Night
+A-827710,2,09-12-2021,R,Northfield,Litchfield,CT,6778,32,32,66,29.4,10,CALM,0,0,Cloudy,Day
+A-596268,2,11-10-2021,R,Edgewood,Harford,MD,21040,63,63,86,29.99,10,NNE,8,0,Cloudy,Day
+A-313478,2,10-11-2021,L,Saint Paul,Ramsey,MN,55112,48,44,54,28.83,10,E,10,0,Drizzle,Day
+A-833036,2,22-04-2021,R,Alamo,Contra Costa,CA,94507-2447,59,59,62,29.89,10,VAR,7,0,Fair,Day
+A-947467,2,15-04-2021,L,Somis,Ventura,CA,93066-9552,63,63,58,29.9,9,W,13,0,Fair,Day
+A-530708,2,09-10-2021,R,Los Angeles,Los Angeles,CA,90007-4364,64,64,70,29.8,10,CALM,0,0,Fair,Night
+A-925679,2,05-12-2021,R,Staten Island,Richmond,NY,10305,47,44,42,30.32,10,SE,7,0,Mostly Cloudy,Night
+A-336235,2,16-11-2021,L,Riverside,Riverside,CA,92504-6322,61,61,70,29.08,10,W,7,0,Fair,Night
+A-251682,2,02-11-2021,R,Bradenton,Manatee,FL,34203,81,81,62,29.99,10,NW,12,0,Fair,Day
+A-401758,2,30-08-2021,R,Houston,Harris,TX,77036-2612,90,90,52,29.78,10,NNW,8,0,Fair,Day
+A-706063,2,09-07-2021,L,Roanoke,Roanoke County,VA,24014-6174,79,79,72,28.74,10,CALM,0,0,Partly Cloudy,Day
+A-735297,2,07-07-2021,R,Camp Pendleton,San Diego,CA,92055,71,71,66,29.72,10,SW,7,0,Fair,Day
+A-810154,2,17-11-2021,R,Garland,Dallas,TX,75043,63,63,100,29.44,10,SSE,10,0,Cloudy,Day
+A-600084,2,18-06-2021,R,South El Monte,Los Angeles,CA,91733,66,66,78,29.69,10,VAR,5,0,Mostly Cloudy,Night
+A-562033,2,15-06-2021,R,Flint,Genesee,MI,48507,72,72,44,29.21,10,NNW,12,0,Fair,Day
+A-702731,2,22-08-2021,R,Liberty,Pickens,SC,29657,73,73,95,28.86,10,CALM,0,0,Mostly Cloudy,Night
+A-861755,4,06-09-2021,R,Bristol,Sullivan,TN,37620-9489,77,77,33,27.82,10,NE,3,0,Fair,Day
+A-679060,2,10-07-2021,L,Baton Rouge,East Baton Rouge,LA,70810-4666,83,83,69,29.95,10,S,9,0,Fair,Night
+A-1002995,2,28-04-2021,R,Grand Rapids,Kent,MI,49504,60,60,75,28.82,10,W,15,0,Cloudy,Night
+A-971293,2,07-04-2021,R,Defuniak Springs,Walton,FL,32435-5418,62,62,93,29.9,9,CALM,0,0,Partly Cloudy,Day
+A-797064,2,29-08-2021,R,Sparta,Kent,MI,49345,89,89,52,28.99,10,SSW,18,0,Mostly Cloudy,Day
+A-599707,2,14-04-2021,R,Tehachapi,Kern,CA,93561,52,52,38,25.82,9,NW,28,0,Fair / Windy,Day
+A-615636,2,02-06-2021,L,Darlington,Darlington,SC,29540-9216,72,72,97,29.9,10,SSE,5,0.16,Light Rain,Day
+A-506204,2,19-11-2021,R,North Augusta,Aiken,SC,29841,64,64,21,29.87,10,NNE,9,0,Fair,Day
+A-1039995,2,17-06-2021,R,Orlando,Orange,FL,32805,88,88,51,29.88,10,SSE,6,0,Fair,Day
+A-811526,2,22-09-2021,R,Houston,Harris,TX,77019-6319,84,84,25,30.04,10,N,10,0,Partly Cloudy,Day
+A-804591,2,27-07-2021,L,Sherman Oaks,Los Angeles,CA,91403-2404,90,90,37,29.11,10,SE,7,0,Fair,Day
+A-843792,2,19-07-2021,R,San Antonio,Bexar,TX,78227,76,76,91,29.25,10,CALM,0,0,Fair,Night
+A-526227,2,01-08-2021,R,Federal Way,King,WA,98003,67,67,68,29.63,10,VAR,7,0,Mostly Cloudy,Day
+A-682250,2,29-12-2021,R,Sidman,Cambria,PA,15955-3515,45,45,93,27.49,6,CALM,0,0,Cloudy,Night
+A-655707,2,07-08-2021,R,Oroville,Butte,CA,95965-3256,86,86,38,29.58,4,SE,7,0,Haze,Day
+A-566704,2,12-12-2021,R,Quinton,New Kent,VA,23141,47,40,50,29.88,10,NNW,17,0,Cloudy,Night
+A-640561,4,17-12-2021,R,Stewartstown,York,PA,17363-7619,54,54,34,29.68,10,WNW,7,0,Fair,Day
+A-836104,2,20-10-2021,R,Seattle,King,WA,98108,52,52,97,29.69,10,SSE,10,0.02,Light Rain,Day
+A-692571,2,26-10-2021,R,Miami,Miami-Dade,FL,33155-3334,88,88,67,29.82,10,W,8,0,Partly Cloudy,Day
+A-360309,2,09-11-2021,R,Southfield,Oakland,MI,48076,55,55,74,29.35,10,N,8,0,Rain,Day
+A-750876,2,19-09-2021,R,Madison,Limestone,AL,35756,73,73,96,29.32,4,ESE,7,0.29,Light Rain,Day
+A-229617,2,11-10-2021,R,Nashville,Davidson,TN,37211-6525,83,83,44,29.2,10,S,20,0,Partly Cloudy,Day
+A-273774,2,04-07-2021,R,Minneapolis,Hennepin,MN,55429,94,94,37,28.82,10,SSW,12,0,Fair,Day
+A-446395,2,09-12-2021,R,Bessemer,Jefferson,AL,35022,59,59,67,29.41,10,E,3,0,Cloudy,Night
+A-883132,2,06-11-2021,R,Wasco,Sherman,OR,97065,51,51,61,29.77,10,NW,21,0,Cloudy / Windy,Day
+A-393264,2,29-10-2021,L,Los Angeles,Los Angeles,CA,90018-1452,76,76,40,29.66,10,W,5,0,Fair,Day
+A-809842,2,02-12-2021,R,San Diego,San Diego,CA,92115-2334,65,65,63,29.65,10,W,6,0,Fair,Day
+A-1009974,2,23-11-2021,R,Joppa,Harford,MD,21085,30,23,75,30.09,10,W,8,0,Fair,Day
+A-548603,2,22-04-2021,R,Tioga,Tioga,PA,16946,30,21,64,28.81,10,W,10,0,Cloudy,Night
+A-1039423,2,15-12-2021,R,San Luis Obispo,San Luis Obispo,CA,93405,35,35,92,29.99,10,CALM,0,0,Fair,Night
+A-935448,2,16-12-2021,R,Goleta,Santa Barbara,CA,93117-1825,54,54,97,29.99,10,W,7,0,Mostly Cloudy,Night
+A-252452,2,17-11-2021,R,Newhall,Los Angeles,CA,91321,56,56,84,29.13,4,CALM,0,0,Haze,Night
+A-735802,2,04-03-2021,R,Syracuse,Onondaga,NY,13203,27,17,69,29.51,9,NNW,12,0,Light Snow,Day
+A-486801,2,14-09-2021,L,Selma,Fresno,CA,93662-9534,68,68,52,29.47,10,CALM,0,0,Fair,Night
+A-314352,2,10-10-2021,R,Buena Park,Orange,CA,90621,67,67,63,29.79,10,CALM,0,0,Fair,Night
+A-1003857,2,05-12-2021,R,West Valley City,Salt Lake,UT,84120,36,30,73,25.78,10,SE,7,0,Fair,Night
+A-945122,2,21-08-2021,R,Ruther Glen,Caroline,VA,22546,82,82,65,29.7,10,VAR,5,0,Fair,Day
+A-508801,2,19-12-2021,R,Riverside,Riverside,CA,92501,68,68,16,29.2,10,W,5,0,Fair,Day
+A-527162,4,19-08-2021,L,Stormville,Dutchess,NY,12582-5046,80,80,79,29.66,10,SSW,6,0,Cloudy,Day
+A-346774,2,10-12-2021,R,Somers,Westchester,NY,10589-3205,48,48,54,29.64,10,CALM,0,0,Cloudy,Day
+A-976393,2,09-07-2021,R,Ann Arbor,Washtenaw,MI,48108,61,61,83,29.12,7,N,8,0,Cloudy,Day
+A-888018,2,18-06-2021,R,Philadelphia,Philadelphia,PA,19107,78,78,42,30.02,10,SW,13,0,Partly Cloudy,Day
+A-310678,2,11-03-2021,R,Dublin,Alameda,CA,94568,46,46,76,29.68,10,CALM,0,0,Fair,Night
+A-17058,4,24-01-2017,R,Le Mars,Plymouth,IA,51031-8502,32,23,93,29.71,0.8,ENE,11.5,0.01,Light Snow,Day
+A-780893,2,08-07-2021,R,Stevensville,Queen Anne's,MD,21666,79,79,72,29.92,10,SW,6,0,Fair,Night
+A-995193,2,28-06-2021,R,Deland,Volusia,FL,32724,85,85,65,30.06,10,E,7,0,Partly Cloudy,Day
+A-604421,2,21-12-2021,R,Sturgeon Lake,Pine,MN,55783,10,10,79,28.6,0.5,CALM,0,0.02,Snow,Day
+A-479160,2,04-08-2021,R,Birmingham,Jefferson,AL,35209,73,73,81,29.38,10,NE,5,0,Fair,Night
+A-982058,2,25-08-2021,L,Hialeah,Miami-Dade,FL,33016,85,85,59,29.94,10,ENE,15,0,Mostly Cloudy,Day
+A-836974,2,17-07-2021,R,Nashville,Davidson,TN,37203,83,83,67,29.42,10,S,13,0,Mostly Cloudy,Day
+A-975562,2,19-09-2021,L,Klamath Falls,Klamath,OR,97603-5039,38,38,89,25.79,10,ESE,3,0,Fair,Night
+A-582589,2,19-04-2021,L,Rome,Oneida,NY,13440-8081,59,59,36,29.27,10,N,9,0,Cloudy,Day
+A-851193,2,16-08-2021,R,San Antonio,Bexar,TX,78249,91,91,50,28.99,10,SE,12,0,Mostly Cloudy,Day
+A-327556,2,10-06-2021,L,Miami,Miami-Dade,FL,33173,87,87,61,30.07,10,SE,8,0,Fair,Day
+A-305228,2,10-08-2021,R,Oroville,Butte,CA,95966-5561,96,96,26,29.66,10,WNW,6,0,Fair,Day
+A-377799,2,18-06-2021,L,Paramount,Los Angeles,CA,90723-5416,65,65,84,29.77,8,S,3,0,Cloudy,Day
+A-740717,2,17-12-2021,R,Cowpens,Cherokee,SC,29330-9678,57,57,94,29.33,3,CALM,0,0,Cloudy,Night
+A-404584,2,06-12-2021,R,Raleigh,Wake,NC,27610,67,67,61,29.44,10,SSW,15,0,Cloudy,Day
+A-976017,2,04-11-2021,R,Hayward,Alameda,CA,94544,63,63,75,30.15,10,W,8,0,Mostly Cloudy,Day
+A-280563,2,13-12-2021,L,Osteen,Volusia,FL,32764-9546,73,73,79,30.22,10,NNE,6,0,Fair,Day
+A-558122,2,12-11-2021,R,Orangeburg,Orangeburg,SC,29115,74,74,23,29.81,10,W,13,0,Fair,Day
+A-759186,2,12-12-2021,R,Palm Beach Gardens,Palm Beach,FL,33410,77,77,76,30.17,10,NE,6,0,Fair,Night
+A-571243,2,19-08-2021,R,Hixson,Hamilton,TN,37343-3008,77,77,88,29.36,8,CALM,0,0.02,Mostly Cloudy,Day
+A-366866,2,09-10-2021,R,San Diego,San Diego,CA,92123-3530,60,60,83,29.63,10,CALM,0,0,Fair,Night
+A-981348,2,12-11-2021,R,Benton,Saline,AR,72015,57,57,51,29.79,10,W,14,0,Mostly Cloudy,Day
+A-392860,2,17-12-2021,R,Columbia,Richland,SC,29229-4385,71,71,75,29.99,10,SW,6,0,Mostly Cloudy,Day
+A-933577,2,20-12-2021,R,Frenchtown,Missoula,MT,59834,28,17,72,26.63,10,ESE,13,0,Cloudy,Day
+A-567487,2,06-07-2021,R,Berwyn,Chester,PA,19312,88,88,66,29.26,10,VAR,6,0,Fair,Day
+A-752916,2,10-12-2021,R,Richmond,Richmond City,VA,23221-3502,50,50,68,29.94,10,S,5,0,Cloudy,Day
+A-394021,2,03-08-2021,L,Chattanooga,Hamilton,TN,37412-1247,87,87,37,29.23,10,NNW,8,0,Partly Cloudy,Day
+A-812099,2,09-09-2021,R,Dallas,Dallas,TX,75202-4809,91,91,23,29.54,10,ESE,8,0,Fair,Day
+A-327456,2,02-12-2021,R,Taylors,Greenville,SC,29687,68,68,39,28.94,10,S,7,0,Fair,Day
+A-715808,2,24-12-2021,L,La Pine,Deschutes,OR,97739,32,24,69,25.86,10,SW,10,0,Fair,Day
+A-340448,2,03-12-2021,R,New Haven,New Haven,CT,6511,36,32,57,30.07,10,NW,5,0,Mostly Cloudy,Night
+A-499689,2,15-04-2021,R,Laguna Hills,Orange,CA,92653,53,53,69,29.94,10,ENE,3,0,Mostly Cloudy,Day
+A-1022941,2,24-09-2021,R,Raleigh,Wake,NC,27616-3144,74,74,40,29.64,10,VAR,3,0,Fair,Day
+A-702646,2,24-12-2021,L,Hialeah,Miami-Dade,FL,33016-2418,65,65,81,30.19,10,NW,7,0,Fair,Day
+A-482162,2,07-05-2021,R,Miami,Miami-Dade,FL,33185-5600,88,88,55,30.01,10,W,8,0,Partly Cloudy,Day
+A-1024072,2,30-12-2021,R,McKinney,Collin,TX,75070,44,44,89,29.29,10,CALM,0,0,Fair,Day
+A-782365,2,09-09-2021,R,Emeryville,Alameda,CA,94608,63,63,75,29.83,10,WNW,10,0,Mostly Cloudy,Day
+A-1021740,2,29-12-2021,R,Escondido,San Diego,CA,92029,52,52,93,29.53,4,SSE,8,0,Light Rain,Day
+A-918743,2,26-10-2021,R,Winchester,Riverside,CA,92596,50,50,100,28.64,0,CALM,0,0,Fog,Day
+A-848401,2,06-12-2021,R,Miami,Miami-Dade,FL,33184-3102,81,81,77,30.08,10,SSE,12,0.03,Cloudy,Day
+A-930849,2,28-05-2021,R,Nashville,Davidson,TN,37201,76,76,76,29.21,10,SW,10,0,Mostly Cloudy,Day
+A-452770,2,31-08-2021,L,Hacienda Heights,Los Angeles,CA,91745-6768,76,76,60,29.66,10,SSW,9,0,Fair,Day
+A-866028,2,10-09-2021,L,Kissimmee,Osceola,FL,34743,91,91,50,29.9,10,SW,5,0,Partly Cloudy,Day
+A-821100,2,11-12-2021,R,Westlake Village,Ventura,CA,91361,63,63,19,30.15,10,E,13,0,Fair,Day
+A-774291,2,28-12-2021,R,Fort Lauderdale,Broward,FL,33309,80,80,56,30.03,10,SSE,9,0,Partly Cloudy,Day
+A-935839,2,09-09-2021,R,Katonah,Westchester,NY,10536,68,68,93,29.33,5,CALM,0,0.01,Light Rain,Day
+A-701049,2,04-05-2021,R,Buffalo,Erie,NY,14228-2701,47,45,93,28.89,0.5,SW,5,0,Fog,Night
+A-384703,2,09-10-2021,R,San Marcos,San Diego,CA,92078,66,66,68,29.65,10,W,5,0,Fair,Day
+A-305272,2,29-07-2021,R,Chattanooga,Hamilton,TN,37406,93,93,47,29.26,10,W,7,0,Fair,Day
+A-851770,2,01-07-2021,R,Downey,Los Angeles,CA,90242,84,84,46,29.81,9,WNW,12,0,Fair,Day
+A-923441,2,14-10-2021,L,Chula Vista,San Diego,CA,91910-2926,60,60,47,29.99,8,E,7,0,Fair,Day
+A-389126,2,18-10-2021,R,Charlotte,Mecklenburg,NC,28213-5768,43,40,81,29.41,10,WNW,5,0,Fair,Night
+A-613420,2,20-12-2021,R,Fort Lauderdale,Broward,FL,33309,77,77,82,29.92,10,E,8,0,Fair,Day
+A-879247,2,31-12-2021,R,Cascade Locks,Hood River,OR,97014,33,22,70,29.96,10,E,18,0,Cloudy,Day
+A-626444,2,04-06-2021,R,Nashville,Davidson,TN,37217,84,84,37,29.39,10,CALM,0,0,Mostly Cloudy,Day
+A-1025555,2,07-06-2021,R,Jacksonville,Duval,FL,32246,85,85,72,30.13,10,S,8,0,Mostly Cloudy,Day
+A-788145,2,20-04-2021,R,Miami,Miami-Dade,FL,33179,80,80,79,29.98,10,SSW,14,0,Partly Cloudy,Day
+A-993032,2,23-12-2021,R,Orlando,Orange,FL,32808-7703,68,68,52,30.03,10,NNW,3,0,Fair,Day
+A-753081,2,09-06-2021,R,Huntington,Baker,OR,97907,67,67,32,27.54,6,NW,30,0,Haze / Windy,Night
+A-892932,2,24-07-2021,R,Los Angeles,Los Angeles,CA,90007,68,68,78,29.79,10,CALM,0,0,Partly Cloudy,Night
+A-791108,2,09-12-2021,R,Visalia,Tulare,CA,93277,50,50,94,29.67,10,NW,9,0.01,Light Rain,Day
+A-263804,2,05-12-2021,R,Greenville,Greenville,SC,29605-4932,57,57,63,29.13,10,E,7,0,Cloudy,Day
+A-412969,2,19-06-2021,R,Mira Loma,Riverside,CA,91752,82,82,45,28.93,10,VAR,6,0,Fair,Day
+A-765936,2,30-06-2021,L,Vista,San Diego,CA,92081,66,66,81,29.54,10,WSW,8,0,Cloudy,Day
+A-422681,2,04-04-2021,R,Cowpens,Cherokee,SC,29330,64,64,22,29.41,10,CALM,0,0,Fair,Day
+A-769416,4,09-10-2021,R,Jennings,Hamilton,FL,32053,71,71,96,29.75,10,NNE,5,0,Mostly Cloudy,Night
+A-491073,2,23-06-2021,R,Telford,Montgomery,PA,18969,68,68,52,29.69,10,CALM,0,0,Fair,Day
+A-627752,2,23-07-2021,R,Los Angeles,Los Angeles,CA,90002-2624,76,76,62,29.94,10,W,10,0,Fair,Day
+A-330201,2,27-12-2021,R,Chattanooga,Hamilton,TN,37411,68,68,68,29.22,10,SSW,12,0,Cloudy,Day
+A-926883,2,28-12-2021,R,Chico,Butte,CA,95928,39,35,93,29.63,10,VAR,6,0,Light Rain,Day
+A-363094,2,10-10-2021,R,Riverside,Riverside,CA,92507,51,51,83,29.16,10,VAR,3,0,Fair,Night
+A-632870,2,19-08-2021,R,Newport News,Newport News,VA,23607,80,80,100,30.08,10,SSW,12,0,Fair,Night
+A-256508,2,23-12-2021,R,Madera,Madera,CA,93636-8839,54,54,97,29.44,1,ENE,5,0.08,Heavy Rain,Day
+A-660774,2,04-12-2021,R,Shreveport,Caddo,LA,71103-2349,69,69,90,29.91,10,E,6,0,Cloudy,Day
+A-730149,2,08-11-2021,R,Los Angeles,Los Angeles,CA,90039,69,69,57,29.82,10,VAR,6,0,Fair,Day
+A-636561,2,18-11-2021,L,Bonita Springs,Lee,FL,34134-7051,74,74,87,30.1,10,ESE,6,0,Cloudy,Day
+A-488341,2,10-10-2021,R,Washington,District of Columbia,DC,20002,67,67,84,30.06,10,NNE,9,0,Cloudy,Night
+A-436065,2,11-08-2021,R,Watervliet,Albany,NY,12189,71,71,93,29.65,10,SSE,12,0,Partly Cloudy,Night
+A-754224,2,03-12-2021,R,Chattanooga,Hamilton,TN,37404-3715,61,61,62,29.39,10,CALM,0,0,Fair,Day
+A-1033269,2,29-10-2021,R,Doswell,Hanover,VA,23047,63,63,94,29.3,1,SSW,9,0.21,Heavy Rain,Day
+A-841236,2,22-03-2021,R,Gustine,Merced,CA,95322,64,64,40,29.86,10,CALM,0,0,Fair,Day
+A-620719,2,07-06-2021,L,Felton,Santa Cruz,CA,95018-9112,58,58,51,29.77,10,NW,7,0,Fair,Day
+A-1024118,2,18-05-2021,L,Dayton,Montgomery,OH,45406-1711,76,76,45,29.16,10,SE,6,0,Mostly Cloudy,Day
+A-836929,2,23-08-2021,R,Lenhartsville,Berks,PA,19534,86,86,63,29.43,10,WNW,13,0,Partly Cloudy,Day
+A-718487,2,24-12-2021,R,Jordan Valley,Malheur,OR,97910,32,26,100,26.9,10,SE,7,0,Cloudy,Night
+A-579747,2,22-10-2021,L,Los Gatos,Santa Cruz,CA,95033-9021,58,58,90,29.99,9,CALM,0,0.01,Cloudy,Day
+A-463538,2,20-12-2021,L,Miami,Miami-Dade,FL,33155-2334,78,78,76,30.02,10,VAR,3,0,Fair,Day
+A-762220,2,11-12-2021,R,Norwalk,Fairfield,CT,6851,56,56,97,29.6,10,SSW,22,0,Cloudy / Windy,Night
+A-505047,2,09-12-2021,R,Los Angeles,Los Angeles,CA,90015,56,56,87,29.74,10,CALM,0,0,Cloudy,Night
+A-406273,2,10-10-2021,R,Chicago,Cook,IL,60630,74,74,64,28.99,10,SSW,13,0,Fair,Night
+A-953861,2,08-10-2021,R,Boynton Beach,Palm Beach,FL,33437,86,86,65,29.93,10,SSE,10,0,Fair,Day
+A-768787,2,18-11-2021,L,Winter Park,Orange,FL,32792-9101,79,79,77,30.02,10,E,5,0,Mostly Cloudy,Day
+A-596484,2,30-12-2021,L,Orlando,Orange,FL,32805,82,82,60,29.9,10,SSW,8,0,Fair,Day
+A-413809,2,21-11-2021,R,Minneapolis,Hennepin,MN,55403,30,18,38,29.27,10,NW,20,0,Fair,Day
+A-867014,2,01-08-2021,R,Milton,Santa Rosa,FL,32583-9108,88,88,69,29.89,10,SW,12,0,Fair,Day
+A-567230,2,08-07-2021,L,Saint Paul,Ramsey,MN,55113-4030,66,66,65,29.25,10,E,5,0,Fair,Day
+A-1044434,2,03-04-2021,R,Opa Locka,Miami-Dade,FL,33054,67,67,52,30.2,10,NE,14,0,Cloudy,Night
+A-709665,2,08-09-2021,R,Middletown,Middlesex,CT,6457,80,80,62,29.7,10,S,15,0,Partly Cloudy,Day
+A-624794,2,13-11-2021,L,Bell Gardens,Los Angeles,CA,90201-4627,78,78,24,29.8,10,CALM,0,0,Fair,Night
+A-369288,2,18-06-2021,R,Burgettstown,Washington,PA,15021,76,76,67,28.55,10,SSW,6,0,Cloudy,Night
+A-783742,2,10-11-2021,R,Charlotte,Mecklenburg,NC,28217,78,78,25,29.3,10,SSW,7,0,Fair,Day
+A-1043303,2,21-11-2021,R,Stockton,San Joaquin,CA,95203,49,49,93,30.17,3,CALM,0,0,Fair,Night
+A-870073,2,14-11-2021,R,Reston,Fairfax County,VA,20194,46,41,47,29.51,10,SSW,10,0,Cloudy,Night
+A-354471,2,15-12-2021,R,Gold Hill,Jackson,OR,97525,35,35,96,28.4,7,CALM,0,0.02,Rain,Night
+A-949384,2,16-11-2021,L,Chino,San Bernardino,CA,91710-3441,77,77,30,29.22,6,WSW,10,0,Haze,Day
+A-467087,2,14-11-2021,R,San Diego,San Diego,CA,92122,70,70,29,29.53,10,WNW,6,0,Fair,Night
+A-788518,2,01-12-2021,R,Guild,Marion,TN,37340,53,53,66,29.46,10,SSW,6,0,Partly Cloudy,Day
+A-622272,2,11-12-2021,L,Raleigh,Wake,NC,27612-3809,72,72,73,29.49,10,SW,20,0,Mostly Cloudy,Day
+A-535270,2,17-12-2021,R,Tucson,Pima,AZ,85711-3902,49,45,47,27.23,10,W,8,0,Fair,Night
+A-889089,2,24-11-2021,R,Rocky Mount,Franklin County,VA,24151-3572,50,50,31,29.08,10,SE,6,0,Fair,Day
+A-555058,2,16-09-2021,R,Abington,Montgomery,PA,19001,76,76,71,30.05,10,E,12,0,Cloudy,Day
+A-377640,2,09-06-2021,R,Emelle,Sumter,AL,35459,75,75,96,29.73,7,SE,3,0,Cloudy,Night
+A-269599,2,28-11-2021,R,Saint Cloud,Osceola,FL,34772,66,66,34,29.98,10,NW,8,0,Fair,Day
+A-950714,2,11-09-2021,R,North Brunswick,Middlesex,NJ,08902-2915,53,53,96,30,10,CALM,0,0,Fair,Night
+A-900345,2,05-11-2021,R,Tucson,Pima,AZ,85716-2943,79,79,14,27.23,10,CALM,0,0,Fair,Night
+A-672070,2,30-11-2021,R,Belgrade,Gallatin,MT,59714,47,43,52,25.58,10,NNE,8,0,Fair,Night
+A-725630,2,06-10-2021,R,Miami,Miami-Dade,FL,33147-1750,85,85,67,30,10,ESE,8,0,Fair,Day
+A-750624,2,08-12-2021,R,Cerritos,Los Angeles,CA,90703,67,67,61,29.85,10,SW,7,0,Fair,Day
+A-642271,2,04-11-2021,R,Ontario,Malheur,OR,97914-8640,66,66,47,27.61,10,SSE,6,0,Fair,Day
+A-294745,2,29-10-2021,R,Bethesda,Montgomery,MD,20814,56,56,94,29.58,1,E,12,0,Cloudy,Day
+A-943274,2,24-12-2021,R,Corona,Riverside,CA,92883,56,56,100,29.21,7,SSW,3,0.12,Rain,Day
+A-911121,2,19-07-2021,R,Lakefield,Jackson,MN,56150-3108,59,59,100,28.6,5,CALM,0,0,Fair,Day
+A-992457,2,31-07-2021,R,Chattanooga,Hamilton,TN,37412-3828,92,92,50,29.28,10,NW,9,0,Mostly Cloudy,Day
+A-665427,2,05-09-2021,R,Cordova,Walker,AL,35550,77,77,100,29.37,7,CALM,0,0,Fair,Night
+A-392288,2,11-05-2021,R,Boise,Ada,ID,83709,45,41,52,27.16,10,SE,8,0,Fair,Day
+A-815063,2,23-09-2021,R,Nelson,Saline,MO,65347,67,67,36,29.39,10,CALM,0,0,Fair,Day
+A-346243,2,15-06-2021,R,Germantown,Montgomery,MD,20876,74,74,59,29.29,10,WNW,9,0,Partly Cloudy,Day
+A-313848,2,24-10-2021,R,Suffolk,Suffolk,VA,23435,73,73,51,30.08,10,S,12,0,Fair,Day
+A-766991,2,08-07-2021,R,North Hills,Los Angeles,CA,91343,89,89,38,28.98,10,SE,9,0,Fair,Day
+A-733731,2,09-07-2021,R,Jacksonville,Duval,FL,32225-6504,79,79,79,30.05,5,S,8,0.09,Light Rain with Thunder,Day
+A-629060,2,07-12-2021,L,San Diego,San Diego,CA,92108-3207,60,60,75,29.54,10,ESE,6,0,Mostly Cloudy,Night
+A-317534,2,07-11-2021,R,Jacksonville,Duval,FL,32256,59,59,75,30.07,10,NNW,16,0,Mostly Cloudy,Day
+A-1020801,2,25-08-2021,R,Castro Valley,Alameda,CA,94552,59,59,83,29.96,10,VAR,3,0,Cloudy,Day
+A-806726,2,28-12-2021,R,Phoenix,Maricopa,AZ,85044,54,54,69,28.57,10,SSW,3,0,Mostly Cloudy,Day
+A-1006093,2,07-12-2021,L,Los Angeles,Los Angeles,CA,90034-3308,57,57,89,29.78,7,NE,3,0,Cloudy,Day
+A-445090,2,20-05-2021,L,Santa Maria,Santa Barbara,CA,93455,61,61,41,29.68,9,WNW,23,0,Fair / Windy,Day
+A-674616,2,19-04-2021,R,Miami,Miami-Dade,FL,33184,82,82,71,29.91,10,W,6,0,Fair,Night
+A-766654,2,11-12-2021,R,Charlotte,Mecklenburg,NC,28206,64,64,87,29.07,1,W,20,0.08,Heavy Rain,Day
+A-789193,2,08-08-2021,R,Nashville,Davidson,TN,37201-1805,72,72,81,29.38,10,S,5,0,Fair,Night
+A-597537,2,27-09-2021,R,Spartanburg,Spartanburg,SC,29302-3033,61,61,88,29.21,10,CALM,0,0,Fair,Night
+A-979790,2,15-06-2021,R,Bethlehem,Northampton,PA,18017,61,61,93,29.38,10,SW,3,0,Fair,Day
+A-431235,2,28-10-2021,L,Fort Myers,Lee,FL,33907,79,79,88,29.79,10,SSE,7,0,Fair,Night
+A-886990,2,21-06-2021,L,Austin,Travis,TX,78725-6356,93,93,56,29.2,10,VAR,6,0,Partly Cloudy,Day
+A-949196,2,08-12-2021,R,New Orleans,Orleans,LA,70116-1247,61,61,93,30.08,2,NNW,6,0.01,Rain,Day
+A-934974,2,16-08-2021,R,San Bernardino,San Bernardino,CA,92407,102,102,20,28.57,6,WNW,6,0,Haze,Day
+A-525967,2,20-08-2021,R,Anaheim,Orange,CA,92807,81,81,49,29.69,10,SSW,10,0,Fair,Day
+A-547032,2,24-07-2021,R,Tempe,Maricopa,AZ,85282,77,77,84,28.77,10,ENE,7,0,Cloudy,Night
+A-386339,4,11-10-2021,L,Orlando,Orange,FL,32811-7345,82,82,67,29.77,6,SSE,7,0.09,Rain,Day
+A-947382,2,26-04-2021,R,Norfolk,Norfolk,VA,23502-5507,57,57,32,30.11,10,N,13,0,Fair,Day
+A-493791,2,03-11-2021,R,San Diego,San Diego,CA,92123,67,67,68,29.56,9,W,9,0,Fair,Day
+A-667907,2,11-12-2021,R,Roanoke,Roanoke City,VA,24012,62,62,78,28.58,10,WNW,3,0,Cloudy,Day
+A-955527,2,29-10-2021,R,Perth Amboy,Middlesex,NJ,8861,53,53,87,29.62,7,E,22,0.05,Rain / Windy,Night
+A-846591,2,02-07-2021,R,Matawan,Monmouth,NJ,7747,70,70,88,29.73,10,CALM,0,0,Light Drizzle,Night
+A-675898,2,29-09-2021,L,New Orleans,Orleans,LA,70125,75,75,100,29.95,3,S,9,0.12,Light Rain,Day
+A-699903,2,10-07-2021,R,Charleston,Kanawha,WV,25313,80,80,62,29.01,10,WNW,5,0,Thunder,Day
+A-1039142,2,01-05-2021,R,Eastover,Richland,SC,29044-9599,60,60,65,29.78,10,SSE,3,0,Fair,Night
+A-375608,2,18-06-2021,R,Miami,Miami-Dade,FL,33127,86,86,70,30.02,8,ESE,12,0,Cloudy,Day
+A-289321,2,02-12-2021,R,Miami,Miami-Dade,FL,33126,80,80,48,30.06,10,N,9,0,Mostly Cloudy,Day
+A-813977,2,28-07-2021,R,Sparks Glencoe,Baltimore County,MD,21152,75,75,69,29.15,10,S,3,0,Fair,Night
+A-467546,2,17-10-2021,R,Cowpens,Cherokee,SC,29330,68,68,21,29.21,10,NNW,10,0,Fair,Day
+A-894163,2,05-11-2021,R,Draper,Salt Lake,UT,84020,66,66,36,25.76,10,CALM,0,0,Mostly Cloudy,Day
+A-682529,2,13-11-2021,R,Phenix City,Russell,AL,36867,55,55,47,29.62,10,NNW,9,0,Fair,Night
+A-476428,2,22-06-2021,R,Sebastopol,Sonoma,CA,95472,70,70,57,29.76,10,SW,8,0,Partly Cloudy,Day
+A-233356,2,05-04-2021,R,Ridgewood,Queens,NY,11385,57,57,25,29.93,10,NNW,20,0,Fair,Day
+A-924031,2,05-10-2021,R,Riverside,Riverside,CA,92507,62,62,84,29.05,10,SSW,6,0,Fair,Night
+A-591131,2,25-08-2021,R,Miami,Miami-Dade,FL,33157,87,87,55,29.93,10,E,22,0,Fair / Windy,Day
+A-790356,2,26-10-2021,R,Compton,Los Angeles,CA,90220,62,62,70,30.05,10,CALM,0,0,Fair,Day
+A-525532,2,20-11-2021,R,Portland,Multnomah,OR,97217,47,47,86,30.49,10,W,3,0,Cloudy,Day
+A-877394,2,11-04-2021,R,Saint Pauls,Robeson,NC,28384,80,80,40,29.32,10,SW,17,0,Fair,Day
+A-254857,2,05-05-2021,R,Austin,Travis,TX,78759,58,58,72,29.4,10,NNE,5,0,Fair,Day
+A-395992,2,10-10-2021,L,Pickens,Pickens,SC,29671-9426,70,70,89,28.92,10,CALM,0,0,Fair,Night
+A-348015,2,27-12-2021,R,Reno,Washoe,NV,89511,30,21,82,25.23,9,SSW,12,0,Cloudy,Night
+A-428421,2,07-08-2021,R,Stony Point,Rockland,NY,10980,83,83,49,29.57,10,S,9,0,Mostly Cloudy,Day
+A-527167,2,09-06-2021,R,Fort Lauderdale,Broward,FL,33309,80,80,76,30.1,10,E,12,0,Partly Cloudy,Night
+A-302169,2,02-06-2021,R,San Bernardino,San Bernardino,CA,92408,90,90,24,28.67,5,WSW,7,0,Fair,Day
+A-395462,4,16-10-2021,R,Crawfordsville,Crittenden,AR,72327,67,67,39,30.02,10,N,9,0,Fair,Day
+A-628432,2,11-04-2021,R,Aurora,Marion,OR,97002,51,51,41,30.1,10,N,8,0,Fair,Day
+A-938537,2,09-12-2021,R,Bloomsburg,Columbia,PA,17815-9578,37,37,54,29.7,10,VAR,3,0,Fair,Day
+A-777916,2,20-08-2021,R,Norwalk,Fairfield,CT,6851,82,82,65,29.85,10,SW,8,0,Partly Cloudy,Day
+A-899083,2,22-06-2021,R,Fountain Valley,Orange,CA,92708,75,75,53,29.84,10,SSW,13,0,Mostly Cloudy,Day
+A-1017532,2,10-08-2021,L,New Kensington,Allegheny,PA,15068,69,69,90,28.77,8,SW,9,0,Light Rain,Day
+A-675132,2,02-03-2021,R,Estacada,Clackamas,OR,97023,37,37,89,30.05,10,CALM,0,0,Fair,Night
+A-446726,2,24-06-2021,R,Sandy,Salt Lake,UT,84070,78,78,40,25.74,10,N,7,0,Mostly Cloudy,Day
+A-827754,2,26-10-2021,R,Copperopolis,Calaveras,CA,95228-9723,61,61,45,27.97,10,VAR,3,0,Partly Cloudy,Day
+A-631517,2,09-05-2021,L,Eldred,McKean,PA,16731-3530,34,29,89,27.55,4,E,6,0.12,Rain,Day
+A-894258,2,11-11-2021,R,Spokane,Spokane,WA,99206,40,40,97,28.17,3,SSW,3,0.09,Light Rain,Night
+A-499761,4,29-11-2021,R,Parkton,Baltimore County,MD,21120,43,37,49,29.11,10,NW,9,0,Mostly Cloudy,Day
+A-763301,2,26-08-2021,R,Miami,Miami-Dade,FL,33155-4884,89,89,65,29.98,10,E,15,0,Mostly Cloudy,Day
+A-895940,2,19-12-2021,R,Richmond,Chesterfield,VA,23234,39,34,67,29.93,10,ENE,7,0,Fair,Night
+A-435872,2,25-05-2021,R,Houston,Harris,TX,77054-2507,83,83,69,30,10,SSE,14,0.02,Mostly Cloudy,Day
+A-1006559,2,23-07-2021,R,Calabasas,Los Angeles,CA,91302-2052,86,86,31,29.11,10,SSE,16,0,Fair,Day
+A-914894,2,12-12-2021,R,Live Oak,Sutter,CA,95953,48,42,83,29.82,6,SSE,16,0,Light Rain,Day
+A-355950,2,28-11-2021,R,Riverside,Riverside,CA,92507-3342,52,52,32,29.28,10,NE,6,0,Fair,Night
+A-366099,2,05-03-2021,L,Petersburg,Rensselaer,NY,12138-2717,28,15,34,29.03,10,W,21,0,Fair / Windy,Day
+A-456469,2,31-07-2021,R,Staten Island,Richmond,NY,10314,65,65,50,29.95,10,N,5,0,Fair,Night
+A-532106,2,09-06-2021,R,New Rochelle,Westchester,NY,10801,83,83,60,29.93,10,CALM,0,0,Mostly Cloudy,Night
+A-950075,2,13-06-2021,R,Houston,Harris,TX,77019-5430,98,98,43,29.82,10,S,16,0,Partly Cloudy,Day
+A-247636,2,06-03-2021,R,Lodi,San Joaquin,CA,95240,60,60,51,30.08,10,WNW,10,0,Fair,Day
+A-291158,2,09-06-2021,R,Miami,Miami-Dade,FL,33165-4512,87,87,57,30.07,10,E,12,0,Partly Cloudy,Day
+A-112000,2,20-01-2017,R,Valencia,Los Angeles,CA,91355,51,51,100,28.64,1,SE,14,0.25,Rain,Day
+A-514125,2,07-12-2021,R,Inver Grove Heights,Dakota,MN,55077,16,9,80,29.12,4,ESE,5,0,Light Snow,Day
+A-337746,2,11-06-2021,R,Irmo,Richland,SC,29063,82,82,66,29.28,10,SW,9,0,Mostly Cloudy,Day
+A-347634,2,22-06-2021,L,Saint Charles,St. Charles,MO,63303,77,77,37,29.46,10,SSE,7,0,Fair,Day
+A-544292,2,07-11-2021,R,Newburgh,Orange,NY,12550,45,45,61,29.6,10,CALM,0,0,Mostly Cloudy,Night
+A-883792,2,15-11-2021,L,Tarpon Springs,Pinellas,FL,34688,62,62,46,30.19,10,N,8,0,Fair,Day
+A-944413,2,15-12-2021,R,Ooltewah,Hamilton,TN,37363,61,61,52,29.6,10,SSW,8,0,Mostly Cloudy,Day
+A-504385,2,20-08-2021,R,Miami,Miami-Dade,FL,33136,84,84,69,29.96,10,S,3,0,Partly Cloudy,Night
+A-411488,2,01-08-2021,R,San Diego,San Diego,CA,92123-3955,65,65,84,29.58,10,N,5,0,Fair,Night
+A-982023,2,20-09-2021,R,Eastover,Richland,SC,29044-8887,79,79,84,29.85,10,E,7,0,Mostly Cloudy,Day
+A-892095,2,01-09-2021,R,Narberth,Montgomery,PA,19072-2226,72,72,89,29.36,10,ENE,9,0,Cloudy,Day
+A-946425,2,23-12-2021,R,Rancho Cucamonga,San Bernardino,CA,91739,51,51,92,28.81,3,NE,10,0.28,Rain,Night
+A-826398,2,10-10-2021,R,Nashville,Davidson,TN,37215-1528,85,85,44,29.29,10,S,10,0,Fair,Day
+A-724446,2,30-06-2021,L,Watsonville,Santa Cruz,CA,95076-1352,66,66,70,29.77,10,WSW,8,0,Mostly Cloudy,Day
+A-291385,2,23-12-2021,R,North Miami,Miami-Dade,FL,33161-4127,70,70,53,30.12,10,NNW,9,0,Fair,Day
+A-922444,2,07-10-2021,R,Miami,Miami-Dade,FL,33193-1540,79,79,90,30.04,9,E,3,0,Fair,Day
+A-894152,2,12-10-2021,R,Riverside,Riverside,CA,92507,60,60,35,29.06,10,W,14,0,Fair,Night
+A-988251,2,15-12-2021,R,Raleigh,Wake,NC,27610,56,56,64,29.97,10,CALM,0,0,Partly Cloudy,Day
+A-369467,2,06-05-2021,R,Merritt Island,Brevard,FL,32952,76,76,72,29.96,10,SE,8,0,Fair,Night
+A-391312,2,04-03-2021,R,Dallas,Dallas,TX,75209-6224,53,53,57,29.59,10,S,5,0,Fair,Night
+A-941311,2,11-10-2021,R,Santa Rosa,Sonoma,CA,95407-7899,63,63,29,29.88,10,NW,21,0,Fair / Windy,Day
+A-845349,2,26-10-2021,R,Charlotte,Mecklenburg,NC,28212-3606,65,65,39,29.02,10,NNW,15,0,Fair,Day
+A-448046,2,13-10-2021,L,Marshall,Lyon,MN,56258-2290,54,54,94,28.4,10,ESE,20,0.02,Mostly Cloudy,Day
+A-824581,2,18-09-2021,L,Dallas,Dallas,TX,75223,85,85,61,29.55,10,VAR,3,0,Fair,Day
+A-432101,2,04-11-2021,L,Abington,Montgomery,PA,19001-1835,42,38,62,30.25,10,NNE,6,0,Fair,Day
+A-870796,2,28-09-2021,R,Fort Worth,Tarrant,TX,76102,72,72,59,29.16,10,SSE,8,0,Fair,Night
+A-816695,2,19-12-2021,R,Greenville,Greenville,SC,29611,52,52,66,28.99,10,NE,15,0,Cloudy,Night
+A-754754,2,26-03-2021,R,San Francisco,San Francisco,CA,94134,47,47,77,29.93,10,CALM,0,0,Fair,Night
+A-307243,2,17-12-2021,R,Lawnside,Camden,NJ,8045,59,59,22,30.05,10,VAR,7,0,Fair,Day
+A-453697,2,13-09-2021,R,Pensacola,Escambia,FL,32506-3761,78,78,87,30.16,5,SSW,7,0.12,Rain,Day
+A-830125,2,30-06-2021,R,Windermere,Orange,FL,34786,75,75,90,29.96,10,CALM,0,0.08,Light Rain,Day
+A-346624,2,09-09-2021,R,Delray Beach,Palm Beach,FL,33444,80,80,87,29.94,10,SW,3,0,Fair,Day
+A-854387,2,03-11-2021,R,San Diego,San Diego,CA,92128,49,49,93,28.65,8,NNE,3,0,Partly Cloudy,Night
+A-682726,2,15-08-2021,R,Lanham,Prince George's,MD,20706,81,81,48,30.1,10,NE,5,0,Partly Cloudy,Day
+A-908307,2,14-12-2021,L,Ontario,Malheur,OR,97914-8450,35,29,52,27.52,10,WNW,8,0,Fair,Night
+A-487075,2,29-05-2021,R,Spring Hill,Hernando,FL,34608-9425,89,89,40,29.82,10,W,20,0,Fair,Day
+A-902901,2,25-03-2021,R,Southaven,DeSoto,MS,38671,73,73,73,29.25,10,WSW,13,0,Mostly Cloudy,Day
+A-730941,2,13-08-2021,R,Earlimart,Tulare,CA,93219,101,101,24,29.46,10,NW,9,0,Fair,Day
+A-916657,2,12-09-2021,R,Austin,Travis,TX,78735,75,75,69,29.38,10,CALM,0,0,Fair,Night
+A-1044197,2,21-11-2021,R,Rodeo,Contra Costa,CA,94572,53,53,64,30.14,10,SSW,3,0,Fair,Night
+A-419758,2,05-12-2021,R,Henrico,Henrico,VA,23231,57,57,39,30.09,10,NE,6,0,Mostly Cloudy,Day
+A-592572,2,24-11-2021,L,Wickenburg,Yavapai,AZ,85390-2650,73,73,25,28.82,10,SSW,6,0,Fair,Day
+A-885136,4,22-10-2021,R,Atlanta,Clayton,GA,30349,64,64,78,28.97,10,W,9,0,Fair,Day
+A-392461,2,08-10-2021,R,Woodbridge,Prince William,VA,22192,77,77,57,30.02,10,SSE,6,0,Cloudy,Day
+A-495016,2,02-03-2021,R,Hacienda Heights,Los Angeles,CA,91745,50,50,35,29.9,10,ENE,3,0,Fair,Night
+A-404863,2,05-09-2021,R,Minneapolis,Hennepin,MN,55416,65,65,70,29.03,10,CALM,0,0,Partly Cloudy,Day
+A-528168,2,09-11-2021,R,Chesapeake,Chesapeake,VA,23320,46,46,90,30.23,10,CALM,0,0,Fair,Day
+A-773104,2,30-12-2021,L,Twain Harte,Tuolumne,CA,95383-9527,54,54,58,27.62,10,CALM,0,0,Cloudy,Day
+A-662467,2,16-12-2021,L,Orange Park,Clay,FL,32073-5002,75,75,82,30.23,7,VAR,3,0,Fair,Day
+A-321120,2,28-09-2021,R,Marianna,Jackson,FL,32448-9282,68,68,96,29.94,10,CALM,0,0,Fair,Day
+A-937755,2,07-10-2021,R,Miami,Miami-Dade,FL,33147-4444,81,81,82,30.04,6,ESE,6,0,Haze,Day
+A-688045,2,23-10-2021,R,Tulsa,Tulsa,OK,74115-8626,84,84,51,29.03,10,S,17,0,Mostly Cloudy,Day
+A-479276,2,28-10-2021,R,Hempstead,Waller,TX,77445,77,77,25,29.53,10,WNW,26,0,Fair / Windy,Day
+A-745383,2,13-10-2021,R,Harrisburg,Dauphin,PA,17111,74,74,66,29.61,10,CALM,0,0,Mostly Cloudy,Day
+A-515753,2,17-06-2021,R,Jacksonville,Duval,FL,32218,85,85,63,29.94,10,E,13,0,Cloudy,Day
+A-707192,2,02-08-2021,L,Lutz,Pasco,FL,33559-6256,77,77,83,29.99,10,WSW,5,0,Light Rain,Day
+A-924200,2,07-06-2021,R,Bakersfield,Kern,CA,93307-3843,83,83,23,29.28,10,NNW,7,0,Fair,Day
+A-934377,2,18-08-2021,R,Decatur,DeKalb,GA,30034,86,86,61,29.03,10,SSW,7,0,Partly Cloudy,Day
+A-291069,2,07-05-2021,R,Saint Petersburg,Pinellas,FL,33712,80,80,42,30.05,10,NNE,12,0,Fair,Day
+A-976152,2,30-06-2021,L,Oriskany,Oneida,NY,13424-5303,76,76,85,29.37,10,CALM,0,0,Fair,Day
+A-622190,2,16-12-2021,R,Corning,Tehama,CA,96021-9291,47,47,80,29.81,8,CALM,0,0,Cloudy,Day
+A-1037333,2,29-10-2021,L,Orlando,Orange,FL,32826-4723,81,81,44,29.54,10,WSW,15,0,Fair,Day
+A-522833,2,19-09-2021,R,Saint Paul,Ramsey,MN,55106,88,88,43,29.04,10,S,12,0,Fair,Day
+A-417444,2,20-12-2021,R,Los Angeles,Los Angeles,CA,90015,64,64,26,29.89,10,CALM,0,0,Fair,Day
+A-227081,2,27-07-2021,L,East Brunswick,Middlesex,NJ,08816-2198,91,91,34,29.9,10,WNW,9,0,Fair,Day
+A-701448,2,24-09-2021,R,Oxnard,Ventura,CA,93036,59,59,93,29.9,2,WNW,8,0,Fog,Night
+A-434926,2,26-10-2021,R,Houston,Harris,TX,77033-4142,75,75,90,29.87,3,CALM,0,0,Mist,Night
+A-875962,2,12-05-2021,R,Long Island City,Queens,NY,11101,56,56,45,30.07,10,NW,9,0,Fair,Day
+A-790183,2,31-12-2021,L,Greenville,Greenville,SC,29607-5924,68,68,56,28.84,10,SW,3,0,Mostly Cloudy,Day
+A-833733,2,16-12-2021,R,Henrico,Henrico,VA,23229-5753,51,51,54,30.02,10,SSW,10,0,Fair,Day
+A-360580,2,18-12-2021,R,Richmond,Richmond City,VA,23220,60,60,100,29.73,3,SSW,6,0,Cloudy,Night
+A-1022272,2,25-10-2021,R,Cedar City,Iron,UT,84720,60,60,35,24.28,10,SSW,22,0,Fair / Windy,Day
+A-680627,2,05-11-2021,R,Sacramento,Sacramento,CA,95823,61,61,78,30.04,10,VAR,6,0,Fair,Day
+A-281648,2,16-12-2021,R,Sarasota,Sarasota,FL,34242-1324,77,77,76,30.16,10,ESE,14,0,Fair,Day
+A-629717,2,26-11-2021,R,Lanham,Prince George's,MD,20706,46,39,57,29.76,10,WNW,16,0,Fair,Day
+A-933318,2,24-10-2021,R,Weehawken,Hudson,NJ,7086,57,57,57,30.06,10,VAR,5,0,Cloudy,Day
+A-878267,2,23-10-2021,R,Firebaugh,Merced,CA,93622,67,67,52,29.69,10,NNW,7,0,Fair,Day
+A-511146,2,23-12-2021,R,Sacramento,Sacramento,CA,95815,54,54,94,29.59,9,SE,7,0,Cloudy,Night
+A-755162,2,01-03-2021,R,Rocky Hill,Hartford,CT,6067,45,38,63,29.54,10,NNW,15,0,Cloudy,Day
+A-749995,2,11-08-2021,L,Pensacola,Escambia,FL,32514-4915,87,87,69,29.95,10,SSW,5,0,Fair,Day
+A-161041,2,28-03-2017,R,New York,New York,NY,10037,43,38.8,97,29.91,3,Variable,6.9,0.04,Light Rain,Day
+A-601102,2,21-04-2021,R,Baton Rouge,East Baton Rouge,LA,70816-3133,51,51,61,30.15,10,N,13,0,Fair,Day
+A-721005,2,17-09-2021,R,Lake Forest,Orange,CA,92630,75,75,53,29.92,10,SSW,12,0,Fair,Day
+A-778950,2,15-11-2021,R,Jacksonville Beach,Duval,FL,32250,56,56,64,30.19,10,SSW,3,0,Fair,Night
+A-853581,2,05-06-2021,R,Greenwich,Fairfield,CT,6830,84,84,40,29.44,10,W,8,0,Fair,Day
+A-491749,2,10-08-2021,R,Baton Rouge,East Baton Rouge,LA,70816,83,83,77,30.03,10,SE,5,0.01,Partly Cloudy,Day
+A-702007,2,15-12-2021,R,New Castle,New Castle,DE,19720,53,53,80,30.32,10,ESE,7,0,Mostly Cloudy,Night
+A-277843,2,06-06-2021,R,Nashville,Davidson,TN,37201-2108,76,76,76,29.37,10,SSE,12,0,Mostly Cloudy,Day
+A-880281,2,30-10-2021,R,Garner,Wake,NC,27529-4902,55,55,80,29.17,10,SSW,7,0,Mostly Cloudy,Night
+A-226754,2,18-11-2021,L,Opa Locka,Miami-Dade,FL,33054,73,73,84,30.06,2,NNW,5,0.17,Rain,Day
+A-464654,4,02-07-2021,R,Goldsboro,Wayne,NC,27534-6888,70,70,99,29.69,9,CALM,0,0,Fair,Night
+A-920091,2,05-05-2021,R,Suffolk,Suffolk,VA,23435,86,86,44,29.67,10,WSW,13,0,Partly Cloudy,Day
+A-1045364,2,07-12-2021,R,Rowland Heights,Los Angeles,CA,91748,57,57,81,29.86,5,E,5,0.01,Light Rain,Night
+A-552320,2,29-12-2021,L,Gulf Breeze,Santa Rosa,FL,32563-3407,72,72,94,29.87,8,S,12,0,Mostly Cloudy,Day
+A-813314,2,04-07-2021,R,Colton,San Bernardino,CA,92324,73,73,49,28.74,10,WSW,7,0,Fair,Night
+A-828846,2,05-10-2021,L,Tallahassee,Leon,FL,32312-1215,71,71,96,29.95,10,CALM,0,0,Mostly Cloudy,Night
+A-556132,2,24-08-2021,R,Baton Rouge,East Baton Rouge,LA,70816,86,86,74,29.94,10,NNW,5,0,Fair,Day
+A-322462,2,18-11-2021,R,Anaheim,Orange,CA,92807,55,55,96,30.01,1,CALM,0,0,Fog,Day
+A-257003,2,01-07-2021,R,Orlando,Orange,FL,32819,77,77,82,29.89,10,S,14,0,Cloudy,Day
+A-278203,2,06-11-2021,R,Newtown Square,Chester,PA,19073-1003,32,32,80,29.71,10,CALM,0,0,Fair,Night
+A-991056,2,19-10-2021,R,Lecanto,Citrus,FL,34461-9744,73,73,61,30.19,10,ENE,8,0,Fair,Day
+A-477930,2,20-10-2021,L,Gurnee,Lake,IL,60031-1238,58,58,72,29.27,10,SW,10,0,Fair,Day
+A-667300,2,26-07-2021,R,Ferron,Emery,UT,84523,67,67,66,24.31,10,CALM,0,0,Fair,Night
+A-355736,2,15-09-2021,L,Fort Myers,Lee,FL,33913,80,80,81,29.92,10,E,7,0,Fair,Day
+A-794457,2,23-05-2021,L,Austin,Travis,TX,78701,73,73,84,29.41,10,ESE,6,0,Cloudy,Day
+A-437499,2,10-12-2021,L,Fort Lauderdale,Broward,FL,33312,78,78,84,30.14,10,N,6,0,Fair,Day
+A-480942,2,17-11-2021,R,Miami,Miami-Dade,FL,33173,80,80,69,30.11,10,E,13,0,Cloudy,Day
+A-372549,2,06-07-2021,L,Palm Harbor,Pinellas,FL,34684-3117,82,82,74,30,10,E,14,0,Light Rain,Day
+A-400627,2,26-04-2021,R,Los Angeles,Los Angeles,CA,90031,64,64,50,29.69,10,W,7,0,Partly Cloudy,Day
+A-366165,2,05-11-2021,R,Lorton,Fairfax County,VA,22079-3433,45,40,54,30.33,10,NW,8,0,Fair,Day
+A-756578,2,15-10-2021,R,Miami,Miami-Dade,FL,33162-1905,80,80,69,29.92,10,NE,8,0,Fair,Night
+A-394027,2,12-11-2021,R,Moorpark,Ventura,CA,93021,76,76,32,29.94,10,VAR,3,0,Fair,Night
+A-412872,2,27-10-2021,R,Nashville,Davidson,TN,37210,67,67,33,29.24,10,VAR,6,0,Fair,Day
+A-523991,2,19-08-2021,R,Baton Rouge,East Baton Rouge,LA,70808-4380,86,86,67,29.94,10,SE,15,0,Thunder in the Vicinity,Day
+A-523350,2,28-07-2021,R,Columbia,Richland,SC,29206,76,76,91,29.83,10,CALM,0,0,Partly Cloudy,Night
+A-1019899,2,17-12-2021,L,Anoka,Anoka,MN,55303,19,11,68,29.28,10,NE,6,0,Cloudy,Night
+A-997067,2,21-06-2021,R,Old Westbury,Nassau,NY,11568,70,70,93,29.68,0.75,S,8,0,Fog,Day
+A-946146,2,12-12-2021,L,Orange Park,Clay,FL,32073,64,64,75,30.19,10,NE,9,0,Cloudy,Day
+A-440876,2,06-08-2021,R,Corona,Riverside,CA,92883,86,86,49,29.29,10,WNW,16,0,Fair,Day
+A-1000873,2,30-12-2021,R,Orlando,Orange,FL,32839,81,81,62,29.92,10,SW,8,0,Fair,Day
+A-418225,2,08-07-2021,R,Miami,Miami-Dade,FL,33182,78,78,79,30.12,10,CALM,0,0,Mostly Cloudy,Night
+A-799355,2,09-12-2021,L,Philipsburg,Clearfield,PA,16866-8264,28,28,85,28.54,10,SSW,3,0,Fair,Day
+A-877544,2,28-10-2021,L,Kila,Flathead,MT,59920-8510,47,43,90,26.87,10,SW,8,0,Cloudy,Night
+A-814804,2,02-12-2021,R,Rio Vista,Sacramento,CA,94571,66,66,68,29.98,10,CALM,0,0,Fair,Day
+A-1046868,2,24-11-2021,L,Los Angeles,Los Angeles,CA,90044-5746,71,71,39,29.98,10,VAR,3,0,Fair,Day
+A-586067,2,23-11-2021,L,Dover,Hillsborough,FL,33527-5467,63,63,48,29.84,10,NNE,12,0,Fair,Day
+A-863611,2,16-10-2021,R,Plano,Collin,TX,75074,68,68,24,29.59,13,N,9,0,Fair,Day
+A-807626,2,11-10-2021,R,Bois D Arc,Lawrence,MO,65612,69,69,87,28.14,10,SSE,32,0,Light Rain / Windy,Night
+A-913629,2,10-11-2021,L,San Diego,San Diego,CA,92109-4433,68,68,65,30.03,10,WNW,13,0,Fair,Day
+A-291207,2,24-10-2021,R,Orlando,Orange,FL,32839,83,83,77,29.87,10,ENE,13,0,Fair,Day
+A-982247,2,23-12-2021,R,Hayward,Alameda,CA,94545,59,59,81,29.68,10,S,7,0,Cloudy,Day
+A-1047870,2,18-12-2021,L,Houston,Harris,TX,77023-5601,75,75,82,29.85,2,SSW,10,0.07,Heavy T-Storm,Day
+A-392329,2,22-11-2021,R,Fountain Valley,Orange,CA,92708,68,68,14,30,10,CALM,0,0,Fair,Night
+A-727123,2,01-09-2021,R,Dana Point,Orange,CA,92629,72,72,66,29.79,10,SW,3,0,Mostly Cloudy,Day
+A-295634,2,15-12-2021,R,Vale,Malheur,OR,97918,35,30,70,27.64,10,ESE,6,0,Cloudy,Night
+A-723259,2,08-12-2021,R,Silver Creek,Chautauqua,NY,14136,28,18,92,29.22,4,SSW,12,0.05,Light Snow,Night
+A-913860,2,23-12-2021,L,Raleigh,Wake,NC,27612-7146,45,45,37,29.84,10,CALM,0,0,Fair,Day
+A-612601,2,12-09-2021,R,Marina Del Rey,Los Angeles,CA,90292-5416,72,72,68,29.82,10,SW,5,0,Fair,Day
+A-583520,2,12-09-2021,R,Charlotte,Mecklenburg,NC,28208-5244,86,86,40,29.43,10,VAR,3,0,Fair,Day
+A-992159,2,27-11-2021,R,Fort Myers,Lee,FL,33966,64,64,65,30.06,10,WNW,3,0,Fair,Night
+A-315349,2,28-12-2021,R,Newmanstown,Lebanon,PA,17073,41,41,89,29.47,7,CALM,0,0,Cloudy,Night
+A-349935,2,09-07-2021,R,Dallas,Dallas,TX,75204-3700,81,81,72,29.52,10,S,13,0,Mostly Cloudy,Day
+A-599180,2,12-12-2021,R,Ronks,Lancaster,PA,17572-9520,44,36,47,29.48,10,WNW,21,0,Cloudy / Windy,Night
+A-328755,2,23-07-2021,R,Santa Ana,Orange,CA,92705,71,71,75,29.97,7,SW,5,0,Cloudy,Day
+A-1047707,2,16-10-2021,R,Charlotte,Mecklenburg,NC,28273-3324,64,64,41,29.17,10,NNW,13,0,Fair,Night
+A-855179,2,12-08-2021,R,Grove City,Mercer,PA,16127,72,72,91,28.92,9,VAR,6,0,Cloudy,Night
+A-346969,2,25-10-2021,L,Hyattsville,Prince George's,MD,20783-4138,66,66,93,29.69,10,CALM,0,0,Cloudy,Day
+A-727676,2,01-05-2021,R,North Bergen,Hudson,NJ,7047,44,38,51,29.77,10,NW,13,0,Fair,Day
+A-745061,2,28-05-2021,R,Malvern,Chester,PA,19355,48,44,100,29.13,3,NNE,9,0,Rain,Night
+A-299365,2,19-10-2021,R,North Hills,Los Angeles,CA,91343,70,70,38,29.11,10,VAR,6,0,Fair,Day
+A-554062,2,15-06-2021,R,Pompano Beach,Broward,FL,33076,74,74,97,30.02,10,SW,5,0.1,Fair,Day
+A-738182,2,01-05-2021,L,Jacksonville,Duval,FL,32204-1406,71,71,90,30.01,10,NE,6,0,Fair,Night
+A-747396,2,24-08-2021,L,Lake Zurich,Lake,IL,60047-2353,77,77,84,29.25,10,N,18,0,Light Rain with Thunder,Day
+A-696003,2,16-08-2021,R,Heath Springs,Lancaster,SC,29058-9363,75,75,89,29.58,1,S,17,0.16,Heavy T-Storm,Day
+A-518992,2,22-09-2021,R,Duarte,Los Angeles,CA,91010,83,83,44,29.96,10,VAR,3,0,Fair,Day
+A-865997,2,20-12-2021,L,Little River,Horry,SC,29566-8145,47,42,59,30.2,10,N,10,0,Fair,Day
+A-641012,2,10-12-2021,L,Spartanburg,Spartanburg,SC,29301-2633,48,48,93,29.28,4,CALM,0,0,Cloudy,Day
+A-634322,2,30-12-2021,R,Bristol,Bristol,VA,24201,56,56,95,27.72,10,SSW,3,0,Cloudy,Night
+A-678064,2,20-12-2021,R,Orlando,Orange,FL,32803-4038,67,67,90,29.91,3,N,10,0.01,Light Rain,Night
+A-865388,2,17-12-2021,R,Tucson,Pima,AZ,85705-3222,53,53,48,27.21,10,NW,3,0,Fair,Day
+A-949812,2,22-10-2021,R,Hialeah,Miami-Dade,FL,33016,79,79,84,29.96,10,SE,6,0,Partly Cloudy,Day
+A-242149,2,07-08-2021,R,Pompano Beach,Broward,FL,33060,86,86,65,30.06,10,SE,6,0,Cloudy,Night
+A-525461,2,25-07-2021,L,Tucson,Pima,AZ,85716-3242,69,69,87,27.32,10,CALM,0,0,Light Rain Shower,Night
+A-738342,2,26-10-2021,R,Columbia,Richland,SC,29210,71,71,47,29.5,10,NW,9,0,Fair,Day
+A-997400,2,30-05-2021,R,Rodeo,Contra Costa,CA,94572,54,54,80,29.84,10,S,21,0,Fair / Windy,Night
+A-229578,2,08-06-2021,R,Warfordsburg,Fulton,PA,17267,80,80,69,29.36,10,WSW,5,0,Mostly Cloudy,Day
+A-560988,2,14-04-2021,R,Stockton,San Joaquin,CA,95215,57,57,51,29.92,10,NW,7,0,Fair,Night
+A-1032625,2,09-09-2021,R,Hazel Crest,Cook,IL,60429,73,73,48,29.36,10,NNW,5,0,Fair,Day
+A-806304,2,01-09-2021,R,Corona,Riverside,CA,92879,77,77,60,29.28,10,W,13,0,Fair,Day
+A-664526,2,03-04-2021,R,Irvine,Orange,CA,92618,56,56,84,30.02,8,VAR,3,0,Cloudy,Night
+A-716387,2,07-11-2021,R,Ashland,Hanover,VA,23005,51,51,52,29.9,10,CALM,0,0,Fair,Night
+A-615399,2,05-08-2021,R,Saint Paul,Washington,MN,55129,73,73,85,29.01,10,NE,5,0,Thunder in the Vicinity,Night
+A-269568,2,12-11-2021,L,Stockton,San Joaquin,CA,95215-5820,50,50,100,30.16,0,VAR,3,0,Fog,Night
+A-874221,2,17-12-2021,R,Charlotte,Mecklenburg,NC,28212-3684,70,70,61,29.38,10,SSW,9,0,Mostly Cloudy,Day
+A-320685,2,28-11-2021,R,Enfield,Halifax,NC,27823,52,52,54,29.8,10,WSW,7,0,Fair,Day
+A-841790,2,13-11-2021,R,Ontario,San Bernardino,CA,91761,89,89,11,29.01,10,VAR,3,0,Fair,Day
+A-803396,2,16-11-2021,R,Latham,Albany,NY,12110,42,36,65,29.76,10,W,10,0,Cloudy,Day
+A-637587,2,03-09-2021,R,Secaucus,Hudson,NJ,7094,70,70,57,30.01,10,NW,8,0,Fair,Night
+A-353615,2,24-06-2021,R,San Diego,San Diego,CA,92117,72,72,61,29.53,10,WNW,10,0,Fair,Day
+A-911540,2,02-06-2021,R,Carson,Los Angeles,CA,90746,59,59,90,29.84,6,CALM,0,0,Cloudy,Day
+A-791944,2,07-12-2021,R,Elk River,Sherburne,MN,55330,14,14,86,28.94,5,ENE,3,0,Light Snow,Day
+A-968794,2,13-10-2021,L,Miami,Miami-Dade,FL,33174-1630,87,87,63,29.95,10,ENE,9,0,Mostly Cloudy,Day
+A-887442,2,19-08-2021,L,Los Angeles,Los Angeles,CA,90022-4033,77,77,54,29.69,10,W,3,0,Fair,Day
+A-432896,2,07-12-2021,R,Lancaster,Erie,NY,14086,30,21,54,29.35,10,W,10,0,Light Snow,Day
+A-273300,2,08-11-2021,R,Chino,San Bernardino,CA,91710,59,59,72,29.37,10,W,5,0,Fair,Night
+A-149590,2,16-02-2017,R,Independence,Cuyahoga,OH,44131,27,15.2,66,29.87,9,WNW,15,0,Light Snow,Night
+A-243550,2,24-06-2021,R,Lancaster,Lancaster,PA,17603,77,77,34,29.93,10,S,9,0,Fair,Day
+A-962358,2,23-12-2021,L,North Miami,Miami-Dade,FL,33161-5414,73,73,31,30.1,10,NNW,8,0,Fair,Day
+A-1006101,2,26-03-2021,R,Sandston,Henrico,VA,23150,69,69,81,29.74,10,S,17,0,Mostly Cloudy,Night
+A-719508,2,20-06-2021,R,Bishopville,Worcester,MD,21813,84,84,69,29.84,10,S,8,0,Fair,Day
+A-330934,2,22-05-2021,R,South San Francisco,San Mateo,CA,94080-7018,67,67,47,30.05,10,NW,17,0,Fair,Day
+A-871684,2,27-10-2021,R,Richmond,Contra Costa,CA,94804,52,52,93,30.26,10,SE,5,0,Fair,Night
+A-673429,2,15-06-2021,L,Los Angeles,Los Angeles,CA,90034-6503,73,73,64,29.58,10,CALM,0,0,Fair,Day
+A-442804,2,28-03-2021,R,Castroville,Monterey,CA,95012,76,76,29,30.13,10,VAR,6,0,Fair,Day
+A-913152,2,11-04-2021,R,Miami,Miami-Dade,FL,33147-7013,71,71,73,29.9,10,E,7,0,Fair,Night
+A-769557,2,12-11-2021,R,Virginia Beach,Virginia Beach,VA,23462,68,68,81,29.96,10,SW,12,0,Mostly Cloudy,Day
+A-371444,2,27-09-2021,R,Little Rock,Pulaski,AR,72212,88,88,34,29.6,10,CALM,0,0,Fair,Day
+A-867908,2,27-10-2021,R,Lakeland,Polk,FL,33813-1540,81,81,51,29.62,10,W,7,0,Fair,Day
+A-431302,2,16-10-2021,L,Homestead,Miami-Dade,FL,33033,88,88,50,29.91,10,WNW,8,0,Partly Cloudy,Day
+A-508079,2,27-08-2021,R,San Diego,San Diego,CA,92101,69,69,84,29.76,5,NNW,5,0,Mostly Cloudy,Day
+A-449443,2,03-11-2021,R,Palo Cedro,Shasta,CA,96073-9730,48,48,93,29.63,10,CALM,0,0,Fair,Night
+A-512752,2,28-11-2021,R,Annville,Lebanon,PA,17003,37,37,70,29.29,10,CALM,0,0,Cloudy,Day
+A-489847,2,11-10-2021,R,Crescent,Klamath,OR,97733,39,32,56,26.57,10,NW,13,0,Fair,Day
+A-690670,2,12-10-2021,R,Miami,Miami-Dade,FL,33155-3744,83,83,67,29.89,10,ESE,13,0,Mostly Cloudy,Day
+A-863475,2,26-11-2021,L,Pine Grove,Amador,CA,95665-9709,50,50,66,27.45,10,E,5,0,Fair,Night
+A-440106,2,05-05-2021,L,Dayton,Montgomery,OH,45406-1604,58,58,44,28.98,10,NNW,12,0,Mostly Cloudy,Day
+A-825274,2,23-12-2021,L,Raleigh,Wake,NC,27612-4502,45,45,37,29.84,10,CALM,0,0,Fair,Day
+A-868214,2,03-08-2021,L,Aitkin,Aitkin,MN,56431,84,84,35,28.74,7,CALM,0,0,Fair,Day
+A-655040,2,23-08-2021,R,Kissimmee,Osceola,FL,34744,91,91,59,29.91,10,S,7,0,Fair,Day
+A-369603,4,16-10-2021,R,Clarksburg,Montgomery,MD,20871,64,64,93,29.23,10,CALM,0,0,Fair,Night
+A-763090,2,10-12-2021,L,Miami,Miami-Dade,FL,33143,79,79,72,30.08,10,ESE,10,0,Fair,Day
+A-753897,2,24-09-2021,R,Chesapeake,Chesapeake,VA,23320,73,73,44,30.04,7,N,10,0,Fair,Day
+A-551022,2,31-08-2021,R,Canby,Modoc,CA,96015,70,70,14,25.43,10,W,6,0,Fair,Night
+A-663066,2,12-07-2021,L,Houston,Harris,TX,77027-3902,79,79,79,30.05,10,ENE,14,0,Cloudy,Day
+A-240228,2,05-03-2021,R,New London,Kandiyohi,MN,56273-9612,37,34,75,29.09,10,ESE,5,0,Fair,Day
+A-308596,2,25-12-2021,L,Flagstaff,Coconino,AZ,86004,35,26,89,23.07,10,SW,15,0,Cloudy,Night
+A-281717,2,01-12-2021,R,Hobson,Judith Basin,MT,59452,59,59,41,25.58,10,WSW,37,0,Fair / Windy,Day
+A-589930,2,26-03-2021,L,Marbury,Autauga,AL,36051,67,67,88,29.9,10,ENE,3,0,Cloudy,Night
+A-551117,2,20-06-2021,R,Ontario,San Bernardino,CA,91761,91,91,27,28.84,10,WSW,14,0,Fair,Day
+A-679423,2,26-12-2021,L,Minneapolis,Hennepin,MN,55430,27,19,63,28.99,10,E,8,0,Cloudy,Day
+A-1036584,2,23-07-2021,R,Hollywood,Broward,FL,33023,89,89,63,30.13,10,ESE,10,0,Partly Cloudy,Day
+A-576833,2,04-12-2021,R,Redmond,Deschutes,OR,97756,59,59,38,26.86,10,S,15,0,Fair,Day
+A-704853,2,06-10-2021,R,Fort Wayne,Allen,IN,46805-1035,67,67,87,29.38,10,ENE,13,0,Cloudy,Day
+A-647136,2,26-12-2021,R,Yoncalla,Douglas,OR,97499,33,29,96,29.15,0.75,S,5,0.01,Light Snow,Night
+A-550886,2,21-12-2021,L,Orlando,Orange,FL,32819-5206,63,63,90,29.71,10,WNW,13,0,Cloudy,Night
+A-994634,2,08-06-2021,L,Orlando,Orange,FL,32824,89,89,50,30,10,E,16,0,Mostly Cloudy,Day
+A-541604,2,12-11-2021,R,Moreno Valley,Riverside,CA,92553,59,59,42,28.48,10,NNW,5,0,Fair,Night
+A-315653,2,18-06-2021,L,Paoli,Chester,PA,19301-2034,79,79,36,29.34,10,VAR,5,0,Fair,Day
+A-497613,2,24-04-2021,L,New Castle,New Castle,DE,19720-2538,65,65,33,29.96,10,SSE,10,0,Fair,Day
+A-769957,2,16-09-2021,R,Murfreesboro,Rutherford,TN,37129,75,75,71,29.43,10,ESE,9,0,Mostly Cloudy,Day
+A-374721,2,14-09-2021,R,Deltona,Volusia,FL,32725,75,75,94,29.98,10,ENE,3,0,Fair,Day
+A-339660,2,10-09-2021,R,Dallas,Dallas,TX,75216-5819,87,87,31,29.28,10,SSE,10,0,Fair,Day
+A-373567,2,21-03-2021,R,Quinton,New Kent,VA,23141,62,62,23,30.27,10,ENE,12,0,Partly Cloudy,Day
+A-756389,2,11-07-2021,R,Shreveport,Caddo,LA,71103-4365,85,85,65,29.73,10,SW,7,0,Thunder,Day
+A-624933,2,17-09-2021,R,Miami,Miami-Dade,FL,33186,80,80,85,30.05,6,NW,6,0,Light Rain with Thunder,Day
+A-382307,2,20-08-2021,R,Newark,Essex,NJ,7112,78,78,68,29.87,10,VAR,3,0,Mostly Cloudy,Day
+A-405412,2,14-10-2021,R,Micanopy,Alachua,FL,32667-4072,85,85,59,29.79,10,CALM,0,0,Partly Cloudy,Day
+A-1021682,2,04-04-2021,L,Raleigh,Wake,NC,27610-5187,74,74,24,29.65,10,NW,8,0,Fair,Day
+A-937482,2,08-09-2021,R,San Antonio,Bexar,TX,78233,94,94,33,29.11,10,N,6,0,Fair,Day
+A-387044,2,08-11-2021,L,Manor,Travis,TX,78653-4520,66,66,73,29.51,10,SSE,5,0,Fair,Night
+A-1020132,2,25-08-2021,R,Dallas,Dallas,TX,75215,93,93,45,29.51,10,SE,5,0,Partly Cloudy,Day
+A-238710,2,01-07-2021,R,Deming,Luna,NM,88030,72,72,71,25.76,10,E,8,0,Cloudy,Day
+A-879743,2,07-10-2021,R,San Mateo,San Mateo,CA,94402,63,63,55,29.98,10,W,17,0,Fair,Day
+A-456637,2,31-03-2021,R,Shreveport,Caddo,LA,71108-2021,60,60,35,30.11,10,N,20,0,Cloudy,Day
+A-361850,2,08-03-2021,R,Jacksonville,Duval,FL,32207,61,61,39,30.5,10,ENE,7,0,Fair,Day
+A-1045273,2,26-09-2021,R,Mesquite,Dallas,TX,75150,81,81,42,29.65,10,S,6,0,Fair,Day
+A-565330,2,05-08-2021,L,North Charleston,Charleston,SC,29406-4659,75,75,82,30.04,10,NE,3,0,Light Rain,Day
+A-804561,2,22-12-2021,L,Fergus Falls,Otter Tail,MN,56537,10,-2,92,28.55,10,SSE,8,0,Cloudy,Night
+A-593865,2,01-04-2021,L,Ukiah,Mendocino,CA,95482,57,57,47,29.36,10,CALM,0,0,Fair,Day
+A-885593,2,09-03-2021,R,Harrisburg,Dauphin,PA,17110,68,68,25,29.92,10,NW,8,0,Fair,Day
+A-245064,2,04-12-2021,R,Alamo,Contra Costa,CA,94507-2456,52,52,86,30.17,8,W,8,0,Fair,Night
+A-1023831,2,27-10-2021,R,North Charleston,Charleston,SC,29418-8416,62,62,41,29.86,10,N,10,0,Partly Cloudy,Day
+A-916502,4,03-08-2021,L,Dolan Springs,Mohave,AZ,86441,84,84,33,26.52,10,SSE,7,0,Fair,Night
+A-248401,2,14-05-2021,R,Ocala,Marion,FL,34475,78,78,52,30.05,10,NE,8,0,Partly Cloudy,Day
+A-366438,2,12-11-2021,R,Baton Rouge,East Baton Rouge,LA,70816,52,52,100,30.07,1,E,7,0,Fog,Day
+A-489593,2,27-10-2021,R,Montgomery,Montgomery,AL,36117,75,75,34,29.59,10,SSE,6,0,Fair,Day
+A-756733,2,07-11-2021,R,Carmel,Monterey,CA,93923,61,61,54,29.94,10,NW,7,0,Fair,Day
+A-230120,4,09-09-2021,R,Victorville,San Bernardino,CA,92395,90,90,33,26.97,10,E,23,0,Fair / Windy,Day
+A-903027,2,09-12-2021,R,Libertyville,Lake,IL,60048,37,28,70,29.04,10,SSE,16,0,Mostly Cloudy,Day
+A-703227,2,02-11-2021,L,North Chicago,Lake,IL,60064,43,37,56,29.55,10,WNW,10,0,Fair,Day
+A-403688,2,21-11-2021,R,Baton Rouge,East Baton Rouge,LA,70816,64,64,96,30.13,7,E,7,0,Cloudy,Day
+A-641298,2,23-12-2021,R,Jacksonville,Jackson,OR,97530-9569,41,41,82,28.26,10,CALM,0,0.01,Light Rain,Night
+A-320356,2,18-09-2021,R,Hayes,Gloucester,VA,23072-2929,79,79,72,30.08,10,VAR,5,0,Mostly Cloudy,Day
+A-713604,2,22-10-2021,R,Saint Petersburg,Pinellas,FL,33713,78,78,74,30.05,10,ESE,8,0,Fair,Night
+A-381470,2,14-11-2021,R,Sacramento,Sacramento,CA,95821-6008,55,55,100,30.05,6,WNW,3,0,Cloudy,Day
+A-552746,2,11-06-2021,R,La Habra,Orange,CA,90631,81,81,34,29.76,10,S,7,0,Fair,Day
+A-991703,2,15-12-2021,R,Lafayette,Contra Costa,CA,94549,55,55,57,30.04,10,S,17,0,Mostly Cloudy,Day
+A-460955,2,15-06-2021,R,Osseo,Hennepin,MN,55369,76,76,43,29.18,10,ENE,6,0,Fair,Day
+A-619966,2,15-12-2021,R,Baldwin Park,Los Angeles,CA,91706,56,56,47,30.08,10,SSW,8,0,Fair,Day
+A-754565,2,31-07-2021,R,Artesia,Los Angeles,CA,90701,78,78,52,29.96,10,W,8,0,Fair,Day
+A-584250,2,26-07-2021,R,Port Trevorton,Snyder,PA,17864,74,74,87,29.44,10,CALM,0,0,Mostly Cloudy,Night
+A-704330,2,04-03-2021,R,Knoxville,Knox,TN,37917,51,51,41,29.04,10,N,9,0,Fair,Night
+A-458232,2,24-09-2021,R,Miami,Miami-Dade,FL,33178,77,77,100,29.92,10,CALM,0,0,Partly Cloudy,Day
+A-520047,2,17-04-2021,R,Manhasset,Nassau,NY,11030,54,54,43,29.74,10,NW,8,0,Mostly Cloudy,Day
+A-924592,2,15-09-2021,R,Whittier,Los Angeles,CA,90601,82,82,44,29.74,10,S,7,0,Fair,Day
+A-815044,2,17-12-2021,L,North Miami,Miami-Dade,FL,33181-3111,80,80,67,30.15,10,E,15,0,Mostly Cloudy,Day
+A-909722,2,27-04-2021,R,Cypress,Harris,TX,77433,79,79,78,29.72,8,SE,9,0,Mostly Cloudy,Day
+A-554637,2,12-09-2021,R,Baton Rouge,East Baton Rouge,LA,70805,74,74,97,30.08,10,E,6,0,Mostly Cloudy,Night
+A-775140,2,01-03-2021,R,Miami,Miami-Dade,FL,33161,73,73,81,30.06,10,SSE,8,0,Fair,Night
+A-888137,2,07-05-2021,L,South Salt Lake,Salt Lake,UT,84119-3325,69,69,20,25.61,10,S,9,0,Fair,Night
+A-473968,2,16-09-2021,R,Alpharetta,Fulton,GA,30009,72,72,91,28.99,10,CALM,0,0,Cloudy,Night
+A-959004,2,27-12-2021,R,Boron,Kern,CA,93516-1647,47,39,64,27.45,10,SSW,25,0,Fair / Windy,Day
+A-229491,2,16-05-2021,R,Temple Hills,Prince George's,MD,20748,72,72,36,29.95,10,SSW,7,0,Mostly Cloudy,Day
+A-375426,2,01-11-2021,R,Manakin Sabot,Goochland,VA,23103,65,65,48,29.96,10,N,5,0,Fair,Day
+A-238919,2,24-05-2021,R,Land O Lakes,Pasco,FL,34639,73,73,69,30.17,10,CALM,0,0,Fair,Day
+A-877148,2,21-05-2021,R,New Orleans,Orleans,LA,70118,77,77,84,30.16,4,E,18,0,Light Rain,Day
+A-300320,2,06-12-2021,R,Lanham,Prince George's,MD,20706-1305,67,67,52,29.62,10,SSW,7,0,Cloudy,Night
+A-917815,2,06-04-2021,R,Redlands,San Bernardino,CA,92374,57,57,72,28.72,10,W,5,0,Fair,Night
+A-425447,2,29-12-2021,L,Dallas,Dallas,TX,75231,67,67,54,29.26,10,CALM,0,0,Partly Cloudy,Night
+A-511867,2,14-03-2021,R,Dallas,Dallas,TX,75247,67,67,79,29.42,8,SSE,9,0.02,Light Rain,Night
+A-555075,2,02-11-2021,R,Midvale,Salt Lake,UT,84047,49,49,100,25.85,10,SE,3,0,Mostly Cloudy,Night
+A-773875,2,03-12-2021,R,Massapequa Park,Nassau,NY,11762,44,39,38,29.91,10,WNW,10,0,Fair,Night
+A-829390,2,07-08-2021,R,Miami,Miami-Dade,FL,33162,90,90,55,30.11,10,SE,12,0,Partly Cloudy,Day
+A-431957,2,12-12-2021,L,Los Angeles,Los Angeles,CA,90007-1852,55,55,72,29.81,10,CALM,0,0,Fair,Night
+A-727556,2,17-12-2021,L,Cutler Bay,Miami-Dade,FL,33157-7708,79,79,77,30.17,10,ESE,13,0,Fair,Day
+A-981898,2,13-04-2021,R,Hempstead,Nassau,NY,11550,45,41,90,29.95,10,NE,8,0.02,Light Rain,Night
+A-498950,2,26-12-2021,R,Cerritos,Los Angeles,CA,90703,54,54,90,29.85,10,SSW,8,0.04,Cloudy,Night
+A-731266,2,21-10-2021,R,Sarasota,Sarasota,FL,34239-6203,84,84,56,30.1,10,ESE,7,0,Partly Cloudy,Day
+A-438857,2,28-06-2021,L,Forestville,Sonoma,CA,95436-9464,63,63,72,29.6,10,SSE,8,0,Fair,Night
+A-405292,2,16-06-2021,R,Nashville,Davidson,TN,37208,85,85,36,29.37,10,N,10,0,Partly Cloudy,Day
+A-642305,2,20-11-2021,R,Darien,Fairfield,CT,6820,36,36,73,29.95,10,CALM,0,0,Fair,Night
+A-909292,2,15-12-2021,R,Dallas,Dallas,TX,75206,78,78,62,29.37,10,S,14,0,Mostly Cloudy,Day
+A-705895,2,01-09-2021,R,Birmingham,Jefferson,AL,35209,76,76,85,29.16,10,CALM,0,0,Partly Cloudy,Day
+A-897618,2,02-09-2021,R,Jacksonville,Duval,FL,32210,88,88,63,29.86,10,W,12,0,Mostly Cloudy,Day
+A-452510,2,02-11-2021,R,Jacksonville,Duval,FL,32207,78,78,56,30.08,10,N,7,0,Partly Cloudy,Day
+A-399667,2,25-10-2021,R,Waldorf,Charles,MD,20601-3155,72,72,59,29.6,10,SSW,14,0,Fair,Day
+A-790028,2,11-12-2021,R,Grass Valley,Nevada,CA,95949-9144,45,45,61,26.82,10,CALM,0,0,Fair,Day
+A-954140,2,09-03-2021,R,Sacramento,Sacramento,CA,95819,46,44,86,30.13,10,SE,5,0,Mostly Cloudy,Day
+A-744875,2,04-06-2021,R,Niagara,Grand Forks,ND,58266,78,78,48,28.67,10,WSW,8,0,Fair,Day
+A-669891,2,13-09-2021,R,Detroit,Wayne,MI,48223,64,64,93,29.27,10,NE,6,0,Cloudy,Night
+A-843082,2,18-09-2021,R,Riverside,Riverside,CA,92501,67,67,68,29.21,10,VAR,3,0,Fair,Day
+A-469448,2,15-10-2021,R,Summerfield,Marion,FL,34491-6307,79,79,69,29.87,10,ENE,6,0,Fair,Night
+A-885701,2,03-11-2021,L,Ocoee,Orange,FL,34761-6955,71,71,87,29.98,10,N,7,0,Fair,Night
+A-1028483,2,15-11-2021,R,Tampa,Hillsborough,FL,33610,70,70,49,30.16,10,NNE,3,0,Fair,Day
+A-694250,2,08-08-2021,R,Chattanooga,Hamilton,TN,37411-1213,83,83,60,29.39,10,CALM,0,0,Mostly Cloudy,Day
+A-513395,2,19-11-2021,R,Denair,Stanislaus,CA,95316,61,61,72,30.04,4,NE,3,0,Haze,Day
+A-233705,2,26-12-2021,R,Rochester,Thurston,WA,98579,32,25,100,29.22,0.5,SSE,8,0,Fog,Day
+A-651515,2,13-09-2021,R,Charleston,Charleston,SC,29406-9013,85,85,55,30.12,10,ESE,7,0,Mostly Cloudy,Day
+A-874173,2,05-10-2021,R,Glendale,Los Angeles,CA,91206,76,76,50,29.73,10,CALM,0,0,Fair,Day
+A-961107,2,13-10-2021,R,Dallas,Dallas,TX,75227-1604,75,75,94,29.36,10,SSE,13,0,Light Rain,Day
+A-685460,2,23-11-2021,R,Miami,Miami-Dade,FL,33150,68,68,50,30.04,10,NNW,20,0,Fair,Day
+A-439504,2,31-05-2021,R,Escondido,San Diego,CA,92029,62,62,75,29.59,10,SW,9,0,Mostly Cloudy,Day
+A-771570,2,04-12-2021,L,Fort Myers,Lee,FL,33966,78,78,48,30.12,10,E,5,0,Fair,Day
+A-269016,2,04-11-2021,R,Hermitage,Davidson,TN,37076-2641,49,45,41,29.61,10,N,8,0,Fair,Night
+A-625795,2,28-09-2021,R,Centreville,Fairfax County,VA,20121,56,56,97,29.72,10,CALM,0,0,Fair,Day
+A-458862,2,26-10-2021,R,Orlando,Orange,FL,32824-7801,76,76,91,29.8,10,WSW,8,0,Partly Cloudy,Day
+A-56806,3,22-11-2016,R,Port Crane,Broome,NY,13833,27,16.7,81,30.17,6,NW,11.5,0,Overcast,Day
+A-533241,2,05-07-2021,R,Centreville,Fairfax County,VA,20120,88,88,48,29.7,10,SSW,7,0,Mostly Cloudy,Day
+A-163689,2,14-02-2017,R,Porter Ranch,Los Angeles,CA,91326,71,71,51,29.14,10,SE,9,0,Fair,Day
+A-972079,2,10-12-2021,L,Winchester,Frederick,VA,22603-4818,50,50,50,29.25,10,CALM,0,0,Mostly Cloudy,Day
+A-611511,2,21-07-2021,R,Forestville,Sonoma,CA,95436-9533,70,70,51,29.67,9,S,9,0,Fair,Day
+A-280262,2,12-11-2021,R,Oreland,Montgomery,PA,19075,40,40,97,29.64,10,CALM,0,0,Fair,Night
+A-824361,2,18-07-2021,R,Overton,Clark,NV,89040,93,93,36,27.98,10,SSW,12,0,Thunder,Day
+A-502058,2,06-05-2021,R,New Rochelle,Westchester,NY,10804,51,51,63,29.45,10,NW,15,0,Fair,Day
+A-663661,2,23-03-2021,R,Los Angeles,Los Angeles,CA,90001-1019,66,66,34,29.67,10,VAR,6,0,Fair,Day
+A-605499,2,05-08-2021,L,Dallas,Dallas,TX,75231-8011,81,81,62,29.58,7,S,6,0,Partly Cloudy,Day
+A-744646,2,07-04-2021,R,Kissimmee,Osceola,FL,34741-4049,60,60,93,30,10,CALM,0,0,Fair,Night
+A-384869,2,07-12-2021,R,Osseo,Hennepin,MN,55369,12,2,80,29.14,1,ESE,7,0,Light Snow,Day
+A-768487,2,23-12-2021,R,Pueblo,Pueblo,CO,81005-2551,62,62,20,24.97,10,SE,7,0,Fair,Day
+A-559138,2,21-11-2021,R,Aurora,Arapahoe,CO,80012,49,44,30,24.64,10,S,10,0,Fair,Day
+A-244332,2,19-10-2021,L,Los Angeles,Los Angeles,CA,90001-4112,63,63,65,29.77,10,W,5,0,Fair,Day
+A-267490,2,08-04-2021,R,Hampton,Hampton,VA,23661,61,61,83,30.04,10,ESE,15,0,Fair,Day
+A-917029,2,15-05-2021,R,Jacksonville,Duval,FL,32254,65,65,70,30.18,10,ENE,5,0,Fair,Night
+A-582969,2,04-11-2021,L,Nashville,Davidson,TN,37207,40,40,65,29.68,10,VAR,3,0,Fair,Day
+A-756138,2,01-12-2021,R,Anaheim,Orange,CA,92807,62,62,78,29.94,4,VAR,3,0,Haze,Night
+A-736029,2,20-05-2021,R,Hamtramck,Wayne,MI,48212,84,84,38,29.65,10,SSW,7,0,Fair,Day
+A-471105,4,26-07-2021,R,Schuyler,Albemarle,VA,22969-1803,77,77,84,29.29,9,W,3,0.02,Mostly Cloudy,Night
+A-1036404,2,17-11-2021,R,Miami,Miami-Dade,FL,33186,76,76,82,30.13,10,E,9,0,Cloudy,Night
+A-324367,2,27-06-2021,R,Dallas,Dallas,TX,75211,79,79,74,29.19,10,ESE,6,0,Fair,Night
+A-927560,2,01-12-2021,L,Carmel,Monterey,CA,93923,63,63,41,29.81,10,ESE,5,0,Fair,Night
+A-833198,2,26-06-2021,R,Lakeland,Washington,MN,55043,72,72,83,28.76,10,NE,7,0,Cloudy,Day
+A-469341,2,07-09-2021,R,Comptche,Mendocino,CA,95427,76,76,33,29.26,10,SSE,3,0,Fair,Night
+A-275853,2,16-11-2021,R,Ballston Spa,Saratoga,NY,12020-3112,34,30,87,29.64,15,W,5,0,Fair,Night
+A-654567,4,17-09-2021,R,Avon,Livingston,NY,14414,58,58,97,29.62,10,CALM,0,0,Partly Cloudy,Night
+A-476267,2,05-11-2021,R,Upland,San Bernardino,CA,91786,61,61,56,28.95,10,CALM,0,0,Fair,Day
+A-526817,2,11-06-2021,L,Gardena,Los Angeles,CA,90247-2639,74,74,46,29.85,10,W,13,0,Fair,Day
+A-966036,2,22-10-2021,L,Zephyrhills,Pasco,FL,33541,79,79,78,29.93,10,CALM,0,0,Fair,Day
+A-713321,2,12-06-2021,R,Charlotte,Mecklenburg,NC,28213,82,82,66,29.08,10,N,10,0,Partly Cloudy,Day
+A-282745,2,25-12-2021,L,Los Angeles,Los Angeles,CA,90017-2416,53,53,89,29.85,4,CALM,0,0,Cloudy,Day
+A-250258,2,29-10-2021,R,Sacramento,Sacramento,CA,95821-6635,52,52,100,29.89,7,CALM,0,0,Fair,Day
+A-665579,2,14-09-2021,R,Houston,Harris,TX,77096-3102,72,72,84,29.75,2,E,32,0.08,Heavy Rain / Windy,Night
+A-968926,2,26-08-2021,L,Victoria,Carver,MN,55386-4527,63,63,90,29.1,9,ENE,17,0.76,T-Storm,Day
+A-761419,2,17-12-2021,R,Springfield,Greene,MO,65804,50,50,100,28.54,10,SSE,13,0.02,Cloudy,Day
+A-817585,2,08-09-2021,R,Charlotte,Mecklenburg,NC,28277,73,73,93,29.22,7,SW,7,0,Cloudy,Day
+A-693137,2,13-11-2021,R,Saint Paul,Ramsey,MN,55101,33,28,89,28.9,1,S,6,0,Light Snow,Night
+A-157483,3,15-03-2017,R,Fort Lee,Bergen,NJ,7024,26.1,11.3,49,29.58,7,West,23,0,Light Snow,Day
+A-881436,2,29-11-2021,L,New Cuyama,Santa Barbara,CA,93254,82,82,9,29.3,10,W,7,0,Fair,Day
+A-845118,2,07-11-2021,R,Bothell,King,WA,98011,41,33,89,29.34,10,S,16,0,Mostly Cloudy,Night
+A-697786,2,28-09-2021,R,Whites Creek,Davidson,TN,37189,69,69,81,29.36,10,S,3,0,Fair,Night
+A-440854,2,22-12-2021,R,Springfield,Greene,MO,65807-2645,51,51,33,28.66,10,S,13,0,Fair,Day
+A-957800,2,30-04-2021,R,Coraopolis,Allegheny,PA,15108-4005,57,57,40,28.58,10,WNW,22,0,Mostly Cloudy / Windy,Day
+A-689741,2,14-12-2021,R,Minneapolis,Hennepin,MN,55404,39,31,70,29.08,10,SE,14,0,Cloudy,Night
+A-445797,2,19-11-2021,L,Nashville,Davidson,TN,37210-2110,45,45,39,29.77,10,CALM,0,0,Fair,Night
+A-1042391,2,31-12-2021,R,Charlotte,Mecklenburg,NC,28205-6538,67,67,79,29.15,10,SSW,12,0,Cloudy,Night
+A-578916,2,08-11-2021,L,Fort Washington,Prince George's,MD,20744,56,56,64,30.19,10,SSE,3,0,Fair,Night
+A-703075,2,19-10-2021,R,Visalia,Tulare,CA,93292,67,67,36,29.69,10,CALM,0,0,Fair,Day
+A-1044288,2,23-12-2021,R,San Bruno,San Mateo,CA,94066,56,56,84,29.74,4,WSW,8,0.16,Light Rain,Day
+A-1035169,2,20-03-2021,L,Fallbrook,San Diego,CA,92028-2302,57,57,67,30,10,S,5,0,Fair,Night
+A-686995,2,13-12-2021,R,Kansas City,Clay,MO,64116,54,54,43,29.28,10,E,5,0,Fair,Night
+A-735874,2,17-07-2021,R,Redlands,San Bernardino,CA,92374,79,79,41,28.76,10,W,5,0,Fair,Night
+A-913461,2,06-10-2021,R,Brooksville,Hernando,FL,34613-5771,78,78,90,29.97,10,ESE,12,0,Fair,Day
+A-947528,2,27-11-2021,R,Kissimmee,Osceola,FL,34746-5332,70,70,31,29.98,10,N,5,0,Fair,Day
+A-659368,2,28-12-2021,L,Royalton,Benton,MN,56373,-2,-2,85,28.62,10,SSW,3,0,Cloudy,Night
+A-358995,4,01-12-2021,R,Columbus,Muscogee,GA,31909,67,67,33,29.69,10,S,10,0,Fair,Day
+A-299319,2,11-04-2021,R,Lost Hills,Kern,CA,93249,77,77,26,29.26,9,NW,9,0,Fair,Day
+A-391738,2,27-07-2021,L,Whitethorn,Humboldt,CA,95589-8993,57,57,100,29.62,5,CALM,0,0,Cloudy,Day
+A-787669,2,30-03-2021,R,Shreveport,Caddo,LA,71101-3906,69,69,90,29.73,9,SSE,8,0,Cloudy,Day
+A-674431,2,28-07-2021,R,Brentwood,Davidson,TN,37027,95,95,41,29.39,10,NNE,5,0,Fair,Day
+A-373435,2,08-11-2021,R,Ontario,San Bernardino,CA,91761,61,61,67,29.08,10,SSW,3,0,Fair,Night
+A-968656,2,22-05-2021,R,Summerville,Dorchester,SC,29485-5308,63,63,100,30.32,10,CALM,0,0,Fair,Night
+A-916505,2,10-11-2021,L,Charlotte,Mecklenburg,NC,28277,58,58,60,29.41,10,S,3,0,Fair,Night
+A-394893,2,12-03-2021,R,Memphis,Shelby,TN,38128,73,73,65,29.95,10,WNW,8,0,Partly Cloudy,Day
